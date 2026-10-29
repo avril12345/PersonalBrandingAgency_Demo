@@ -1,0 +1,340 @@
+{
+  "entries": [
+    {
+      "id": "A-042",
+      "client_id": "LOUD-009",
+      "date": "2026-10-27",
+      "type": "Note",
+      "author": "T1",
+      "summary": "Very low baseline. First 30 days: profile overhaul, 2 posts/week, comment on 5 industry posts/day."
+    },
+    {
+      "id": "A-034",
+      "client_id": "LOUD-009",
+      "date": "2026-10-26",
+      "type": "Email",
+      "author": "T1",
+      "summary": "Shared voice & tone guide and first 4 draft posts for review."
+    },
+    {
+      "id": "A-004",
+      "client_id": "LOUD-001",
+      "date": "2026-10-25",
+      "type": "Call",
+      "author": "T1",
+      "summary": "Reviewed comments strategy; client will reply to top comments within 2 hours of posting."
+    },
+    {
+      "id": "A-038",
+      "client_id": "LOUD-010",
+      "date": "2026-10-25",
+      "type": "Call",
+      "author": "T2",
+      "summary": "Weekly content sync; approved next batch of drafts with minor edits."
+    },
+    {
+      "id": "A-041",
+      "client_id": "LOUD-007",
+      "date": "2026-10-25",
+      "type": "Note",
+      "author": "T2",
+      "summary": "Fastest-growing client. Exploring an upgrade to Amplify to add a design newsletter."
+    },
+    {
+      "id": "A-008",
+      "client_id": "LOUD-002",
+      "date": "2026-10-24",
+      "type": "Call",
+      "author": "T1",
+      "summary": "Reviewed comments strategy; client will reply to top comments within 2 hours of posting."
+    },
+    {
+      "id": "A-031",
+      "client_id": "LOUD-008",
+      "date": "2026-10-24",
+      "type": "Call",
+      "author": "T1",
+      "summary": "Reviewed comments strategy; client will reply to top comments within 2 hours of posting."
+    },
+    {
+      "id": "A-040",
+      "client_id": "LOUD-005",
+      "date": "2026-10-24",
+      "type": "Note",
+      "author": "T2",
+      "summary": "Posting cadence slipped (2/mo vs. 8 planned) because of board season. Client agreed to a batch-approval call every other Friday."
+    },
+    {
+      "id": "A-033",
+      "client_id": "LOUD-009",
+      "date": "2026-10-23",
+      "type": "Task",
+      "author": "T1",
+      "summary": "Profile audit complete; headline, banner and About section rewrite sent for approval."
+    },
+    {
+      "id": "A-019",
+      "client_id": "LOUD-005",
+      "date": "2026-10-22",
+      "type": "Call",
+      "author": "T2",
+      "summary": "Aligned on Q1 goals ahead of the quarterly strategy session."
+    },
+    {
+      "id": "A-039",
+      "client_id": "LOUD-002",
+      "date": "2026-10-22",
+      "type": "Note",
+      "author": "T1",
+      "summary": "Engagement is flat despite the large audience. Plan: shift from announcement posts to personal CEO stories; test 2 video posts in November."
+    },
+    {
+      "id": "A-027",
+      "client_id": "LOUD-007",
+      "date": "2026-10-21",
+      "type": "Call",
+      "author": "T2",
+      "summary": "Reviewed comments strategy; client will reply to top comments within 2 hours of posting."
+    },
+    {
+      "id": "A-023",
+      "client_id": "LOUD-006",
+      "date": "2026-10-20",
+      "type": "Call",
+      "author": "T1",
+      "summary": "Aligned on Q1 goals ahead of the quarterly strategy session."
+    },
+    {
+      "id": "A-032",
+      "client_id": "LOUD-009",
+      "date": "2026-10-20",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Lessons from military logistics; Automation without layoffs; Supply chain resilience. Primary goal: build a linkedin presence from near zero."
+    },
+    {
+      "id": "A-012",
+      "client_id": "LOUD-003",
+      "date": "2026-10-19",
+      "type": "Call",
+      "author": "T2",
+      "summary": "Discussed upcoming speaking prep; client wants talking points one week ahead."
+    },
+    {
+      "id": "A-026",
+      "client_id": "LOUD-007",
+      "date": "2026-10-16",
+      "type": "Email",
+      "author": "T2",
+      "summary": "Sent October analytics report. Top post theme: \"AI and the end of the screen\"."
+    },
+    {
+      "id": "A-022",
+      "client_id": "LOUD-006",
+      "date": "2026-10-15",
+      "type": "Email",
+      "author": "T1",
+      "summary": "Sent October analytics report. Top post theme: \"Responsible AI in finance\"."
+    },
+    {
+      "id": "A-003",
+      "client_id": "LOUD-001",
+      "date": "2026-10-12",
+      "type": "Email",
+      "author": "T1",
+      "summary": "Sent October analytics report. Top post theme: \"Leading diverse marketing teams\"."
+    },
+    {
+      "id": "A-007",
+      "client_id": "LOUD-002",
+      "date": "2026-10-12",
+      "type": "Email",
+      "author": "T1",
+      "summary": "Sent October analytics report. Top post theme: \"CEO lessons from scaling DTC\"."
+    },
+    {
+      "id": "A-015",
+      "client_id": "LOUD-004",
+      "date": "2026-10-12",
+      "type": "Email",
+      "author": "T2",
+      "summary": "Shared voice & tone guide and first 4 draft posts for review."
+    },
+    {
+      "id": "A-037",
+      "client_id": "LOUD-010",
+      "date": "2026-10-12",
+      "type": "Email",
+      "author": "T2",
+      "summary": "Sent October analytics report. Top post theme: \"Telling the energy transition story\"."
+    },
+    {
+      "id": "A-011",
+      "client_id": "LOUD-003",
+      "date": "2026-10-11",
+      "type": "Email",
+      "author": "T2",
+      "summary": "Sent October analytics report. Top post theme: \"Insight-to-innovation pipelines\"."
+    },
+    {
+      "id": "A-018",
+      "client_id": "LOUD-005",
+      "date": "2026-10-11",
+      "type": "Email",
+      "author": "T2",
+      "summary": "Sent October analytics report. Top post theme: \"The modern strategic CFO\"."
+    },
+    {
+      "id": "A-030",
+      "client_id": "LOUD-008",
+      "date": "2026-10-11",
+      "type": "Email",
+      "author": "T1",
+      "summary": "Sent October analytics report. Top post theme: \"Leading people through change\"."
+    },
+    {
+      "id": "A-014",
+      "client_id": "LOUD-004",
+      "date": "2026-10-09",
+      "type": "Task",
+      "author": "T2",
+      "summary": "Profile audit complete; headline, banner and About section rewrite sent for approval."
+    },
+    {
+      "id": "A-013",
+      "client_id": "LOUD-004",
+      "date": "2026-10-06",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Plastic reduction that actually works; Making sustainability profitable; Behind the scenes of ESG data. Primary goal: become the go-to cpg voice on packaging circularity."
+    },
+    {
+      "id": "A-002",
+      "client_id": "LOUD-001",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Monthly review. Followers 16,676 → 18,400 since May; engagement 2.6% → 3.1%."
+    },
+    {
+      "id": "A-006",
+      "client_id": "LOUD-002",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Monthly review. Followers 38,933 → 41,200 since May; engagement 1.3% → 1.8%."
+    },
+    {
+      "id": "A-010",
+      "client_id": "LOUD-003",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Monthly review. Followers 8,104 → 9,750 since May; engagement 4.1% → 4.6%."
+    },
+    {
+      "id": "A-017",
+      "client_id": "LOUD-005",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Monthly review. Followers 12,394 → 12,900 since May; engagement 0.7% → 1.2%."
+    },
+    {
+      "id": "A-021",
+      "client_id": "LOUD-006",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Monthly review. Followers 25,517 → 27,800 since May; engagement 1.7% → 2%."
+    },
+    {
+      "id": "A-025",
+      "client_id": "LOUD-007",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Monthly review. Followers 3,235 → 4,100 since May; engagement 5% → 5.3%."
+    },
+    {
+      "id": "A-029",
+      "client_id": "LOUD-008",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Monthly review. Followers 14,569 → 15,600 since May; engagement 2.2% → 2.7%."
+    },
+    {
+      "id": "A-036",
+      "client_id": "LOUD-010",
+      "date": "2026-09-29",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Monthly review. Followers 18,959 → 21,300 since May; engagement 3.5% → 3.8%."
+    },
+    {
+      "id": "A-024",
+      "client_id": "LOUD-007",
+      "date": "2026-07-01",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Designing the car of the future; Design leadership for new directors; AI and the end of the screen. Primary goal: grow from niche design audience to broader tech audience."
+    },
+    {
+      "id": "A-016",
+      "client_id": "LOUD-005",
+      "date": "2026-05-12",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Kickoff and brand discovery. Agreed pillars: The modern strategic CFO; Healthtech economics explained; Latina leadership in finance. Primary goal: build credibility ahead of a series d."
+    },
+    {
+      "id": "A-009",
+      "client_id": "LOUD-003",
+      "date": "2026-02-01",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Insight-to-innovation pipelines; Functional beverage trends; Growing into the C-suite. Primary goal: establish authority in a new c-suite role."
+    },
+    {
+      "id": "A-001",
+      "client_id": "LOUD-001",
+      "date": "2025-09-15",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Reinventing heritage brands; Leading diverse marketing teams; The future of the grocery aisle. Primary goal: be recognized as a top-10 cpg cmo voice."
+    },
+    {
+      "id": "A-020",
+      "client_id": "LOUD-006",
+      "date": "2025-06-02",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Responsible AI in finance; Modernizing legacy tech without breaking the bank; Building inclusive engineering teams. Primary goal: be a recognized voice on responsible ai in banking."
+    },
+    {
+      "id": "A-005",
+      "client_id": "LOUD-002",
+      "date": "2025-03-01",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Building a clean beauty category leader; CEO lessons from scaling DTC; Founder-led vs. operator-led culture. Primary goal: position for a potential ipo narrative."
+    },
+    {
+      "id": "A-035",
+      "client_id": "LOUD-010",
+      "date": "2025-01-13",
+      "type": "Meeting",
+      "author": "T2",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Telling the energy transition story; Crisis comms playbooks; From newsroom to boardroom. Primary goal: be a top voice on clean energy communications."
+    },
+    {
+      "id": "A-028",
+      "client_id": "LOUD-008",
+      "date": "2024-11-04",
+      "type": "Meeting",
+      "author": "T1",
+      "summary": "Kickoff and brand discovery. Agreed pillars: Culture is built on the front line; The future of hospitality work; Leading people through change. Primary goal: publish a book on frontline culture."
+    }
+  ]
+}

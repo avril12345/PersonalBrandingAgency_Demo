@@ -1,0 +1,384 @@
+{
+  "items": [
+    {
+      "id": "V-001",
+      "client_id": "LOUD-005",
+      "type": "Speaking",
+      "name": "Latinas in Finance Summit",
+      "date": "2026-08-21",
+      "status": "Completed",
+      "note": "Mentorship panel; 140 new followers that week.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-002",
+      "client_id": "LOUD-006",
+      "type": "Speaking",
+      "name": "University Tech Leadership Series",
+      "date": "2026-09-17",
+      "status": "Declined",
+      "note": "Scheduling conflict.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-003",
+      "client_id": "LOUD-002",
+      "type": "Podcast",
+      "name": "Founders & Operators",
+      "date": "2026-09-22",
+      "status": "Completed",
+      "note": "Top-10 episode of the month for the show.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-004",
+      "client_id": "LOUD-010",
+      "type": "Podcast",
+      "name": "Power Lines",
+      "date": "2026-09-30",
+      "status": "Completed",
+      "note": "",
+      "owner": "T2"
+    },
+    {
+      "id": "V-005",
+      "client_id": "LOUD-006",
+      "type": "Podcast",
+      "name": "Code & Capital",
+      "date": "2026-10-01",
+      "status": "Completed",
+      "note": "",
+      "owner": "T1"
+    },
+    {
+      "id": "V-006",
+      "client_id": "LOUD-008",
+      "type": "Media",
+      "name": "Workforce Today — Profile",
+      "date": "2026-10-07",
+      "status": "Completed",
+      "note": "",
+      "owner": "T1"
+    },
+    {
+      "id": "V-007",
+      "client_id": "LOUD-003",
+      "type": "Podcast",
+      "name": "Sip & Scale",
+      "date": "2026-10-09",
+      "status": "Completed",
+      "note": "Functional beverage trends episode.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-008",
+      "client_id": "LOUD-001",
+      "type": "Media",
+      "name": "Grocery Trade Weekly — CMO roundtable",
+      "date": "2026-10-14",
+      "status": "Completed",
+      "note": "Quoted on Gen Z snacking; 3 pickups.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-009",
+      "client_id": "LOUD-010",
+      "type": "Media",
+      "name": "National Energy Desk — Op-ed",
+      "date": "2026-10-16",
+      "status": "Completed",
+      "note": "Op-ed on transition storytelling; syndicated 4x.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-010",
+      "client_id": "LOUD-006",
+      "type": "Media",
+      "name": "Banking Technology Review — Op-ed",
+      "date": "2026-10-21",
+      "status": "Completed",
+      "note": "Op-ed on AI governance; strong engagement.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-011",
+      "client_id": "LOUD-002",
+      "type": "Media",
+      "name": "Clean Label Report — Op-ed",
+      "date": "2026-11-04",
+      "status": "Pitched",
+      "note": "Op-ed on clean beauty standards.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-012",
+      "client_id": "LOUD-006",
+      "type": "Speaking",
+      "name": "FinTech Builders Conference — Keynote",
+      "date": "2026-11-05",
+      "status": "Confirmed",
+      "note": "Responsible AI in banking.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-013",
+      "client_id": "LOUD-010",
+      "type": "Podcast",
+      "name": "Crisis Ready",
+      "date": "2026-11-06",
+      "status": "Confirmed",
+      "note": "",
+      "owner": "T2"
+    },
+    {
+      "id": "V-014",
+      "client_id": "LOUD-003",
+      "type": "Media",
+      "name": "Beverage Industry Insider — Trend quote",
+      "date": "2026-11-08",
+      "status": "In discussion",
+      "note": "Year-end trends feature.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-015",
+      "client_id": "LOUD-008",
+      "type": "Speaking",
+      "name": "Hospitality People Summit — Keynote",
+      "date": "2026-11-10",
+      "status": "Confirmed",
+      "note": "Frontline culture keynote.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-016",
+      "client_id": "LOUD-001",
+      "type": "Podcast",
+      "name": "The Shelf Life Podcast",
+      "date": "2026-11-12",
+      "status": "Confirmed",
+      "note": "Episode on reviving heritage snack brands.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-017",
+      "client_id": "LOUD-005",
+      "type": "Podcast",
+      "name": "The Strategic CFO Show",
+      "date": "2026-11-14",
+      "status": "Confirmed",
+      "note": "Healthtech unit economics.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-018",
+      "client_id": "LOUD-002",
+      "type": "Speaking",
+      "name": "Beauty Operators Forum — Fireside chat",
+      "date": "2026-11-18",
+      "status": "Confirmed",
+      "note": "Fireside on DTC-to-retail scaling.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-019",
+      "client_id": "LOUD-010",
+      "type": "Speaking",
+      "name": "Clean Energy Communicators Summit — Keynote",
+      "date": "2026-11-19",
+      "status": "Confirmed",
+      "note": "",
+      "owner": "T2"
+    },
+    {
+      "id": "V-020",
+      "client_id": "LOUD-004",
+      "type": "Media",
+      "name": "Packaging Futures Journal — Interview",
+      "date": "2026-11-20",
+      "status": "Pitched",
+      "note": "Refill/reuse pilot results.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-021",
+      "client_id": "LOUD-007",
+      "type": "Podcast",
+      "name": "Design Leadership Diaries",
+      "date": "2026-11-25",
+      "status": "Confirmed",
+      "note": "",
+      "owner": "T2"
+    },
+    {
+      "id": "V-022",
+      "client_id": "LOUD-009",
+      "type": "Media",
+      "name": "Logistics Leader Weekly — Q&A",
+      "date": "2026-11-28",
+      "status": "Pitched",
+      "note": "Veteran hiring angle.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-023",
+      "client_id": "LOUD-008",
+      "type": "Media",
+      "name": "Book proposal — Literary agent meetings",
+      "date": "2026-11-30",
+      "status": "In discussion",
+      "note": "Two agents interested; sample chapter in progress.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-024",
+      "client_id": "LOUD-001",
+      "type": "Award",
+      "name": "Marketing Leaders 50",
+      "date": "2026-12-01",
+      "status": "Pitched",
+      "note": "Nomination submitted Oct 20.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-025",
+      "client_id": "LOUD-007",
+      "type": "Media",
+      "name": "Motion & Mobility Magazine — Feature",
+      "date": "2026-12-01",
+      "status": "In discussion",
+      "note": "Feature on in-vehicle UX.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-026",
+      "client_id": "LOUD-003",
+      "type": "Speaking",
+      "name": "Women in Growth Leadership Breakfast",
+      "date": "2026-12-03",
+      "status": "Pitched",
+      "note": "",
+      "owner": "T2"
+    },
+    {
+      "id": "V-027",
+      "client_id": "LOUD-002",
+      "type": "Media",
+      "name": "The Business Ledger — CEO profile",
+      "date": "2026-12-05",
+      "status": "In discussion",
+      "note": "Reporter interviewing in November; IPO talk off-limits.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-028",
+      "client_id": "LOUD-008",
+      "type": "Podcast",
+      "name": "The Front Desk",
+      "date": "2026-12-08",
+      "status": "Confirmed",
+      "note": "",
+      "owner": "T1"
+    },
+    {
+      "id": "V-029",
+      "client_id": "LOUD-005",
+      "type": "Media",
+      "name": "Health Finance Daily — Guest column",
+      "date": "2026-12-10",
+      "status": "Pitched",
+      "note": "",
+      "owner": "T2"
+    },
+    {
+      "id": "V-030",
+      "client_id": "LOUD-009",
+      "type": "Podcast",
+      "name": "Supply Chain Uncut",
+      "date": "2026-12-12",
+      "status": "Pitched",
+      "note": "First pitch: military logistics lessons.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-031",
+      "client_id": "LOUD-006",
+      "type": "Award",
+      "name": "Tech Leaders Honor Roll",
+      "date": "2026-12-15",
+      "status": "In discussion",
+      "note": "Finalist notification expected early Dec.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-032",
+      "client_id": "LOUD-010",
+      "type": "Award",
+      "name": "Communicator of the Year — Energy",
+      "date": "2027-01-15",
+      "status": "In discussion",
+      "note": "Shortlisted.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-033",
+      "client_id": "LOUD-002",
+      "type": "Award",
+      "name": "Retail Visionary of the Year",
+      "date": "2027-01-20",
+      "status": "Pitched",
+      "note": "Application in progress.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-034",
+      "client_id": "LOUD-003",
+      "type": "Speaking",
+      "name": "Beverage Innovation Expo — Panel",
+      "date": "2027-02-04",
+      "status": "Confirmed",
+      "note": "Panel: data-driven innovation.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-035",
+      "client_id": "LOUD-008",
+      "type": "Award",
+      "name": "Chief People Officer Awards",
+      "date": "2027-02-28",
+      "status": "Pitched",
+      "note": "",
+      "owner": "T1"
+    },
+    {
+      "id": "V-036",
+      "client_id": "LOUD-001",
+      "type": "Speaking",
+      "name": "Brand Forward Summit — Keynote",
+      "date": "2027-03-10",
+      "status": "In discussion",
+      "note": "Shortlisted for main-stage keynote; deck due Dec 15.",
+      "owner": "T1"
+    },
+    {
+      "id": "V-037",
+      "client_id": "LOUD-004",
+      "type": "Speaking",
+      "name": "Circular Economy Forum — Panel",
+      "date": "2027-04-15",
+      "status": "Pitched",
+      "note": "First pitch since onboarding.",
+      "owner": "T2"
+    },
+    {
+      "id": "V-038",
+      "client_id": "LOUD-007",
+      "type": "Speaking",
+      "name": "Interface Design Conference — Talk",
+      "date": "2027-05-12",
+      "status": "Pitched",
+      "note": "Talk: 'AI and the end of the screen'.",
+      "owner": "T2"
+    }
+  ]
+}

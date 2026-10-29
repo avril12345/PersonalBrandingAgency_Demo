@@ -1,0 +1,30 @@
+{
+  "team": [
+    {
+      "id": "T1",
+      "name": "Maya Thompson",
+      "role": "Account Director & Brand Strategist",
+      "email": "maya@loud.example",
+      "focus": "Client strategy, quarterly reviews, speaking and podcast placements"
+    },
+    {
+      "id": "T2",
+      "name": "Leo Brennan",
+      "role": "Content & PR Lead",
+      "email": "leo@loud.example",
+      "focus": "Ghostwriting, content calendar, media pitching, analytics reporting"
+    }
+  ],
+  "assignments": {
+    "LOUD-001": "T1",
+    "LOUD-002": "T1",
+    "LOUD-003": "T2",
+    "LOUD-004": "T2",
+    "LOUD-005": "T2",
+    "LOUD-006": "T1",
+    "LOUD-007": "T2",
+    "LOUD-008": "T1",
+    "LOUD-009": "T1",
+    "LOUD-010": "T2"
+  }
+}

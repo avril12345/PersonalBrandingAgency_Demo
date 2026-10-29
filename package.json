@@ -1,0 +1,12 @@
+{
+  "name": "loud-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LOUD personal branding agency — demo client database and CRM",
+  "scripts": {
+    "seed": "node scripts/seed-demo-data.js",
+    "profiles": "node scripts/build-profiles.js",
+    "build": "node scripts/build-crm-data.js",
+    "all": "npm run seed && npm run profiles && npm run build"
+  }
+}
