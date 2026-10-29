@@ -388,7 +388,7 @@
       "type": "client",
       "id": "LOUD-002"
     },
-    "read": false
+    "read": true
   },
   {
     "id": "EM-018",
@@ -411,7 +411,7 @@
       "type": "client",
       "id": "LOUD-008"
     },
-    "read": false
+    "read": true
   },
   {
     "id": "EM-019",
@@ -431,7 +431,7 @@
     "date": "2026-10-26T09:00:00",
     "body": "Hi Heloise,\n\nThe Jul–Sep VAT return is due 7 November. Could you check every September invoice is marked sent and all receipts are uploaded by Monday? I'll file from the Finance tab.\n\nThanks,\nAvril",
     "related": null,
-    "read": false
+    "read": true
   },
   {
     "id": "EM-020",
