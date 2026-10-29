@@ -1,0 +1,14 @@
+{
+  "_about": "Meeting requests the agent found in Gmail and the CRM activity log. The agent rewrites this each morning; the planner proposes a slot for each open one. window = the hours the client asked for (blank means working hours).",
+  "as_of": "2026-10-29",
+  "requests": [
+    { "id": "RQ-1", "client_id": "LOUD-007", "owner": "T2", "attendees": ["T2"], "title": "Call with Rachel Kim: Amplify upgrade & newsletter costs", "minutes": 30, "from": "2026-10-29", "by": "2026-11-04", "window": null, "source": "Email from Rachel Kim, 25 Oct: \"What would the upgrade look like cost-wise?\"" },
+    { "id": "RQ-2", "client_id": "LOUD-009", "owner": "T1", "attendees": ["T1"], "title": "Intro call with David Chen: questionnaire debrief", "minutes": 30, "from": "2026-10-29", "by": "2026-11-06", "window": { "start": "07:00", "end": "08:00" }, "source": "Email from David Chen, 23 Oct: \"Mornings before 8 are best for calls.\"" },
+    { "id": "RQ-3", "client_id": "LOUD-002", "owner": "T1", "attendees": ["T1"], "title": "Call with Marcus Lindqvist: plan photoshoot + two video posts", "minutes": 45, "from": "2026-10-29", "by": "2026-11-04", "window": null, "source": "Email from Marcus Lindqvist, 27 Oct: \"Can we shoot them the same day as the photoshoot?\"" },
+    { "id": "RQ-4", "client_id": "LOUD-010", "owner": "T2", "attendees": ["T2"], "title": "Call with Aisha Bello: newsletter growth", "minutes": 30, "from": "2026-11-02", "by": "2026-11-06", "window": null, "source": "Email from Aisha Bello, 20 Oct: \"Let's talk newsletter growth next week.\"" }
+  ],
+  "tasks": [
+    { "owner": "T1", "client_id": "LOUD-008", "text": "Send Elena the keynote slide notes (she wants them the day before the 4 Nov run-through)", "due": "2026-11-03", "source": "Email from Elena's office, 26 Oct" },
+    { "owner": "T1", "client_id": null, "text": "Check every September invoice is marked sent and receipts are uploaded for the Q3 VAT return", "due": "2026-11-02", "source": "Email from Avril, 26 Oct" }
+  ]
+}

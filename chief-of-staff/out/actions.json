@@ -1,0 +1,182 @@
+[
+ {
+  "id": "A01",
+  "owner": "Heloise",
+  "kind": "alert",
+  "severity": "red",
+  "text": "Marcus Lindqvist is at risk",
+  "detail": "Behind on growth and engagement. Agree a recovery plan this week.",
+  "client": "Marcus Lindqvist",
+  "due": null
+ },
+ {
+  "id": "A02",
+  "owner": "Lottie",
+  "kind": "alert",
+  "severity": "red",
+  "text": "Sofia Marquez is at risk",
+  "detail": "Behind on growth and engagement. Agree a recovery plan this week.",
+  "client": "Sofia Marquez",
+  "due": null
+ },
+ {
+  "id": "A03",
+  "owner": "Lottie",
+  "kind": "alert",
+  "severity": "red",
+  "text": "Invoice 29 days overdue",
+  "detail": "INV-1032 · Sofia Marquez · £4,200.00",
+  "client": "Sofia Marquez",
+  "due": "2026-09-30"
+ },
+ {
+  "id": "A04",
+  "owner": "Heloise",
+  "kind": "content",
+  "severity": "red",
+  "text": "Chase client approval: 1 post",
+  "detail": "Marcus Lindqvist (was due 28 Oct)",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A05",
+  "owner": "Heloise",
+  "kind": "alert",
+  "severity": "orange",
+  "text": "Elena Vasquez-Hart renews in 6 days",
+  "detail": "Renewal 4 Nov. Prepare a results report.",
+  "client": "Elena Vasquez-Hart",
+  "due": "2026-11-04"
+ },
+ {
+  "id": "A06",
+  "owner": "Heloise",
+  "kind": "alert",
+  "severity": "orange",
+  "text": "Invoice due 30 Oct",
+  "detail": "INV-1038 · Marcus Lindqvist · £14,400.00",
+  "client": "Marcus Lindqvist",
+  "due": "2026-10-30"
+ },
+ {
+  "id": "A07",
+  "owner": "Lottie",
+  "kind": "alert",
+  "severity": "orange",
+  "text": "Invoice due 30 Oct",
+  "detail": "INV-1040 · Sofia Marquez · £4,200.00",
+  "client": "Sofia Marquez",
+  "due": "2026-10-30"
+ },
+ {
+  "id": "A08",
+  "owner": "Heloise",
+  "kind": "alert",
+  "severity": "orange",
+  "text": "Invoice due 30 Oct",
+  "detail": "INV-1043 · Elena Vasquez-Hart · £16,560.00",
+  "client": "Elena Vasquez-Hart",
+  "due": "2026-10-30"
+ },
+ {
+  "id": "A09",
+  "owner": "Lottie",
+  "kind": "alert",
+  "severity": "orange",
+  "text": "Invoice sent back with changes",
+  "detail": "Draft I-049 · Sofia Marquez · £4,200.00",
+  "client": "Sofia Marquez",
+  "due": null
+ },
+ {
+  "id": "A10",
+  "owner": "Heloise",
+  "kind": "content",
+  "severity": "orange",
+  "text": "Send drafts for approval: 2 posts",
+  "detail": "Elena Vasquez-Hart (2 Nov) · James Adeyemi (3 Nov)",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A11",
+  "owner": "Lottie",
+  "kind": "content",
+  "severity": "orange",
+  "text": "Chase client approval: 2 posts",
+  "detail": "Priya Raman (30 Oct) · Tom Whitaker (30 Oct)",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A12",
+  "owner": "Lottie",
+  "kind": "content",
+  "severity": "orange",
+  "text": "Send drafts for approval: 1 post",
+  "detail": "Priya Raman (3 Nov)",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A13",
+  "owner": "Heloise",
+  "kind": "content",
+  "severity": "info",
+  "text": "Schedule approved posts: 2 posts",
+  "detail": "James Adeyemi (30 Oct) · Elena Vasquez-Hart (30 Oct)",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A14",
+  "owner": "Lottie",
+  "kind": "content",
+  "severity": "info",
+  "text": "Schedule approved posts: 2 posts",
+  "detail": "Rachel Kim (30 Oct) · Aisha Bello (30 Oct)",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A15",
+  "owner": "Heloise",
+  "kind": "task",
+  "severity": "info",
+  "text": "Finish 1 draft invoice for approval",
+  "detail": "David Chen",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A16",
+  "owner": "Lottie",
+  "kind": "task",
+  "severity": "info",
+  "text": "Finish 2 draft invoices for approval",
+  "detail": "Tom Whitaker · Rachel Kim",
+  "client": "",
+  "due": null
+ },
+ {
+  "id": "A17",
+  "owner": "Heloise",
+  "kind": "task",
+  "severity": "info",
+  "text": "Send Elena the keynote slide notes (she wants them the day before the 4 Nov run-through)",
+  "detail": "Due Tue 3 Nov · Email from Elena's office, 26 Oct",
+  "client": "Elena Vasquez-Hart",
+  "due": "2026-11-03"
+ },
+ {
+  "id": "A18",
+  "owner": "Heloise",
+  "kind": "task",
+  "severity": "info",
+  "text": "Check every September invoice is marked sent and receipts are uploaded for the Q3 VAT return",
+  "detail": "Due Mon 2 Nov · Email from Avril, 26 Oct",
+  "client": "",
+  "due": "2026-11-02"
+ }
+]

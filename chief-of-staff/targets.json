@@ -1,0 +1,16 @@
+{
+  "_about": "Per-client targets for the three daily metrics. Edit freely. growth = follower growth over the last 30 days (%), engagement = average engagement rate over the last 7 days (%), visibility = speaking, podcast, media and award wins secured per quarter. Status: green at or above target, orange within 15% of target, red further behind. Onboarding clients are shown but not scored.",
+  "thresholds": { "orange_within_pct": 15 },
+  "clients": {
+    "LOUD-001": { "growth": 1.5, "engagement": 3.0, "visibility": 3, "why": "Top-10 UK CPG CMO voice; keynote by spring" },
+    "LOUD-002": { "growth": 1.2, "engagement": 2.2, "visibility": 4, "why": "IPO narrative needs steady reach and tier-1 media" },
+    "LOUD-003": { "growth": 3.0, "engagement": 4.0, "visibility": 3, "why": "Goal of 25K followers; trade-press quotes" },
+    "LOUD-004": { "growth": 1.0, "engagement": 2.5, "visibility": 1, "why": "Onboarding until first content review" },
+    "LOUD-005": { "growth": 1.5, "engagement": 2.0, "visibility": 2, "why": "Credibility ahead of the Series C raise" },
+    "LOUD-006": { "growth": 1.5, "engagement": 2.3, "visibility": 4, "why": "Responsible-AI voice; advisory board seat" },
+    "LOUD-007": { "growth": 4.0, "engagement": 4.5, "visibility": 2, "why": "Grow from niche design audience to broader tech" },
+    "LOUD-008": { "growth": 1.2, "engagement": 2.8, "visibility": 4, "why": "Book on frontline culture; top HR voice in hospitality" },
+    "LOUD-009": { "growth": 2.0, "engagement": 2.0, "visibility": 1, "why": "Onboarding: building presence from near zero" },
+    "LOUD-010": { "growth": 2.5, "engagement": 3.5, "visibility": 4, "why": "Top clean-energy comms voice; tier-1 op-eds" }
+  }
+}

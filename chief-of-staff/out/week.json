@@ -1,0 +1,56 @@
+[
+ {
+  "id": "W01",
+  "kind": "win",
+  "owner": "Heloise",
+  "text": "3 posts published. Best: Danielle Okafor, 11,489 impressions."
+ },
+ {
+  "id": "W02",
+  "kind": "win",
+  "owner": "Lottie",
+  "text": "3 posts published. Best: Priya Raman, 9,750 impressions."
+ },
+ {
+  "id": "W03",
+  "kind": "miss",
+  "owner": "Team",
+  "text": "1 post missed its publish date: Marcus Lindqvist."
+ },
+ {
+  "id": "W04",
+  "kind": "miss",
+  "owner": "Team",
+  "text": "1 invoice overdue: INV-1032 (Sofia Marquez)."
+ },
+ {
+  "id": "W05",
+  "kind": "next",
+  "owner": "Team",
+  "text": "3 client meetings next week: speaking prep with James (Mon 2 Nov), first content review with Tom (Tue 3 Nov), speaking prep with Elena (Wed 4 Nov)."
+ },
+ {
+  "id": "W06",
+  "kind": "next",
+  "owner": "Heloise",
+  "text": "James Adeyemi: FinTech Builders Conference, London — Keynote on Thu 5 Nov."
+ },
+ {
+  "id": "W07",
+  "kind": "next",
+  "owner": "Lottie",
+  "text": "Aisha Bello: Crisis Ready on Fri 6 Nov."
+ },
+ {
+  "id": "W08",
+  "kind": "next",
+  "owner": "Heloise",
+  "text": "Send Elena the keynote slide notes (she wants them the day before the 4 Nov run-through) (due Tue 3 Nov)."
+ },
+ {
+  "id": "W09",
+  "kind": "next",
+  "owner": "Heloise",
+  "text": "Check every September invoice is marked sent and receipts are uploaded for the Q3 VAT return (due Mon 2 Nov)."
+ }
+]

@@ -1,0 +1,19 @@
+{
+  "_about": "SAMPLE personal calendars until Heloise's and Lottie's Google Calendars are shared. The agent replaces this each morning with busy blocks read from Google Calendar (calendars.json). Recurring items use weekday numbers: 1 = Monday ... 7 = Sunday.",
+  "working_hours": {
+    "T1": { "start": "08:45", "end": "18:00", "focus_minutes": 120, "focus_label": "Focus: strategy & research" },
+    "T2": { "start": "09:00", "end": "18:00", "focus_minutes": 150, "focus_label": "Focus: writing block" }
+  },
+  "recurring": [
+    { "person": "T1", "days": [1, 2, 4, 5, 6], "start": "05:45", "end": "08:00", "title": "Rowing training (water)", "kind": "personal", "protected": true },
+    { "person": "T1", "days": [1, 2, 4, 5], "start": "08:00", "end": "08:45", "title": "Recovery, breakfast & travel", "kind": "personal", "protected": true },
+    { "person": "T1", "days": [3], "start": "17:30", "end": "18:30", "title": "Erg session (gym)", "kind": "personal", "protected": true },
+    { "person": "T2", "days": [1, 2, 3, 4, 5], "start": "08:15", "end": "09:00", "title": "School drop-off", "kind": "personal", "protected": true },
+    { "person": "T2", "days": [3], "start": "12:30", "end": "13:30", "title": "Pilates", "kind": "personal", "protected": false }
+  ],
+  "one_off": [
+    { "person": "T1", "date": "2026-10-29", "start": "12:30", "end": "13:15", "title": "Physio", "kind": "personal" },
+    { "person": "T2", "date": "2026-10-29", "start": "15:30", "end": "16:30", "title": "Volunteer mentoring", "kind": "personal" },
+    { "person": "T1", "date": "2026-11-01", "start": "07:00", "end": "13:00", "title": "Head race (regatta)", "kind": "personal" }
+  ]
+}

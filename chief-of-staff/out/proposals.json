@@ -1,0 +1,62 @@
+[
+ {
+  "id": "RQ-1",
+  "client_id": "LOUD-007",
+  "client": "Rachel Kim",
+  "owner": "Lottie",
+  "title": "Call with Rachel Kim: Amplify upgrade & newsletter costs",
+  "minutes": 30,
+  "slot_date": "2026-10-29",
+  "slot_day": "Thu 29 Oct",
+  "slot_start": "13:30",
+  "slot_end": "14:00",
+  "status": "Proposed",
+  "reason": "Afternoon slot, so your morning focus block stays whole.",
+  "source": "Email from Rachel Kim, 25 Oct: \"What would the upgrade look like cost-wise?\""
+ },
+ {
+  "id": "RQ-2",
+  "client_id": "LOUD-009",
+  "client": "David Chen",
+  "owner": "Heloise",
+  "title": "Intro call with David Chen: questionnaire debrief",
+  "minutes": 30,
+  "slot_date": "2026-11-04",
+  "slot_day": "Wed 4 Nov",
+  "slot_start": "07:00",
+  "slot_end": "07:30",
+  "status": "Needs your OK",
+  "reason": "David asked for 07:00–08:00. On earlier days, rowing training (water) fills that hour. This is outside working hours.",
+  "source": "Email from David Chen, 23 Oct: \"Mornings before 8 are best for calls.\""
+ },
+ {
+  "id": "RQ-3",
+  "client_id": "LOUD-002",
+  "client": "Marcus Lindqvist",
+  "owner": "Heloise",
+  "title": "Call with Marcus Lindqvist: plan photoshoot + two video posts",
+  "minutes": 45,
+  "slot_date": "2026-10-29",
+  "slot_day": "Thu 29 Oct",
+  "slot_start": "13:30",
+  "slot_end": "14:15",
+  "status": "Proposed",
+  "reason": "Afternoon slot, so your morning focus block stays whole.",
+  "source": "Email from Marcus Lindqvist, 27 Oct: \"Can we shoot them the same day as the photoshoot?\""
+ },
+ {
+  "id": "RQ-4",
+  "client_id": "LOUD-010",
+  "client": "Aisha Bello",
+  "owner": "Lottie",
+  "title": "Call with Aisha Bello: newsletter growth",
+  "minutes": 30,
+  "slot_date": "2026-11-02",
+  "slot_day": "Mon 2 Nov",
+  "slot_start": "13:30",
+  "slot_end": "14:00",
+  "status": "Proposed",
+  "reason": "First free afternoon slot before 6 Nov.",
+  "source": "Email from Aisha Bello, 20 Oct: \"Let's talk newsletter growth next week.\""
+ }
+]

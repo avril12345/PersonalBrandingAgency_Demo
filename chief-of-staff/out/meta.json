@@ -1,0 +1,17 @@
+[
+ {
+  "date": "2026-10-29",
+  "day_label": "Thursday, 29 October 2026",
+  "is_friday": false,
+  "active_clients": 8,
+  "onboarding_clients": 2,
+  "clients_all_green": 3,
+  "needs_attention": "Marcus Lindqvist, Sofia Marquez",
+  "watch": "Danielle Okafor, Elena Vasquez-Hart, James Adeyemi",
+  "open_requests": 4,
+  "red_actions": 4,
+  "data_mode": "sample",
+  "calendars": "sample",
+  "built_at": "2026-10-29T02:48:13.948Z"
+ }
+]

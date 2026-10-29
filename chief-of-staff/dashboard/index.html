@@ -1,0 +1,435 @@
+<meta name="dash-one-writer">
+<style>
+  /* Layout: a header with today's takeaway, a person filter and three tabs. Today = scorecard, suggested day, requests, to-dos. */
+  .cos { --loud-red: #E10600; --tint: 14%; display: grid; gap: var(--cds-gap-lg); font-family: var(--font-anthropic-sans); max-width: 78rem; margin-inline: auto; }
+  .cos-head { display: grid; gap: var(--cds-gap-sm); }
+  .cos-brand { display: flex; align-items: baseline; gap: var(--cds-gap-sm); flex-wrap: wrap; }
+  .cos-mark { color: var(--loud-red); font-weight: 700; letter-spacing: .14em; font-size: var(--cds-font-size-caption); }
+  .cos h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+  .cos-date { color: var(--color-fg-muted); font-size: var(--cds-font-size-body); }
+  .cos-takeaway { margin: 0; font-size: var(--cds-font-size-body); line-height: 1.5; max-width: 70ch; }
+  .cos .cos-takeaway b { font-weight: 600; }
+  .cos-bar { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md); align-items: center; justify-content: space-between; }
+  .cos-seg { display: inline-flex; border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); overflow: hidden; }
+  .cos-seg button { font: inherit; font-size: var(--cds-font-size-caption); background: transparent; color: var(--color-fg); border: 0; padding: var(--cds-pad-xs) var(--cds-pad-md); cursor: pointer; }
+  .cos-seg button + button { border-left: 1px solid var(--color-border-line); }
+  .cos-seg button[aria-pressed="true"], .cos-seg button[aria-selected="true"] { background: var(--color-fg); color: var(--color-bg); }
+  .cos-seg button:focus-visible { outline: 2px solid var(--loud-red); outline-offset: -2px; }
+  .cos-grid { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr)); }
+  .cos-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-sm); align-content: start; min-width: 0; }
+  .cos-card h2 { margin: 0; font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+  .cos-note { margin: 0; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); line-height: 1.45; }
+  .cos-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; padding: 0; list-style: none; }
+  .cos-legend li { display: inline-flex; align-items: center; gap: .35rem; }
+  .dot { width: .55rem; height: .55rem; border-radius: 50%; display: inline-block; flex: none; background: var(--color-fg-muted); }
+  .st-green .dot, .dot.st-green { background: var(--color-ok); }
+  .st-orange .dot, .dot.st-orange { background: var(--color-warn); }
+  .st-red .dot, .dot.st-red { background: var(--color-bad); }
+  .st-onboarding .dot, .dot.st-onboarding { background: transparent; border: 1.5px solid var(--color-fg-muted); }
+  .scroll { overflow-x: auto; }
+  .cos table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+  .cos th { text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+  .cos td { padding: var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: middle; }
+  .cos tr:last-child td { border-bottom: 0; }
+  .who { display: grid; gap: 2px; min-width: 9rem; }
+  .who b { font-weight: 600; font-size: var(--cds-font-size-body); }
+  .who span { color: var(--color-fg-muted); }
+  .pill { display: inline-flex; align-items: center; gap: .4rem; padding: 3px 8px; border-radius: 999px; white-space: nowrap; }
+  .pill.st-green { background: color-mix(in srgb, var(--color-ok) var(--tint), transparent); }
+  .pill.st-orange { background: color-mix(in srgb, var(--color-warn) var(--tint), transparent); }
+  .pill.st-red { background: color-mix(in srgb, var(--color-bad) var(--tint), transparent); }
+  .pill.st-onboarding { color: var(--color-fg-muted); }
+  .pill .tgt { color: var(--color-fg-muted); }
+  .lead { color: var(--color-fg-muted); white-space: nowrap; }
+  .spark { display: block; }
+  .hide-narrow { }
+  @media (max-width: 700px) { .hide-narrow { display: none; } }
+  .chart { position: relative; min-height: 180px; }
+  .tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; }
+  .tip .d { color: var(--cds-text-secondary); }
+  .days { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
+  .day h3 { margin: 0 0 var(--cds-gap-xs); font-size: var(--cds-font-size-body); font-weight: 600; }
+  .slots { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .slot { display: grid; grid-template-columns: 6.6rem 1fr; gap: var(--cds-gap-sm); align-items: start; padding: 6px 8px; border-radius: var(--cds-radius); border-left: 3px solid var(--color-border-line); background: color-mix(in srgb, var(--color-fg) 3%, transparent); font-size: var(--cds-font-size-caption); }
+  .slot time { color: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+  .slot .t { font-weight: 500; }
+  .slot .n { color: var(--color-fg-muted); display: block; }
+  .k-personal { border-left-color: #7C6CD6; }
+  .k-client { border-left-color: var(--loud-red); }
+  .k-team { border-left-color: var(--color-fg-muted); }
+  .k-focus { border-left-color: var(--color-ok); }
+  .k-break, .k-admin { border-left-color: var(--color-border-line); }
+  .k-proposed { border: 1.5px dashed var(--color-warn); border-left-width: 3px; background: color-mix(in srgb, var(--color-warn) 9%, transparent); }
+  .k-warning { border-left-color: var(--color-bad); color: var(--color-bad); }
+  .kinds { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md); list-style: none; margin: 0; padding: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .kinds li { display: inline-flex; align-items: center; gap: .35rem; }
+  .kinds i { width: 3px; height: .9rem; display: inline-block; }
+  .kinds .k-proposed { width: .9rem; border-radius: 2px; }
+  .badge { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: var(--cds-font-size-caption); white-space: nowrap; border: 1px solid var(--color-border-line); }
+  .badge.st-orange { border-color: var(--color-warn); color: var(--color-warn); }
+  .badge.st-red { border-color: var(--color-bad); color: var(--color-bad); }
+  .badge.st-green { border-color: var(--color-ok); color: var(--color-ok); }
+  .todo { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+  .todo li { display: grid; grid-template-columns: auto 1fr auto; gap: var(--cds-gap-sm); align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--color-border-line); font-size: var(--cds-font-size-caption); }
+  .todo li:last-child { border-bottom: 0; }
+  .todo .dot { transform: translateY(-1px); }
+  .todo .dot.st-info { background: var(--color-border-line); }
+  .todo .t { font-weight: 500; font-size: var(--cds-font-size-body); }
+  .todo .n { color: var(--color-fg-muted); display: block; margin-top: 2px; }
+  .todo .o { color: var(--color-fg-muted); white-space: nowrap; }
+  .briefs { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); }
+  .brief .when { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .brief h3 { margin: 0; font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-heading); }
+  .brief dl { margin: 0; display: grid; grid-template-columns: 6.5rem 1fr; gap: 6px var(--cds-gap-sm); font-size: var(--cds-font-size-caption); }
+  .brief dt { color: var(--color-fg-muted); }
+  .brief dd { margin: 0; min-width: 0; }
+  .brief .m { display: flex; gap: .4rem; align-items: baseline; }
+  .brief .tp { margin: 0; padding: var(--cds-pad-sm); border-radius: var(--cds-radius); background: color-mix(in srgb, var(--loud-red) 7%, transparent); font-size: var(--cds-font-size-caption); line-height: 1.45; }
+  .week { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
+  .week ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; font-size: var(--cds-font-size-caption); line-height: 1.45; }
+  .week li { display: grid; grid-template-columns: auto 1fr; gap: var(--cds-gap-sm); align-items: baseline; }
+  .week li .o { color: var(--color-fg-muted); }
+  .foot { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); margin: 0; }
+  [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+  [data-dash-source-state=empty] { color: transparent; }
+</style>
+
+<div class="cos">
+  <header class="cos-head" id="top">
+    <div class="cos-brand"><span class="cos-mark">LOUD</span><span class="cos-date" data-draw="day" data-source="meta" data-field="day_label" data-row="0">—</span></div>
+    <h1>Daily brief</h1>
+    <p class="cos-takeaway"><b data-draw="allgreen" data-source="meta" data-field="clients_all_green" data-row="0">—</b> of <b data-draw="active" data-source="meta" data-field="active_clients" data-row="0">—</b> active clients are on target for all three metrics. <span class="attn-line">Needs attention: <b data-draw="attn" data-source="meta" data-field="needs_attention" data-row="0">—</b>.</span> <span class="watch-line">Watch: <span data-draw="watch" data-source="meta" data-field="watch" data-row="0">—</span>.</span></p>
+  </header>
+
+  <div class="cos-bar">
+    <div class="cos-seg" role="tablist" aria-label="Sections">
+      <button role="tab" id="tab-today" data-tab="today" aria-selected="true">Today</button>
+      <button role="tab" id="tab-prep" data-tab="prep" aria-selected="false">Meeting prep</button>
+      <button role="tab" id="tab-week" data-tab="week" aria-selected="false">This week</button>
+    </div>
+    <div class="cos-seg" aria-label="Show">
+      <button data-person="" aria-pressed="true">Everyone</button>
+      <button data-person="Heloise" aria-pressed="false">Heloise</button>
+      <button data-person="Lottie" aria-pressed="false">Lottie</button>
+    </div>
+  </div>
+
+  <section id="today" class="cos" data-page="today">
+    <div class="cos-card" id="scorecard">
+      <h2>Client scorecard</h2>
+      <p class="cos-note">Growth is follower growth over the last 30 days. Engagement is the average engagement rate over the last 7 days. Visibility counts speaking, podcast, media and award wins secured this quarter, judged against where we should be by now. Targets are set per client.</p>
+      <ul class="cos-legend">
+        <li><i class="dot st-green"></i>On target</li>
+        <li><i class="dot st-orange"></i>Behind, within 15%</li>
+        <li><i class="dot st-red"></i>Well behind</li>
+        <li><i class="dot st-onboarding"></i>Onboarding, not scored</li>
+      </ul>
+      <div class="scroll">
+        <table data-source="scorecard" data-row-key="client_id" aria-label="Client scorecard">
+          <thead><tr>
+            <th data-field="client">Client</th>
+            <th data-field="lead">Lead</th>
+            <th data-field="growth">Growth · 30 days</th>
+            <th data-field="engagement">Engagement · 7 days</th>
+            <th data-field="visibility">Visibility · this quarter</th>
+            <th class="hide-narrow" data-field="followers">Followers</th>
+          </tr></thead>
+          <tbody data-draw="scorecard"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="cos-grid">
+      <div class="cos-card" id="suggested-day">
+        <h2>Suggested day</h2>
+        <p class="cos-note">Built from each calendar, with personal time protected. Dashed items are proposals: nothing is booked until you say yes.</p>
+        <ul class="kinds">
+          <li><i class="k-personal" style="background:#7C6CD6"></i>Personal</li>
+          <li><i style="background:var(--loud-red)"></i>Client</li>
+          <li><i style="background:var(--color-ok)"></i>Focus</li>
+          <li><i class="k-proposed"></i>Proposed</li>
+        </ul>
+        <div class="days" data-draw="schedule" data-source="schedule">—</div>
+      </div>
+
+      <div class="cos-card" id="todo">
+        <h2>Do today</h2>
+        <p class="cos-note">Alerts, content deadlines and tasks from email, most urgent first.</p>
+        <ul class="todo" data-draw="actions" data-source="actions"></ul>
+      </div>
+    </div>
+
+    <div class="cos-card" id="requests">
+      <h2>Meeting requests</h2>
+      <p class="cos-note">Requests from client emails, each with the best free slot. Afternoons come first so morning focus time stays whole.</p>
+      <div class="scroll">
+        <table data-source="proposals" data-row-key="id" aria-label="Meeting requests">
+          <thead><tr>
+            <th data-field="title">Request</th>
+            <th data-field="owner">Who</th>
+            <th data-field="slot_day">Suggested slot</th>
+            <th data-field="status">Status</th>
+            <th class="hide-narrow" data-field="reason">Why this slot</th>
+          </tr></thead>
+          <tbody data-draw="proposals"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="cos-card" id="health">
+      <h2>Metrics on target, last 30 days</h2>
+      <p class="cos-note">Each bar counts the three metrics for every active client: on target, slightly behind, and well behind.</p>
+      <div class="chart" data-draw="health" data-source="health"></div>
+    </div>
+  </section>
+
+  <section id="prep" class="cos" data-page="prep" hidden>
+    <p class="cos-note">A one-minute brief for every client meeting today and on the next working day.</p>
+    <div class="briefs" data-draw="briefs" data-source="briefs">—</div>
+  </section>
+
+  <section id="week" class="cos" data-page="week" hidden>
+    <p class="cos-note">The week so far. On Fridays this becomes the full wrap-up.</p>
+    <div class="week">
+      <div class="cos-card"><h2>Wins</h2><ul data-draw="wins" data-source="week"></ul></div>
+      <div class="cos-card"><h2>Misses</h2><ul data-draw="misses" data-source="week"></ul></div>
+      <div class="cos-card"><h2>Next week</h2><ul data-draw="next" data-source="week"></ul></div>
+    </div>
+  </section>
+
+  <p class="foot sample-note">LinkedIn figures are sample data until the LinkedIn feed is connected. Personal calendars are sample entries until Heloise and Lottie share their Google Calendars.</p>
+</div>
+
+<script>
+  // Tabs and the person filter. The filter is a page parameter no query reads, so it only redraws.
+  const showTab = (name) => {
+    document.querySelectorAll('[data-page]').forEach((s) => { s.hidden = s.dataset.page !== name; });
+    document.querySelectorAll('[data-tab]').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === name)));
+    dash.setLink(name);
+  };
+  document.querySelectorAll('[data-tab]').forEach((b) => b.addEventListener('click', () => showTab(b.dataset.tab)));
+  document.querySelectorAll('[data-person]').forEach((b) => b.addEventListener('click', () => dash.setParams({ person: b.dataset.person || null })));
+  const named = location.hash.slice(1);
+  if (['today', 'prep', 'week'].includes(named)) showTab(named);
+
+  dash.onData(() => {
+    const p = dash.params().person || '';
+    document.querySelectorAll('[data-person]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.person === p)));
+    const m = dash.data('meta');
+    const row = m.status === 'ok' ? m.data[0] : null;
+    document.querySelectorAll('.attn-line').forEach((e) => { e.hidden = !!row && !row.needs_attention; });
+    document.querySelectorAll('.watch-line').forEach((e) => { e.hidden = !!row && !row.watch; });
+    document.querySelectorAll('.sample-note').forEach((e) => { e.hidden = !!row && row.data_mode === 'live' && row.calendars === 'google'; });
+  });
+
+  window.cos = {
+    el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; },
+    mine(owner) { const p = dash.params().person; return !p || String(owner).includes(p) || owner === 'Team'; },
+  };
+</script>
+
+<script>
+  // Header words.
+  const metaField = (field) => (el) => {
+    const m = dash.data('meta');
+    el.textContent = m.status === 'ok' ? String(m.data[0][field]) : '—';
+  };
+  dash.draw('day', metaField('day_label'));
+  dash.draw('allgreen', metaField('clients_all_green'));
+  dash.draw('active', metaField('active_clients'));
+  dash.draw('attn', metaField('needs_attention'));
+  dash.draw('watch', metaField('watch'));
+</script>
+
+<script>
+  // Scorecard rows, each with a 30-day follower sparkline.
+  const { el } = window.cos;
+  const pct = (v) => `${v > 0 ? '+' : ''}${v.toFixed(1)}%`;
+  const pill = (status, main, target) => {
+    const p = el('span', `pill st-${status}`);
+    p.append(el('i', 'dot'), el('span', '', main), el('span', 'tgt', target));
+    return p;
+  };
+  dash.draw('scorecard', (tbody) => {
+    const s = dash.data('scorecard');
+    tbody.replaceChildren();
+    if (s.status !== 'ok') return;
+    const t = dash.data('trend');
+    const trend = t.status === 'ok' ? d3.group(t.data, (r) => r.client_id) : new Map();
+    for (const r of s.data.filter((r) => window.cos.mine(r.lead))) {
+      const tr = el('tr');
+      tr.dataset.key = r.client_id;
+      const who = el('div', 'who');
+      who.append(el('b', '', r.client), el('span', '', `${r.company} · ${r.tier}${r.stage === 'Onboarding' ? ' · onboarding' : ''}`));
+      const c0 = el('td'); c0.append(who);
+      const c1 = el('td', 'lead', r.lead);
+      const c2 = el('td'); c2.append(pill(r.growth_status, pct(r.growth), `/ ${r.growth_target}%`));
+      const c3 = el('td'); c3.append(pill(r.engagement_status, `${r.engagement.toFixed(1)}%`, `/ ${r.engagement_target}%`));
+      const c4 = el('td'); c4.append(pill(r.visibility_status, `${r.visibility} won`, `/ ${r.visibility_target} goal`));
+      const c5 = el('td', 'hide-narrow');
+      const pts = (trend.get(r.client_id) || []).map((d) => ({ x: new Date(d.date), y: +d.followers }));
+      if (pts.length > 1) {
+        const w = 96, h = 26;
+        const x = d3.scaleUtc(d3.extent(pts, (d) => d.x), [2, w - 30]);
+        const y = d3.scaleLinear(d3.extent(pts, (d) => d.y), [h - 3, 3]);
+        const svg = d3.create('svg').attr('class', 'spark').attr('width', w).attr('height', h).attr('viewBox', `0 0 ${w} ${h}`);
+        svg.append('path').attr('d', d3.line((d) => x(d.x), (d) => y(d.y))(pts)).attr('fill', 'none').attr('stroke', dash.colors[0]).attr('stroke-width', 1.5).attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round');
+        const last = pts.at(-1);
+        svg.append('circle').attr('cx', x(last.x)).attr('cy', y(last.y)).attr('r', 2.2).attr('fill', dash.colors[0]);
+        svg.append('text').attr('x', w).attr('y', h / 2 + 4).attr('text-anchor', 'end').attr('fill', 'var(--color-fg-muted)').attr('font-size', 10).text(d3.format('.2~s')(r.followers));
+        c5.append(svg.node());
+      }
+      tr.append(c0, c1, c2, c3, c4, c5);
+      tbody.append(tr);
+    }
+  });
+</script>
+
+<script>
+  // Suggested day, one column per person.
+  const { el } = window.cos;
+  dash.draw('schedule', (box) => {
+    const s = dash.data('schedule');
+    box.replaceChildren();
+    if (s.status !== 'ok') { box.textContent = '—'; return; }
+    const byPerson = d3.group(s.data, (r) => r.person);
+    for (const [person, rows] of byPerson) {
+      if (!window.cos.mine(person)) continue;
+      const col = el('div', 'day');
+      col.append(el('h3', '', person));
+      const ul = el('ul', 'slots');
+      for (const r of rows) {
+        const li = el('li', `slot k-${r.kind}`);
+        li.append(el('time', '', r.start ? `${r.start}–${r.end}` : ''));
+        const body = el('div');
+        body.append(el('span', 't', r.title));
+        if (r.note) body.append(el('span', 'n', r.note));
+        li.append(body);
+        ul.append(li);
+      }
+      col.append(ul);
+      box.append(col);
+    }
+  });
+</script>
+
+<script>
+  // To-do list and meeting requests.
+  const { el } = window.cos;
+  dash.draw('actions', (ul) => {
+    const a = dash.data('actions');
+    ul.replaceChildren();
+    if (a.status !== 'ok') return;
+    for (const r of a.data.filter((r) => window.cos.mine(r.owner))) {
+      const li = el('li');
+      const body = el('div');
+      body.append(el('span', 't', r.text), el('span', 'n', r.detail));
+      li.append(el('i', `dot st-${r.severity}`), body, el('span', 'o', r.owner));
+      ul.append(li);
+    }
+  });
+  dash.draw('proposals', (tbody) => {
+    const p = dash.data('proposals');
+    tbody.replaceChildren();
+    if (p.status !== 'ok') return;
+    for (const r of p.data.filter((r) => window.cos.mine(r.owner))) {
+      const tr = el('tr');
+      tr.dataset.key = r.id;
+      const c0 = el('td'); const who = el('div', 'who'); who.append(el('b', '', r.title), el('span', '', r.source)); c0.append(who);
+      const slot = r.slot_start ? `${r.slot_day}, ${r.slot_start}–${r.slot_end}` : 'No free slot';
+      const tone = r.status === 'Proposed' ? 'green' : r.status === 'Needs your OK' ? 'orange' : 'red';
+      const c3 = el('td'); c3.append(el('span', `badge st-${tone}`, r.status));
+      tr.append(c0, el('td', 'lead', r.owner), el('td', '', slot), c3, el('td', 'hide-narrow', r.reason));
+      tbody.append(tr);
+    }
+  });
+</script>
+
+<script>
+  // 30-day stacked bars: metrics on target, slightly behind, well behind.
+  dash.draw('health', (box) => {
+    box.replaceChildren();
+    const h = dash.data('health');
+    if (h.status !== 'ok' || !h.data.length) return;
+    const rows = h.data.map((r) => ({ date: new Date(r.date), green: +r.green, orange: +r.orange, red: +r.red }));
+    const keys = ['green', 'orange', 'red'];
+    const colors = { green: 'var(--color-ok)', orange: 'var(--color-warn)', red: 'var(--color-bad)' };
+    const names = { green: 'On target', orange: 'Slightly behind', red: 'Well behind' };
+    const W = Math.max(280, box.clientWidth), H = 180, m = { t: 8, r: 8, b: 22, l: 28 };
+    const x = d3.scaleBand(rows.map((r) => r.date), [m.l, W - m.r]).padding(0.25);
+    const max = d3.max(rows, (r) => r.green + r.orange + r.red);
+    const y = d3.scaleLinear([0, max], [H - m.b, m.t]).nice();
+    const svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+    svg.append('g').selectAll('line').data(y.ticks(4)).join('line')
+      .attr('x1', m.l).attr('x2', W - m.r).attr('y1', (d) => y(d)).attr('y2', (d) => y(d)).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(y.ticks(4)).join('text')
+      .attr('x', m.l - 6).attr('y', (d) => y(d) + 3).attr('text-anchor', 'end').attr('font-size', 10).attr('fill', 'var(--color-fg-muted)').text((d) => d);
+    const stack = d3.stack().keys(keys)(rows);
+    svg.append('g').selectAll('g').data(stack).join('g').attr('fill', (s) => colors[s.key])
+      .selectAll('rect').data((s) => s).join('rect')
+      .attr('x', (d) => x(d.data.date)).attr('width', x.bandwidth())
+      .attr('y', (d) => y(d[1])).attr('height', (d) => Math.max(0, y(d[0]) - y(d[1])));
+    const fmt = d3.utcFormat('%-d %b');
+    const every = Math.ceil(rows.length / Math.max(2, Math.floor(W / 70)));
+    svg.append('g').selectAll('text').data(rows.filter((_, i) => i % every === 0 || i === rows.length - 1)).join('text')
+      .attr('x', (d) => x(d.date) + x.bandwidth() / 2).attr('y', H - 6).attr('text-anchor', 'middle').attr('font-size', 10).attr('fill', 'var(--color-fg-muted)').text((d) => fmt(d.date));
+    const tip = d3.select(box).append('div').attr('class', 'tip').style('display', 'none');
+    svg.append('g').selectAll('rect').data(rows).join('rect')
+      .attr('x', (d) => x(d.date) - (x.step() - x.bandwidth()) / 2).attr('width', x.step()).attr('y', m.t).attr('height', H - m.t - m.b).attr('fill', 'transparent')
+      .on('pointerenter pointermove', (ev, d) => {
+        tip.style('display', null).html('');
+        tip.append('div').attr('class', 'd').text(fmt(d.date));
+        for (const k of [...keys].reverse()) {
+          const line = tip.append('div');
+          line.append('span').attr('class', 'dot').style('background', colors[k]).style('margin-right', '6px');
+          line.append('span').text(`${names[k]}: ${d[k]}`);
+        }
+        const bx = box.getBoundingClientRect(), [px] = d3.pointer(ev, box);
+        const tw = tip.node().offsetWidth;
+        tip.style('left', `${Math.min(Math.max(0, px + 12), bx.width - tw)}px`).style('top', '4px');
+      })
+      .on('pointerleave', () => tip.style('display', 'none'));
+  });
+</script>
+
+<script>
+  // Meeting prep cards and the week so far.
+  const { el } = window.cos;
+  dash.draw('briefs', (box) => {
+    box.replaceChildren();
+    const b = dash.data('briefs');
+    if (b.status !== 'ok') { box.textContent = '—'; return; }
+    const rows = b.data.filter((r) => window.cos.mine(r.owner));
+    if (!rows.length) { box.append(el('p', 'cos-note', 'No client meetings today or on the next working day.')); return; }
+    for (const r of rows) {
+      const card = el('article', 'cos-card brief');
+      card.append(el('span', 'when', `${r.when} · ${r.owner} · ${r.location}`), el('h3', '', `${r.client}: ${r.type}`));
+      const dl = el('dl');
+      const row = (k, v) => { if (!v) return; dl.append(el('dt', '', k)); const dd = el('dd'); typeof v === 'string' ? (dd.textContent = v) : dd.append(v); dl.append(dd); };
+      for (const [k, st, txt] of [['Growth', r.growth_status, r.growth_text], ['Engagement', r.engagement_status, r.engagement_text], ['Visibility', r.visibility_status, r.visibility_text]]) {
+        const mline = el('span', 'm'); mline.append(el('i', `dot st-${st}`), el('span', '', txt)); row(k, mline);
+      }
+      row('Last contact', r.last_contact);
+      row('Open items', r.open_items);
+      row('In flight', r.in_flight);
+      row('Money', r.money);
+      card.append(dl, el('p', 'tp', r.talking_point));
+      box.append(card);
+    }
+  });
+  const weekList = (kind, tone) => (ul) => {
+    ul.replaceChildren();
+    const w = dash.data('week');
+    if (w.status !== 'ok') return;
+    for (const r of w.data.filter((r) => r.kind === kind && window.cos.mine(r.owner))) {
+      const li = el('li');
+      const body = el('span', '', r.text);
+      li.append(el('i', `dot st-${tone}`), body);
+      if (r.owner !== 'Team') body.append(' ', el('span', 'o', `· ${r.owner}`));
+      ul.append(li);
+    }
+  };
+  dash.draw('wins', weekList('win', 'green'));
+  dash.draw('misses', weekList('miss', 'red'));
+  dash.draw('next', weekList('next', 'onboarding'));
+</script>
