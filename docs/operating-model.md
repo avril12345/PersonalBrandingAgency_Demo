@@ -19,12 +19,12 @@ Switch who you are acting as with the **persona selector** in the top bar. Only 
 2. **Record** on the meeting page: notes, key takeaways (one per line) and actions (owner and due date). *Save & mark completed* logs the meeting time to the client's work log, so it appears on the next invoice.
 3. **Follow up**: *Email follow-up to client* sends the takeaways and actions from the organiser's mailbox.
 4. **Research**: *Run research* sends the client profile and the meeting notes to:
-   - **Perplexity** (`sonar-pro` by default), which searches the live web and writes the brief: Summary, Market fit, Engagement strategy, Competitive landscape, Recommendations, with cited sources.
-   - **Firecrawl**, which first scrapes the client's company website (plus any extra URLs you add, such as a personal site or speaker page). Perplexity then compares that public messaging with the client's content pillars in the *Brand alignment* section.
+   - **Claude** (`claude-opus-5-5` by default, with Anthropic's web search tool), which searches the live web and writes the brief: Summary, Market fit, Engagement strategy, Competitive landscape, Recommendations, with cited sources.
+   - **Firecrawl**, which first scrapes the client's company website (plus any extra URLs you add, such as a personal site or speaker page). Claude then compares that public messaging with the client's content pillars in the *Brand alignment* section.
 
    Briefs are saved to the client (*Meetings & research* tab) and can be printed. The 10 seeded briefs are marked **Demo**. Live ones are marked **Live** and list their sources.
 
-**Setup:** copy `.env.example` to `.env`, add `PERPLEXITY_API_KEY` and `FIRECRAWL_API_KEY`, and restart `npm start`. Keys are read only by the local server and never reach the browser. `.env` is git-ignored.
+**Setup:** copy `.env.example` to `.env`, add `ANTHROPIC_API_KEY` (and `FIRECRAWL_API_KEY` for website scraping), and restart `npm start`. Keys are read only by the local server and never reach the browser. `.env` is git-ignored.
 
 ## 2. Work log and results
 

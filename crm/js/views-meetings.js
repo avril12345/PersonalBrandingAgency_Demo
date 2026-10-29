@@ -1,4 +1,4 @@
-/* Meetings: booking, notes & takeaways, actions, research (Perplexity + Firecrawl). */
+/* Meetings: booking, notes & takeaways, actions, research (Claude web search + Firecrawl). */
 (() => {
   "use strict";
   const L = window.L, esc = L.esc;
@@ -69,12 +69,12 @@
         <div class="stack">
           <section class="card">
             <header><h2>Branding research</h2></header>
-            <p class="small muted">Sends the client profile and this meeting's notes to <b>Perplexity</b> for market fit, engagement strategy and competition research. <b>Firecrawl</b> scrapes ${esc(c.website)} to check brand alignment.</p>
-            <div class="integrations">${L.badge(`Perplexity ${integ.perplexity ? "connected" : "not connected"}`, integ.perplexity ? "good" : "")}${L.badge(`Firecrawl ${integ.firecrawl ? "connected" : "not connected"}`, integ.firecrawl ? "good" : "")}</div>
+            <p class="small muted">Sends the client profile and this meeting's notes to <b>Claude</b>, which searches the web for market fit, engagement strategy and competition. <b>Firecrawl</b> scrapes ${esc(c.website)} to check brand alignment.</p>
+            <div class="integrations">${L.badge(`Claude ${integ.claude ? "connected" : "not connected"}`, integ.claude ? "good" : "")}${L.badge(`Firecrawl ${integ.firecrawl ? "connected" : "not connected"}`, integ.firecrawl ? "good" : "")}</div>
             <label class="field"><span>Extra pages for Firecrawl <span class="muted">(optional, comma-separated URLs)</span></span><input id="extra-urls" placeholder="https://… personal site, recent article, speaker page"></label>
             <button class="btn primary" data-act="run-research" data-id="${m.id}" ${m.notes ? "" : "disabled"}>${m.notes ? "Run research" : "Add notes first"}</button>
             <div id="research-status" class="small" aria-live="polite"></div>
-            ${!integ.perplexity ? `<details class="setup"><summary>How to connect</summary><ol class="small"><li>Copy <code>.env.example</code> to <code>.env</code> in the project folder.</li><li>Add <code>PERPLEXITY_API_KEY</code> (from perplexity.ai → API) and <code>FIRECRAWL_API_KEY</code> (from firecrawl.dev).</li><li>Restart with <code>npm start</code>. Keys stay on your machine and are never sent to the browser.</li></ol></details>` : ""}
+            ${!integ.claude ? `<details class="setup"><summary>How to connect</summary><ol class="small"><li>Copy <code>.env.example</code> to <code>.env</code> in the project folder.</li><li>Add <code>ANTHROPIC_API_KEY</code> (from platform.claude.com → API keys) and <code>FIRECRAWL_API_KEY</code> (from firecrawl.dev).</li><li>Restart with <code>npm start</code>. Keys stay on your machine and are never sent to the browser.</li></ol></details>` : ""}
             ${briefs.length ? `<h3 class="sub-h">Briefs from this meeting</h3><ul class="list">${briefs.map((r) => `<li><span class="when">${L.fmtDate(r.created)}</span><div class="body"><a class="title" href="#/research/${r.id}">Branding brief</a></div>${L.badge(r.mode === "live" ? "Live" : "Demo", r.mode === "live" ? "good" : "")}</li>`).join("")}</ul>` : ""}
           </section>
           <section class="card"><header><h2>Client snapshot</h2><a class="aside" href="#/client/${c.id}">Open client →</a></header>
@@ -110,7 +110,7 @@
       <article class="card report">
         <header class="report-head"><div><div class="wordmark-sm">LOUD</div><h1>Branding brief: ${esc(L.fullName(c))}</h1>
           <p class="muted">${esc(c.title)}, ${esc(c.company)} · ${L.fmtLong(r.created)}${m ? ` · from <a href="#/meeting/${m.id}">${esc(m.type)} (${L.fmtDate(m.date)})</a>` : ""}</p>
-          <div class="chips">${L.badge(r.mode === "live" ? `Live research · ${r.model || "Perplexity"}` : "Demo brief (seeded)", r.mode === "live" ? "good" : "")}${r.crawled?.length ? L.badge(`Firecrawl: ${r.crawled.length} page${r.crawled.length > 1 ? "s" : ""}`, "cpg") : ""}</div></div></header>
+          <div class="chips">${L.badge(r.mode === "live" ? `Live research · ${r.model || "Claude"}` : "Demo brief (seeded)", r.mode === "live" ? "good" : "")}${r.crawled?.length ? L.badge(`Firecrawl: ${r.crawled.length} page${r.crawled.length > 1 ? "s" : ""}`, "cpg") : ""}</div></div></header>
         ${L.md(r.markdown)}
         ${r.sources?.length ? `<h2 class="sec">Sources</h2><ol class="sources">${r.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a></li>`).join("")}</ol>` : ""}
         ${r.steps?.length ? `<details class="table-view"><summary>Research log</summary><ul class="small">${r.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ul></details>` : ""}
@@ -228,7 +228,7 @@
       await L.save("meetings");
       const status = document.getElementById("research-status");
       el.disabled = true;
-      status.innerHTML = `<span class="spinner"></span> Researching with Perplexity${L.state.integrations.firecrawl ? " and crawling with Firecrawl" : ""}… this can take up to a minute.`;
+      status.innerHTML = `<span class="spinner"></span> Researching with Claude web search${L.state.integrations.firecrawl ? " and crawling with Firecrawl" : ""}… this usually takes 1–3 minutes.`;
       const urls = (document.getElementById("extra-urls").value || "").split(",").map((s) => s.trim()).filter((s) => /^https?:\/\//.test(s));
       try {
         const res = await fetch("/api/research", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ meeting_id: m.id, urls, requested_by: L.me().id }) });

@@ -10,9 +10,9 @@ Demo workspace for **LOUD Personal Branding Ltd**, a London personal branding ag
 npm start          # then open http://localhost:4321
 ```
 
-Node 18+ is required. There are no dependencies to install. Changes you make in the app are saved to `data/*.json`.
+Node 18+ is required. Run `npm install` once (installs the Anthropic SDK). Changes you make in the app are saved to `data/*.json`.
 
-**Optional, for live research:** copy `.env.example` to `.env` and add your `PERPLEXITY_API_KEY` and `FIRECRAWL_API_KEY`, then restart. Without keys, the seeded demo research briefs are still available.
+**Optional, for live research:** copy `.env.example` to `.env` and add your `ANTHROPIC_API_KEY` (Claude) and optionally `FIRECRAWL_API_KEY`, then run `npm install` and restart. Without keys, the seeded demo research briefs are still available.
 
 ## What's in it
 
@@ -20,7 +20,7 @@ Node 18+ is required. There are no dependencies to install. Changes you make in 
 |---|---|
 | **Dashboard** | MRR, outstanding invoices, audience and engagement KPIs, client health (LOUD Score), needs-attention list, upcoming meetings, founder approval banner |
 | **Clients** | Roster and a client page with Overview, Meetings & research, Work log and Billing tabs |
-| **Meetings** | Book meetings (clash checks, email invite, .ics download), record notes, takeaways and actions, email follow-ups, and run **Perplexity + Firecrawl** branding research from the notes |
+| **Meetings** | Book meetings (clash checks, email invite, .ics download), record notes, takeaways and actions, email follow-ups, and run **Claude web search + Firecrawl** branding research from the notes |
 | **Calendar / Mail** | Week calendars and demo mailboxes for Heloise and Lottie |
 | **Content / Visibility** | Content board and calendar; speaking, podcast, media and award pipeline |
 | **Results** | Growth since each client joined (followers, engagement, reach and more), plus a printable results report with the work delivered |
