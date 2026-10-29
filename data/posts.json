@@ -1,0 +1,2420 @@
+[
+  {
+    "id": "P-001",
+    "client_id": "LOUD-002",
+    "date": "2026-10-01",
+    "title": "Building a clean beauty category leader: what the data actually says",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 13634,
+      "reactions": 272,
+      "comments": 43,
+      "reposts": 17
+    }
+  },
+  {
+    "id": "P-002",
+    "client_id": "LOUD-005",
+    "date": "2026-10-01",
+    "title": "The modern strategic CFO: what I got wrong last year",
+    "pillar": "The modern strategic CFO",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 7015,
+      "reactions": 46,
+      "comments": 7,
+      "reposts": 3
+    }
+  },
+  {
+    "id": "P-003",
+    "client_id": "LOUD-003",
+    "date": "2026-10-02",
+    "title": "Insight-to-innovation pipelines: inside Fieldstone Beverage Co.",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 5056,
+      "reactions": 207,
+      "comments": 33,
+      "reposts": 13
+    }
+  },
+  {
+    "id": "P-004",
+    "client_id": "LOUD-007",
+    "date": "2026-10-02",
+    "title": "Designing the car of the future: an unpopular opinion",
+    "pillar": "Designing the car of the future",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 4921,
+      "reactions": 298,
+      "comments": 47,
+      "reposts": 18
+    }
+  },
+  {
+    "id": "P-005",
+    "client_id": "LOUD-008",
+    "date": "2026-10-02",
+    "title": "Culture is built on the front line: what I got wrong last year",
+    "pillar": "Culture is built on the front line",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 7701,
+      "reactions": 253,
+      "comments": 40,
+      "reposts": 15
+    }
+  },
+  {
+    "id": "P-006",
+    "client_id": "LOUD-001",
+    "date": "2026-10-03",
+    "title": "Reinventing heritage brands: 3 things I'd tell my younger self",
+    "pillar": "Reinventing heritage brands",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 6936,
+      "reactions": 185,
+      "comments": 29,
+      "reposts": 11
+    }
+  },
+  {
+    "id": "P-007",
+    "client_id": "LOUD-006",
+    "date": "2026-10-03",
+    "title": "Responsible AI in finance: what I got wrong last year",
+    "pillar": "Responsible AI in finance",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 19853,
+      "reactions": 215,
+      "comments": 34,
+      "reposts": 13
+    }
+  },
+  {
+    "id": "P-008",
+    "client_id": "LOUD-010",
+    "date": "2026-10-03",
+    "title": "Telling the energy transition story: what the data actually says",
+    "pillar": "Telling the energy transition story",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 12819,
+      "reactions": 545,
+      "comments": 86,
+      "reposts": 33
+    }
+  },
+  {
+    "id": "P-009",
+    "client_id": "LOUD-008",
+    "date": "2026-10-04",
+    "title": "The future of hospitality work: the framework I use with my team",
+    "pillar": "The future of hospitality work",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 11054,
+      "reactions": 167,
+      "comments": 27,
+      "reposts": 10
+    }
+  },
+  {
+    "id": "P-010",
+    "client_id": "LOUD-001",
+    "date": "2026-10-05",
+    "title": "Leading diverse marketing teams: a story from this week",
+    "pillar": "Leading diverse marketing teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 17026,
+      "reactions": 407,
+      "comments": 64,
+      "reposts": 25
+    }
+  },
+  {
+    "id": "P-011",
+    "client_id": "LOUD-002",
+    "date": "2026-10-05",
+    "title": "CEO lessons from scaling DTC: the question I get asked most",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 23855,
+      "reactions": 465,
+      "comments": 74,
+      "reposts": 28
+    }
+  },
+  {
+    "id": "P-012",
+    "client_id": "LOUD-005",
+    "date": "2026-10-05",
+    "title": "Healthtech economics explained: 3 things I'd tell my younger self",
+    "pillar": "Healthtech economics explained",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 6160,
+      "reactions": 64,
+      "comments": 10,
+      "reposts": 4
+    }
+  },
+  {
+    "id": "P-013",
+    "client_id": "LOUD-006",
+    "date": "2026-10-05",
+    "title": "Modernizing legacy tech without breaking the bank: the question I get asked most",
+    "pillar": "Modernizing legacy tech without breaking the bank",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 9799,
+      "reactions": 173,
+      "comments": 27,
+      "reposts": 11
+    }
+  },
+  {
+    "id": "P-014",
+    "client_id": "LOUD-010",
+    "date": "2026-10-05",
+    "title": "Crisis comms playbooks: the mistake I made early on",
+    "pillar": "Crisis comms playbooks",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 17623,
+      "reactions": 712,
+      "comments": 113,
+      "reposts": 43
+    }
+  },
+  {
+    "id": "P-015",
+    "client_id": "LOUD-003",
+    "date": "2026-10-06",
+    "title": "Functional beverage trends: the question I get asked most",
+    "pillar": "Functional beverage trends",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 7536,
+      "reactions": 386,
+      "comments": 61,
+      "reposts": 24
+    }
+  },
+  {
+    "id": "P-016",
+    "client_id": "LOUD-002",
+    "date": "2026-10-07",
+    "title": "Founder-led vs. operator-led culture: the framework I use with my team",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 9365,
+      "reactions": 189,
+      "comments": 30,
+      "reposts": 12
+    }
+  },
+  {
+    "id": "P-017",
+    "client_id": "LOUD-006",
+    "date": "2026-10-07",
+    "title": "Building inclusive engineering teams: an unpopular opinion",
+    "pillar": "Building inclusive engineering teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 16161,
+      "reactions": 380,
+      "comments": 60,
+      "reposts": 23
+    }
+  },
+  {
+    "id": "P-018",
+    "client_id": "LOUD-008",
+    "date": "2026-10-07",
+    "title": "Leading people through change: the framework I use with my team",
+    "pillar": "Leading people through change",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 7901,
+      "reactions": 116,
+      "comments": 18,
+      "reposts": 7
+    }
+  },
+  {
+    "id": "P-019",
+    "client_id": "LOUD-001",
+    "date": "2026-10-08",
+    "title": "The future of the grocery aisle: what I got wrong last year",
+    "pillar": "The future of the grocery aisle",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 17050,
+      "reactions": 568,
+      "comments": 90,
+      "reposts": 35
+    }
+  },
+  {
+    "id": "P-020",
+    "client_id": "LOUD-007",
+    "date": "2026-10-08",
+    "title": "Design leadership for new directors: an unpopular opinion",
+    "pillar": "Design leadership for new directors",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 3627,
+      "reactions": 119,
+      "comments": 19,
+      "reposts": 7
+    }
+  },
+  {
+    "id": "P-021",
+    "client_id": "LOUD-002",
+    "date": "2026-10-09",
+    "title": "Building a clean beauty category leader: 3 things I'd tell my younger self",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 22112,
+      "reactions": 373,
+      "comments": 59,
+      "reposts": 23
+    }
+  },
+  {
+    "id": "P-022",
+    "client_id": "LOUD-003",
+    "date": "2026-10-09",
+    "title": "Growing into the C-suite: inside Fieldstone Beverage Co.",
+    "pillar": "Growing into the C-suite",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 9073,
+      "reactions": 291,
+      "comments": 46,
+      "reposts": 18
+    }
+  },
+  {
+    "id": "P-023",
+    "client_id": "LOUD-005",
+    "date": "2026-10-09",
+    "title": "Latina leadership in finance: lessons from CareBridge Systems",
+    "pillar": "Latina leadership in finance",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 7420,
+      "reactions": 106,
+      "comments": 17,
+      "reposts": 6
+    }
+  },
+  {
+    "id": "P-024",
+    "client_id": "LOUD-010",
+    "date": "2026-10-09",
+    "title": "From newsroom to boardroom: the framework I use with my team",
+    "pillar": "From newsroom to boardroom",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 8014,
+      "reactions": 198,
+      "comments": 31,
+      "reposts": 12
+    }
+  },
+  {
+    "id": "P-025",
+    "client_id": "LOUD-008",
+    "date": "2026-10-10",
+    "title": "Culture is built on the front line: the mistake I made early on",
+    "pillar": "Culture is built on the front line",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 9222,
+      "reactions": 225,
+      "comments": 36,
+      "reposts": 14
+    }
+  },
+  {
+    "id": "P-026",
+    "client_id": "LOUD-001",
+    "date": "2026-10-11",
+    "title": "Reinventing heritage brands: what I got wrong last year",
+    "pillar": "Reinventing heritage brands",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 11149,
+      "reactions": 180,
+      "comments": 28,
+      "reposts": 11
+    }
+  },
+  {
+    "id": "P-027",
+    "client_id": "LOUD-006",
+    "date": "2026-10-11",
+    "title": "Responsible AI in finance: the question I get asked most",
+    "pillar": "Responsible AI in finance",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 8276,
+      "reactions": 83,
+      "comments": 13,
+      "reposts": 5
+    }
+  },
+  {
+    "id": "P-028",
+    "client_id": "LOUD-007",
+    "date": "2026-10-11",
+    "title": "AI and the end of the screen: the question I get asked most",
+    "pillar": "AI and the end of the screen",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 2884,
+      "reactions": 162,
+      "comments": 26,
+      "reposts": 10
+    }
+  },
+  {
+    "id": "P-029",
+    "client_id": "LOUD-002",
+    "date": "2026-10-12",
+    "title": "CEO lessons from scaling DTC: 3 things I'd tell my younger self",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 25537,
+      "reactions": 277,
+      "comments": 44,
+      "reposts": 17
+    }
+  },
+  {
+    "id": "P-030",
+    "client_id": "LOUD-003",
+    "date": "2026-10-12",
+    "title": "Insight-to-innovation pipelines: what I got wrong last year",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 4757,
+      "reactions": 164,
+      "comments": 26,
+      "reposts": 10
+    }
+  },
+  {
+    "id": "P-031",
+    "client_id": "LOUD-010",
+    "date": "2026-10-12",
+    "title": "Telling the energy transition story: what I got wrong last year",
+    "pillar": "Telling the energy transition story",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 14030,
+      "reactions": 485,
+      "comments": 77,
+      "reposts": 30
+    }
+  },
+  {
+    "id": "P-032",
+    "client_id": "LOUD-007",
+    "date": "2026-10-13",
+    "title": "Designing the car of the future: the mistake I made early on",
+    "pillar": "Designing the car of the future",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 4455,
+      "reactions": 132,
+      "comments": 21,
+      "reposts": 8
+    }
+  },
+  {
+    "id": "P-033",
+    "client_id": "LOUD-008",
+    "date": "2026-10-13",
+    "title": "The future of hospitality work: what the data actually says",
+    "pillar": "The future of hospitality work",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 12318,
+      "reactions": 264,
+      "comments": 42,
+      "reposts": 16
+    }
+  },
+  {
+    "id": "P-034",
+    "client_id": "LOUD-002",
+    "date": "2026-10-14",
+    "title": "Founder-led vs. operator-led culture: a story from this week",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 25041,
+      "reactions": 399,
+      "comments": 63,
+      "reposts": 24
+    }
+  },
+  {
+    "id": "P-035",
+    "client_id": "LOUD-003",
+    "date": "2026-10-14",
+    "title": "Functional beverage trends: a myth worth retiring",
+    "pillar": "Functional beverage trends",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 6123,
+      "reactions": 235,
+      "comments": 37,
+      "reposts": 14
+    }
+  },
+  {
+    "id": "P-036",
+    "client_id": "LOUD-006",
+    "date": "2026-10-14",
+    "title": "Modernizing legacy tech without breaking the bank: the mistake I made early on",
+    "pillar": "Modernizing legacy tech without breaking the bank",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 19962,
+      "reactions": 200,
+      "comments": 32,
+      "reposts": 12
+    }
+  },
+  {
+    "id": "P-037",
+    "client_id": "LOUD-001",
+    "date": "2026-10-15",
+    "title": "Leading diverse marketing teams: the question I get asked most",
+    "pillar": "Leading diverse marketing teams",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 8201,
+      "reactions": 208,
+      "comments": 33,
+      "reposts": 13
+    }
+  },
+  {
+    "id": "P-038",
+    "client_id": "LOUD-005",
+    "date": "2026-10-15",
+    "title": "The modern strategic CFO: 3 things I'd tell my younger self",
+    "pillar": "The modern strategic CFO",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 5366,
+      "reactions": 75,
+      "comments": 12,
+      "reposts": 5
+    }
+  },
+  {
+    "id": "P-039",
+    "client_id": "LOUD-008",
+    "date": "2026-10-15",
+    "title": "Leading people through change: a myth worth retiring",
+    "pillar": "Leading people through change",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 13112,
+      "reactions": 230,
+      "comments": 36,
+      "reposts": 14
+    }
+  },
+  {
+    "id": "P-040",
+    "client_id": "LOUD-010",
+    "date": "2026-10-15",
+    "title": "Crisis comms playbooks: inside Veridian Energy",
+    "pillar": "Crisis comms playbooks",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 11034,
+      "reactions": 423,
+      "comments": 67,
+      "reposts": 26
+    }
+  },
+  {
+    "id": "P-041",
+    "client_id": "LOUD-002",
+    "date": "2026-10-17",
+    "title": "Building a clean beauty category leader: inside Pure Ritual",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 23635,
+      "reactions": 294,
+      "comments": 47,
+      "reposts": 18
+    }
+  },
+  {
+    "id": "P-042",
+    "client_id": "LOUD-006",
+    "date": "2026-10-17",
+    "title": "Building inclusive engineering teams: what the data actually says",
+    "pillar": "Building inclusive engineering teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 9640,
+      "reactions": 205,
+      "comments": 33,
+      "reposts": 13
+    }
+  },
+  {
+    "id": "P-043",
+    "client_id": "LOUD-001",
+    "date": "2026-10-18",
+    "title": "The future of the grocery aisle: the mistake I made early on",
+    "pillar": "The future of the grocery aisle",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 14180,
+      "reactions": 398,
+      "comments": 63,
+      "reposts": 24
+    }
+  },
+  {
+    "id": "P-044",
+    "client_id": "LOUD-003",
+    "date": "2026-10-18",
+    "title": "Growing into the C-suite: the mistake I made early on",
+    "pillar": "Growing into the C-suite",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 6580,
+      "reactions": 285,
+      "comments": 45,
+      "reposts": 17
+    }
+  },
+  {
+    "id": "P-045",
+    "client_id": "LOUD-005",
+    "date": "2026-10-18",
+    "title": "Healthtech economics explained: inside Lumen Health",
+    "pillar": "Healthtech economics explained",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 4887,
+      "reactions": 36,
+      "comments": 6,
+      "reposts": 2
+    }
+  },
+  {
+    "id": "P-046",
+    "client_id": "LOUD-007",
+    "date": "2026-10-18",
+    "title": "Design leadership for new directors: what I got wrong last year",
+    "pillar": "Design leadership for new directors",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 2401,
+      "reactions": 67,
+      "comments": 11,
+      "reposts": 4
+    }
+  },
+  {
+    "id": "P-047",
+    "client_id": "LOUD-008",
+    "date": "2026-10-18",
+    "title": "Culture is built on the front line: inside Meridian Hotels Group",
+    "pillar": "Culture is built on the front line",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 13061,
+      "reactions": 255,
+      "comments": 40,
+      "reposts": 16
+    }
+  },
+  {
+    "id": "P-048",
+    "client_id": "LOUD-010",
+    "date": "2026-10-18",
+    "title": "From newsroom to boardroom: the mistake I made early on",
+    "pillar": "From newsroom to boardroom",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 10066,
+      "reactions": 314,
+      "comments": 50,
+      "reposts": 19
+    }
+  },
+  {
+    "id": "P-049",
+    "client_id": "LOUD-002",
+    "date": "2026-10-20",
+    "title": "CEO lessons from scaling DTC: what I got wrong last year",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 23226,
+      "reactions": 311,
+      "comments": 49,
+      "reposts": 19
+    }
+  },
+  {
+    "id": "P-050",
+    "client_id": "LOUD-004",
+    "date": "2026-10-20",
+    "title": "Behind the scenes of ESG data: the mistake I made early on",
+    "pillar": "Behind the scenes of ESG data",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 3193,
+      "reactions": 81,
+      "comments": 13,
+      "reposts": 5
+    }
+  },
+  {
+    "id": "P-051",
+    "client_id": "LOUD-008",
+    "date": "2026-10-20",
+    "title": "The future of hospitality work: inside Meridian Hotels Group",
+    "pillar": "The future of hospitality work",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 5313,
+      "reactions": 107,
+      "comments": 17,
+      "reposts": 7
+    }
+  },
+  {
+    "id": "P-052",
+    "client_id": "LOUD-006",
+    "date": "2026-10-21",
+    "title": "Responsible AI in finance: lessons from Copperfield Bank",
+    "pillar": "Responsible AI in finance",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 13438,
+      "reactions": 271,
+      "comments": 43,
+      "reposts": 17
+    }
+  },
+  {
+    "id": "P-053",
+    "client_id": "LOUD-007",
+    "date": "2026-10-21",
+    "title": "AI and the end of the screen: what changes in 2027",
+    "pillar": "AI and the end of the screen",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 3912,
+      "reactions": 214,
+      "comments": 34,
+      "reposts": 13
+    }
+  },
+  {
+    "id": "P-054",
+    "client_id": "LOUD-010",
+    "date": "2026-10-21",
+    "title": "Telling the energy transition story: 3 things I'd tell my younger self",
+    "pillar": "Telling the energy transition story",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 14360,
+      "reactions": 510,
+      "comments": 81,
+      "reposts": 31
+    }
+  },
+  {
+    "id": "P-055",
+    "client_id": "LOUD-001",
+    "date": "2026-10-22",
+    "title": "Reinventing heritage brands: a myth worth retiring",
+    "pillar": "Reinventing heritage brands",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 8110,
+      "reactions": 207,
+      "comments": 33,
+      "reposts": 13
+    }
+  },
+  {
+    "id": "P-056",
+    "client_id": "LOUD-002",
+    "date": "2026-10-22",
+    "title": "Founder-led vs. operator-led culture: inside Pure Ritual",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 8809,
+      "reactions": 78,
+      "comments": 12,
+      "reposts": 5
+    }
+  },
+  {
+    "id": "P-057",
+    "client_id": "LOUD-003",
+    "date": "2026-10-22",
+    "title": "Insight-to-innovation pipelines: an unpopular opinion",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 8829,
+      "reactions": 297,
+      "comments": 47,
+      "reposts": 18
+    }
+  },
+  {
+    "id": "P-058",
+    "client_id": "LOUD-001",
+    "date": "2026-10-23",
+    "title": "Leading diverse marketing teams: lessons from Goldenfield Cereals",
+    "pillar": "Leading diverse marketing teams",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 16409,
+      "reactions": 534,
+      "comments": 85,
+      "reposts": 33
+    }
+  },
+  {
+    "id": "P-059",
+    "client_id": "LOUD-005",
+    "date": "2026-10-23",
+    "title": "Latina leadership in finance: 3 things I'd tell my younger self",
+    "pillar": "Latina leadership in finance",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 5095,
+      "reactions": 70,
+      "comments": 11,
+      "reposts": 4
+    }
+  },
+  {
+    "id": "P-060",
+    "client_id": "LOUD-006",
+    "date": "2026-10-23",
+    "title": "Modernizing legacy tech without breaking the bank: inside Brightline Financial",
+    "pillar": "Modernizing legacy tech without breaking the bank",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 9397,
+      "reactions": 132,
+      "comments": 21,
+      "reposts": 8
+    }
+  },
+  {
+    "id": "P-061",
+    "client_id": "LOUD-008",
+    "date": "2026-10-23",
+    "title": "Leading people through change: what changes in 2027",
+    "pillar": "Leading people through change",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 11866,
+      "reactions": 315,
+      "comments": 50,
+      "reposts": 19
+    }
+  },
+  {
+    "id": "P-062",
+    "client_id": "LOUD-010",
+    "date": "2026-10-23",
+    "title": "Crisis comms playbooks: the question I get asked most",
+    "pillar": "Crisis comms playbooks",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 12212,
+      "reactions": 417,
+      "comments": 66,
+      "reposts": 25
+    }
+  },
+  {
+    "id": "P-063",
+    "client_id": "LOUD-003",
+    "date": "2026-10-24",
+    "title": "Functional beverage trends: what the data actually says",
+    "pillar": "Functional beverage trends",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 4272,
+      "reactions": 153,
+      "comments": 24,
+      "reposts": 9
+    }
+  },
+  {
+    "id": "P-064",
+    "client_id": "LOUD-008",
+    "date": "2026-10-24",
+    "title": "Culture is built on the front line: 3 things I'd tell my younger self",
+    "pillar": "Culture is built on the front line",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 13258,
+      "reactions": 265,
+      "comments": 42,
+      "reposts": 16
+    }
+  },
+  {
+    "id": "P-065",
+    "client_id": "LOUD-002",
+    "date": "2026-10-25",
+    "title": "Building a clean beauty category leader: what changes in 2027",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 10263,
+      "reactions": 201,
+      "comments": 32,
+      "reposts": 12
+    }
+  },
+  {
+    "id": "P-066",
+    "client_id": "LOUD-004",
+    "date": "2026-10-25",
+    "title": "Plastic reduction that actually works: lessons from Northvale Home Care",
+    "pillar": "Plastic reduction that actually works",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 3092,
+      "reactions": 91,
+      "comments": 14,
+      "reposts": 6
+    }
+  },
+  {
+    "id": "P-067",
+    "client_id": "LOUD-007",
+    "date": "2026-10-25",
+    "title": "Designing the car of the future: a myth worth retiring",
+    "pillar": "Designing the car of the future",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 3086,
+      "reactions": 139,
+      "comments": 22,
+      "reposts": 8
+    }
+  },
+  {
+    "id": "P-068",
+    "client_id": "LOUD-001",
+    "date": "2026-10-26",
+    "title": "The future of the grocery aisle: 3 things I'd tell my younger self",
+    "pillar": "The future of the grocery aisle",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 11489,
+      "reactions": 307,
+      "comments": 49,
+      "reposts": 19
+    }
+  },
+  {
+    "id": "P-069",
+    "client_id": "LOUD-005",
+    "date": "2026-10-26",
+    "title": "The modern strategic CFO: an unpopular opinion",
+    "pillar": "The modern strategic CFO",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 5166,
+      "reactions": 64,
+      "comments": 10,
+      "reposts": 4
+    }
+  },
+  {
+    "id": "P-070",
+    "client_id": "LOUD-006",
+    "date": "2026-10-26",
+    "title": "Building inclusive engineering teams: the mistake I made early on",
+    "pillar": "Building inclusive engineering teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 8016,
+      "reactions": 130,
+      "comments": 21,
+      "reposts": 8
+    }
+  },
+  {
+    "id": "P-071",
+    "client_id": "LOUD-003",
+    "date": "2026-10-27",
+    "title": "Growing into the C-suite: a story from this week",
+    "pillar": "Growing into the C-suite",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 9750,
+      "reactions": 268,
+      "comments": 43,
+      "reposts": 16
+    }
+  },
+  {
+    "id": "P-072",
+    "client_id": "LOUD-008",
+    "date": "2026-10-27",
+    "title": "The future of hospitality work: lessons from Solara Resorts",
+    "pillar": "The future of hospitality work",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Published",
+    "results": {
+      "impressions": 7701,
+      "reactions": 106,
+      "comments": 17,
+      "reposts": 6
+    }
+  },
+  {
+    "id": "P-073",
+    "client_id": "LOUD-010",
+    "date": "2026-10-27",
+    "title": "From newsroom to boardroom: what I got wrong last year",
+    "pillar": "From newsroom to boardroom",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Published",
+    "results": {
+      "impressions": 5894,
+      "reactions": 115,
+      "comments": 18,
+      "reposts": 7
+    }
+  },
+  {
+    "id": "P-074",
+    "client_id": "LOUD-002",
+    "date": "2026-10-28",
+    "title": "CEO lessons from scaling DTC: the mistake I made early on",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-075",
+    "client_id": "LOUD-003",
+    "date": "2026-10-30",
+    "title": "Insight-to-innovation pipelines: the mistake I made early on",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-076",
+    "client_id": "LOUD-004",
+    "date": "2026-10-30",
+    "title": "Making sustainability profitable: 3 things I'd tell my younger self",
+    "pillar": "Making sustainability profitable",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-077",
+    "client_id": "LOUD-006",
+    "date": "2026-10-30",
+    "title": "Responsible AI in finance: the framework I use with my team",
+    "pillar": "Responsible AI in finance",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Approved"
+  },
+  {
+    "id": "P-078",
+    "client_id": "LOUD-007",
+    "date": "2026-10-30",
+    "title": "Design leadership for new directors: the framework I use with my team",
+    "pillar": "Design leadership for new directors",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Approved"
+  },
+  {
+    "id": "P-079",
+    "client_id": "LOUD-008",
+    "date": "2026-10-30",
+    "title": "Leading people through change: lessons from Solara Resorts",
+    "pillar": "Leading people through change",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Approved"
+  },
+  {
+    "id": "P-080",
+    "client_id": "LOUD-010",
+    "date": "2026-10-30",
+    "title": "Telling the energy transition story: a story from this week",
+    "pillar": "Telling the energy transition story",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Approved"
+  },
+  {
+    "id": "P-081",
+    "client_id": "LOUD-001",
+    "date": "2026-10-31",
+    "title": "Reinventing heritage brands: a story from this week",
+    "pillar": "Reinventing heritage brands",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Approved"
+  },
+  {
+    "id": "P-082",
+    "client_id": "LOUD-002",
+    "date": "2026-10-31",
+    "title": "Founder-led vs. operator-led culture: what changes in 2027",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Approved"
+  },
+  {
+    "id": "P-083",
+    "client_id": "LOUD-005",
+    "date": "2026-10-31",
+    "title": "Healthtech economics explained: the question I get asked most",
+    "pillar": "Healthtech economics explained",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Approved"
+  },
+  {
+    "id": "P-084",
+    "client_id": "LOUD-002",
+    "date": "2026-11-01",
+    "title": "Building a clean beauty category leader: what I got wrong last year",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-085",
+    "client_id": "LOUD-001",
+    "date": "2026-11-02",
+    "title": "Reinventing heritage brands: what the data actually says",
+    "pillar": "Reinventing heritage brands",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-086",
+    "client_id": "LOUD-005",
+    "date": "2026-11-02",
+    "title": "The modern strategic CFO: the framework I use with my team",
+    "pillar": "The modern strategic CFO",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-087",
+    "client_id": "LOUD-008",
+    "date": "2026-11-02",
+    "title": "Culture is built on the front line: an unpopular opinion",
+    "pillar": "Culture is built on the front line",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-088",
+    "client_id": "LOUD-003",
+    "date": "2026-11-03",
+    "title": "Insight-to-innovation pipelines: what changes in 2027",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-089",
+    "client_id": "LOUD-004",
+    "date": "2026-11-03",
+    "title": "Plastic reduction that actually works: the question I get asked most",
+    "pillar": "Plastic reduction that actually works",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-090",
+    "client_id": "LOUD-006",
+    "date": "2026-11-03",
+    "title": "Responsible AI in finance: 3 things I'd tell my younger self",
+    "pillar": "Responsible AI in finance",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-091",
+    "client_id": "LOUD-007",
+    "date": "2026-11-03",
+    "title": "Designing the car of the future: the framework I use with my team",
+    "pillar": "Designing the car of the future",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-092",
+    "client_id": "LOUD-010",
+    "date": "2026-11-03",
+    "title": "Telling the energy transition story: what changes in 2027",
+    "pillar": "Telling the energy transition story",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-093",
+    "client_id": "LOUD-009",
+    "date": "2026-11-04",
+    "title": "Automation without layoffs: the framework I use with my team",
+    "pillar": "Automation without layoffs",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-094",
+    "client_id": "LOUD-001",
+    "date": "2026-11-05",
+    "title": "Leading diverse marketing teams: the mistake I made early on",
+    "pillar": "Leading diverse marketing teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-095",
+    "client_id": "LOUD-002",
+    "date": "2026-11-05",
+    "title": "CEO lessons from scaling DTC: the framework I use with my team",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-096",
+    "client_id": "LOUD-005",
+    "date": "2026-11-05",
+    "title": "Healthtech economics explained: what I got wrong last year",
+    "pillar": "Healthtech economics explained",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-097",
+    "client_id": "LOUD-008",
+    "date": "2026-11-05",
+    "title": "The future of hospitality work: 3 things I'd tell my younger self",
+    "pillar": "The future of hospitality work",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-098",
+    "client_id": "LOUD-010",
+    "date": "2026-11-05",
+    "title": "Crisis comms playbooks: what I got wrong last year",
+    "pillar": "Crisis comms playbooks",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-099",
+    "client_id": "LOUD-002",
+    "date": "2026-11-06",
+    "title": "Founder-led vs. operator-led culture: 3 things I'd tell my younger self",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-100",
+    "client_id": "LOUD-003",
+    "date": "2026-11-06",
+    "title": "Functional beverage trends: inside Fieldstone Beverage Co.",
+    "pillar": "Functional beverage trends",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-101",
+    "client_id": "LOUD-004",
+    "date": "2026-11-06",
+    "title": "Making sustainability profitable: what I got wrong last year",
+    "pillar": "Making sustainability profitable",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-102",
+    "client_id": "LOUD-006",
+    "date": "2026-11-06",
+    "title": "Modernizing legacy tech without breaking the bank: the framework I use with my team",
+    "pillar": "Modernizing legacy tech without breaking the bank",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-103",
+    "client_id": "LOUD-003",
+    "date": "2026-11-07",
+    "title": "Growing into the C-suite: what the data actually says",
+    "pillar": "Growing into the C-suite",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-104",
+    "client_id": "LOUD-007",
+    "date": "2026-11-07",
+    "title": "Design leadership for new directors: a myth worth retiring",
+    "pillar": "Design leadership for new directors",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Client review"
+  },
+  {
+    "id": "P-105",
+    "client_id": "LOUD-008",
+    "date": "2026-11-07",
+    "title": "Leading people through change: the mistake I made early on",
+    "pillar": "Leading people through change",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Client review"
+  },
+  {
+    "id": "P-106",
+    "client_id": "LOUD-001",
+    "date": "2026-11-08",
+    "title": "The future of the grocery aisle: a myth worth retiring",
+    "pillar": "The future of the grocery aisle",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-107",
+    "client_id": "LOUD-006",
+    "date": "2026-11-08",
+    "title": "Building inclusive engineering teams: a story from this week",
+    "pillar": "Building inclusive engineering teams",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-108",
+    "client_id": "LOUD-010",
+    "date": "2026-11-08",
+    "title": "From newsroom to boardroom: a story from this week",
+    "pillar": "From newsroom to boardroom",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-109",
+    "client_id": "LOUD-005",
+    "date": "2026-11-09",
+    "title": "Latina leadership in finance: a myth worth retiring",
+    "pillar": "Latina leadership in finance",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-110",
+    "client_id": "LOUD-009",
+    "date": "2026-11-09",
+    "title": "Supply chain resilience: the framework I use with my team",
+    "pillar": "Supply chain resilience",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-111",
+    "client_id": "LOUD-001",
+    "date": "2026-11-10",
+    "title": "Reinventing heritage brands: the framework I use with my team",
+    "pillar": "Reinventing heritage brands",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-112",
+    "client_id": "LOUD-002",
+    "date": "2026-11-10",
+    "title": "Building a clean beauty category leader: a story from this week",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-113",
+    "client_id": "LOUD-004",
+    "date": "2026-11-10",
+    "title": "Behind the scenes of ESG data: a story from this week",
+    "pillar": "Behind the scenes of ESG data",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-114",
+    "client_id": "LOUD-008",
+    "date": "2026-11-10",
+    "title": "Culture is built on the front line: lessons from Solara Resorts",
+    "pillar": "Culture is built on the front line",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-115",
+    "client_id": "LOUD-003",
+    "date": "2026-11-11",
+    "title": "Insight-to-innovation pipelines: lessons from Tidewater Brands",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-116",
+    "client_id": "LOUD-006",
+    "date": "2026-11-11",
+    "title": "Responsible AI in finance: what the data actually says",
+    "pillar": "Responsible AI in finance",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-117",
+    "client_id": "LOUD-007",
+    "date": "2026-11-11",
+    "title": "AI and the end of the screen: what the data actually says",
+    "pillar": "AI and the end of the screen",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-118",
+    "client_id": "LOUD-009",
+    "date": "2026-11-11",
+    "title": "Lessons from military logistics: the question I get asked most",
+    "pillar": "Lessons from military logistics",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-119",
+    "client_id": "LOUD-010",
+    "date": "2026-11-11",
+    "title": "Telling the energy transition story: inside Veridian Energy",
+    "pillar": "Telling the energy transition story",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-120",
+    "client_id": "LOUD-002",
+    "date": "2026-11-12",
+    "title": "CEO lessons from scaling DTC: inside Pure Ritual",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-121",
+    "client_id": "LOUD-008",
+    "date": "2026-11-12",
+    "title": "The future of hospitality work: a story from this week",
+    "pillar": "The future of hospitality work",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-122",
+    "client_id": "LOUD-003",
+    "date": "2026-11-13",
+    "title": "Functional beverage trends: what I got wrong last year",
+    "pillar": "Functional beverage trends",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-123",
+    "client_id": "LOUD-005",
+    "date": "2026-11-13",
+    "title": "The modern strategic CFO: inside Lumen Health",
+    "pillar": "The modern strategic CFO",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-124",
+    "client_id": "LOUD-001",
+    "date": "2026-11-14",
+    "title": "Leading diverse marketing teams: what the data actually says",
+    "pillar": "Leading diverse marketing teams",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-125",
+    "client_id": "LOUD-002",
+    "date": "2026-11-14",
+    "title": "Founder-led vs. operator-led culture: the question I get asked most",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-126",
+    "client_id": "LOUD-004",
+    "date": "2026-11-14",
+    "title": "Plastic reduction that actually works: a myth worth retiring",
+    "pillar": "Plastic reduction that actually works",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-127",
+    "client_id": "LOUD-006",
+    "date": "2026-11-14",
+    "title": "Modernizing legacy tech without breaking the bank: 3 things I'd tell my younger self",
+    "pillar": "Modernizing legacy tech without breaking the bank",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-128",
+    "client_id": "LOUD-008",
+    "date": "2026-11-14",
+    "title": "Leading people through change: an unpopular opinion",
+    "pillar": "Leading people through change",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-129",
+    "client_id": "LOUD-010",
+    "date": "2026-11-14",
+    "title": "Crisis comms playbooks: an unpopular opinion",
+    "pillar": "Crisis comms playbooks",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-130",
+    "client_id": "LOUD-007",
+    "date": "2026-11-15",
+    "title": "Designing the car of the future: inside Orbital Mobility",
+    "pillar": "Designing the car of the future",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-131",
+    "client_id": "LOUD-009",
+    "date": "2026-11-15",
+    "title": "Automation without layoffs: 3 things I'd tell my younger self",
+    "pillar": "Automation without layoffs",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-132",
+    "client_id": "LOUD-001",
+    "date": "2026-11-16",
+    "title": "The future of the grocery aisle: an unpopular opinion",
+    "pillar": "The future of the grocery aisle",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-133",
+    "client_id": "LOUD-003",
+    "date": "2026-11-16",
+    "title": "Growing into the C-suite: lessons from Tidewater Brands",
+    "pillar": "Growing into the C-suite",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-134",
+    "client_id": "LOUD-002",
+    "date": "2026-11-17",
+    "title": "Building a clean beauty category leader: the question I get asked most",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-135",
+    "client_id": "LOUD-006",
+    "date": "2026-11-17",
+    "title": "Building inclusive engineering teams: what changes in 2027",
+    "pillar": "Building inclusive engineering teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-136",
+    "client_id": "LOUD-008",
+    "date": "2026-11-17",
+    "title": "Culture is built on the front line: a story from this week",
+    "pillar": "Culture is built on the front line",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-137",
+    "client_id": "LOUD-009",
+    "date": "2026-11-17",
+    "title": "Supply chain resilience: lessons from Pacific Freightways",
+    "pillar": "Supply chain resilience",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Drafted"
+  },
+  {
+    "id": "P-138",
+    "client_id": "LOUD-010",
+    "date": "2026-11-17",
+    "title": "From newsroom to boardroom: a myth worth retiring",
+    "pillar": "From newsroom to boardroom",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-139",
+    "client_id": "LOUD-004",
+    "date": "2026-11-18",
+    "title": "Making sustainability profitable: the question I get asked most",
+    "pillar": "Making sustainability profitable",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-140",
+    "client_id": "LOUD-005",
+    "date": "2026-11-18",
+    "title": "Healthtech economics explained: the mistake I made early on",
+    "pillar": "Healthtech economics explained",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-141",
+    "client_id": "LOUD-007",
+    "date": "2026-11-18",
+    "title": "Design leadership for new directors: inside Orbital Mobility",
+    "pillar": "Design leadership for new directors",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-142",
+    "client_id": "LOUD-001",
+    "date": "2026-11-19",
+    "title": "Reinventing heritage brands: the question I get asked most",
+    "pillar": "Reinventing heritage brands",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-143",
+    "client_id": "LOUD-008",
+    "date": "2026-11-19",
+    "title": "The future of hospitality work: the question I get asked most",
+    "pillar": "The future of hospitality work",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-144",
+    "client_id": "LOUD-009",
+    "date": "2026-11-19",
+    "title": "Lessons from military logistics: the mistake I made early on",
+    "pillar": "Lessons from military logistics",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-145",
+    "client_id": "LOUD-002",
+    "date": "2026-11-20",
+    "title": "CEO lessons from scaling DTC: what changes in 2027",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-146",
+    "client_id": "LOUD-003",
+    "date": "2026-11-20",
+    "title": "Insight-to-innovation pipelines: what the data actually says",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-147",
+    "client_id": "LOUD-005",
+    "date": "2026-11-20",
+    "title": "Latina leadership in finance: a story from this week",
+    "pillar": "Latina leadership in finance",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-148",
+    "client_id": "LOUD-010",
+    "date": "2026-11-20",
+    "title": "Telling the energy transition story: the framework I use with my team",
+    "pillar": "Telling the energy transition story",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-149",
+    "client_id": "LOUD-004",
+    "date": "2026-11-21",
+    "title": "Behind the scenes of ESG data: 3 things I'd tell my younger self",
+    "pillar": "Behind the scenes of ESG data",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-150",
+    "client_id": "LOUD-006",
+    "date": "2026-11-21",
+    "title": "Responsible AI in finance: an unpopular opinion",
+    "pillar": "Responsible AI in finance",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-151",
+    "client_id": "LOUD-008",
+    "date": "2026-11-21",
+    "title": "Leading people through change: the question I get asked most",
+    "pillar": "Leading people through change",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-152",
+    "client_id": "LOUD-002",
+    "date": "2026-11-22",
+    "title": "Founder-led vs. operator-led culture: lessons from Aurelle Cosmetics",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-153",
+    "client_id": "LOUD-007",
+    "date": "2026-11-22",
+    "title": "AI and the end of the screen: lessons from Pixelwave Studios",
+    "pillar": "AI and the end of the screen",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-154",
+    "client_id": "LOUD-010",
+    "date": "2026-11-22",
+    "title": "Crisis comms playbooks: a story from this week",
+    "pillar": "Crisis comms playbooks",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-155",
+    "client_id": "LOUD-001",
+    "date": "2026-11-23",
+    "title": "Leading diverse marketing teams: what changes in 2027",
+    "pillar": "Leading diverse marketing teams",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-156",
+    "client_id": "LOUD-003",
+    "date": "2026-11-23",
+    "title": "Functional beverage trends: what changes in 2027",
+    "pillar": "Functional beverage trends",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-157",
+    "client_id": "LOUD-006",
+    "date": "2026-11-23",
+    "title": "Modernizing legacy tech without breaking the bank: an unpopular opinion",
+    "pillar": "Modernizing legacy tech without breaking the bank",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-158",
+    "client_id": "LOUD-002",
+    "date": "2026-11-24",
+    "title": "Building a clean beauty category leader: an unpopular opinion",
+    "pillar": "Building a clean beauty category leader",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-159",
+    "client_id": "LOUD-007",
+    "date": "2026-11-24",
+    "title": "Designing the car of the future: what changes in 2027",
+    "pillar": "Designing the car of the future",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-160",
+    "client_id": "LOUD-009",
+    "date": "2026-11-24",
+    "title": "Automation without layoffs: an unpopular opinion",
+    "pillar": "Automation without layoffs",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-161",
+    "client_id": "LOUD-001",
+    "date": "2026-11-25",
+    "title": "The future of the grocery aisle: lessons from Goldenfield Cereals",
+    "pillar": "The future of the grocery aisle",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-162",
+    "client_id": "LOUD-003",
+    "date": "2026-11-25",
+    "title": "Growing into the C-suite: 3 things I'd tell my younger self",
+    "pillar": "Growing into the C-suite",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-163",
+    "client_id": "LOUD-004",
+    "date": "2026-11-25",
+    "title": "Plastic reduction that actually works: the framework I use with my team",
+    "pillar": "Plastic reduction that actually works",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-164",
+    "client_id": "LOUD-005",
+    "date": "2026-11-25",
+    "title": "The modern strategic CFO: the mistake I made early on",
+    "pillar": "The modern strategic CFO",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-165",
+    "client_id": "LOUD-006",
+    "date": "2026-11-25",
+    "title": "Building inclusive engineering teams: the framework I use with my team",
+    "pillar": "Building inclusive engineering teams",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-166",
+    "client_id": "LOUD-008",
+    "date": "2026-11-25",
+    "title": "Culture is built on the front line: the question I get asked most",
+    "pillar": "Culture is built on the front line",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-167",
+    "client_id": "LOUD-002",
+    "date": "2026-11-26",
+    "title": "CEO lessons from scaling DTC: a myth worth retiring",
+    "pillar": "CEO lessons from scaling DTC",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-168",
+    "client_id": "LOUD-009",
+    "date": "2026-11-26",
+    "title": "Supply chain resilience: 3 things I'd tell my younger self",
+    "pillar": "Supply chain resilience",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-169",
+    "client_id": "LOUD-010",
+    "date": "2026-11-26",
+    "title": "From newsroom to boardroom: 3 things I'd tell my younger self",
+    "pillar": "From newsroom to boardroom",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-170",
+    "client_id": "LOUD-004",
+    "date": "2026-11-27",
+    "title": "Making sustainability profitable: lessons from Northvale Home Care",
+    "pillar": "Making sustainability profitable",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-171",
+    "client_id": "LOUD-005",
+    "date": "2026-11-27",
+    "title": "Healthtech economics explained: an unpopular opinion",
+    "pillar": "Healthtech economics explained",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-172",
+    "client_id": "LOUD-008",
+    "date": "2026-11-27",
+    "title": "The future of hospitality work: what I got wrong last year",
+    "pillar": "The future of hospitality work",
+    "format": "Carousel",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-173",
+    "client_id": "LOUD-007",
+    "date": "2026-11-28",
+    "title": "Design leadership for new directors: what changes in 2027",
+    "pillar": "Design leadership for new directors",
+    "format": "Text post",
+    "channel": "LinkedIn",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-174",
+    "client_id": "LOUD-009",
+    "date": "2026-11-28",
+    "title": "Lessons from military logistics: 3 things I'd tell my younger self",
+    "pillar": "Lessons from military logistics",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-175",
+    "client_id": "LOUD-001",
+    "date": "2026-11-29",
+    "title": "Reinventing heritage brands: the mistake I made early on",
+    "pillar": "Reinventing heritage brands",
+    "format": "Article",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-176",
+    "client_id": "LOUD-002",
+    "date": "2026-11-29",
+    "title": "Founder-led vs. operator-led culture: an unpopular opinion",
+    "pillar": "Founder-led vs. operator-led culture",
+    "format": "Short video",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-177",
+    "client_id": "LOUD-010",
+    "date": "2026-11-29",
+    "title": "Telling the energy transition story: the question I get asked most",
+    "pillar": "Telling the energy transition story",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-178",
+    "client_id": "LOUD-003",
+    "date": "2026-11-30",
+    "title": "Insight-to-innovation pipelines: a story from this week",
+    "pillar": "Insight-to-innovation pipelines",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T2",
+    "status": "Idea"
+  },
+  {
+    "id": "P-179",
+    "client_id": "LOUD-006",
+    "date": "2026-11-30",
+    "title": "Responsible AI in finance: the mistake I made early on",
+    "pillar": "Responsible AI in finance",
+    "format": "Newsletter",
+    "channel": "Newsletter",
+    "owner": "T1",
+    "status": "Idea"
+  },
+  {
+    "id": "P-180",
+    "client_id": "LOUD-008",
+    "date": "2026-11-30",
+    "title": "Leading people through change: inside Meridian Hotels Group",
+    "pillar": "Leading people through change",
+    "format": "Poll",
+    "channel": "LinkedIn",
+    "owner": "T1",
+    "status": "Idea"
+  }
+]

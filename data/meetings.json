@@ -1,0 +1,1836 @@
+[
+  {
+    "id": "M-001",
+    "client_id": "LOUD-008",
+    "type": "Kickoff & brand discovery",
+    "date": "2024-11-04",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Elena. Starting position: 11,676 LinkedIn followers, 1.7% engagement, posting about 8x a month. Elena wants to be known for frontline workforce retention and culture at scale. Agreed tone: warm, grounded, story-first. Sensitivities: No individual employee stories without consent. ",
+    "takeaways": [
+      "Primary goal: Publish a book on frontline culture",
+      "Content pillars: Culture is built on the front line; The future of hospitality work; Leading people through change",
+      "Approval: Elena reviews drafts weekly; no individual employee stories without consent"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T1",
+        "due": "2024-11-09",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2024-11-11",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2024-11-14",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-002",
+    "client_id": "LOUD-010",
+    "type": "Kickoff & brand discovery",
+    "date": "2025-01-13",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T2",
+      "T1"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Aisha. Starting position: 12,520 LinkedIn followers, 3.4% engagement, posting about 9x a month. Aisha wants to be known for energy transition storytelling and crisis communications. Agreed tone: sharp, newsy, confident. Sensitivities: Planning-application topics need legal review. ",
+    "takeaways": [
+      "Primary goal: Be a top voice on clean energy communications",
+      "Content pillars: Telling the energy transition story; Crisis comms playbooks; From newsroom to boardroom",
+      "Approval: Aisha reviews drafts weekly; planning-application topics need legal review"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T2",
+        "due": "2025-01-18",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2025-01-20",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2025-01-23",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-003",
+    "client_id": "LOUD-002",
+    "type": "Kickoff & brand discovery",
+    "date": "2025-03-03",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Marcus. Starting position: 32,833 LinkedIn followers, 0.8% engagement, posting about 6x a month. Marcus wants to be known for dtc-to-retail scaling and clean beauty. Agreed tone: measured, founder-adjacent, plain-spoken. Sensitivities: Nothing that could read as IPO signalling; investor topics need legal sign-off. ",
+    "takeaways": [
+      "Primary goal: Position for a potential IPO narrative",
+      "Content pillars: Building a clean beauty category leader; CEO lessons from scaling DTC; Founder-led vs. operator-led culture",
+      "Approval: Marcus reviews drafts weekly; nothing that could read as ipo signalling"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T1",
+        "due": "2025-03-06",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2025-03-08",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2025-03-11",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-004",
+    "client_id": "LOUD-006",
+    "type": "Kickoff & brand discovery",
+    "date": "2025-06-02",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with James. Starting position: 21,279 LinkedIn followers, 1.1% engagement, posting about 7x a month. James wants to be known for ai in financial services and core banking modernization. Agreed tone: authoritative, technical but accessible. Sensitivities: Regulator topics need compliance review; no product roadmap details. ",
+    "takeaways": [
+      "Primary goal: Be a recognized voice on responsible AI in banking",
+      "Content pillars: Responsible AI in finance; Modernizing legacy tech without breaking the bank; Building inclusive engineering teams",
+      "Approval: James reviews drafts weekly; regulator topics need compliance review"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T1",
+        "due": "2025-06-07",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2025-06-09",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2025-06-12",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-005",
+    "client_id": "LOUD-001",
+    "type": "Kickoff & brand discovery",
+    "date": "2025-09-15",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Danielle. Starting position: 14,211 LinkedIn followers, 2.5% engagement, posting about 5x a month. Danielle wants to be known for brand turnarounds and gen z snacking trends. Agreed tone: warm, confident, a little irreverent. Sensitivities: No commentary on competitor brands by name; retail partner news only after it is public. ",
+    "takeaways": [
+      "Primary goal: Be recognised as a top-10 UK CPG CMO voice",
+      "Content pillars: Reinventing heritage brands; Leading diverse marketing teams; The future of the grocery aisle",
+      "Approval: Danielle reviews drafts weekly; no commentary on competitor brands by name"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T1",
+        "due": "2025-09-20",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2025-09-22",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2025-09-25",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-006",
+    "client_id": "LOUD-003",
+    "type": "Kickoff & brand discovery",
+    "date": "2026-02-02",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T2",
+      "T1"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Priya. Starting position: 7,202 LinkedIn followers, 4.5% engagement, posting about 7x a month. Priya wants to be known for functional beverages and data-driven innovation. Agreed tone: curious, analytical, energetic. Sensitivities: Pipeline and launch dates are confidential until announced. ",
+    "takeaways": [
+      "Primary goal: Establish authority in a new C-suite role",
+      "Content pillars: Insight-to-innovation pipelines; Functional beverage trends; Growing into the C-suite",
+      "Approval: Priya reviews drafts weekly; pipeline and launch dates are confidential until announced"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T2",
+        "due": "2026-02-06",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2026-02-08",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2026-02-11",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-007",
+    "client_id": "LOUD-005",
+    "type": "Kickoff & brand discovery",
+    "date": "2026-05-12",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T2",
+      "T1"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Sofia. Starting position: 12,348 LinkedIn followers, 1.1% engagement, posting about 5x a month. Sofia wants to be known for venture & growth fundraising and saas unit economics. Agreed tone: crisp, strategic, encouraging. Sensitivities: No numbers on fundraising until announced; board season limits availability. ",
+    "takeaways": [
+      "Primary goal: Build credibility ahead of a Series C raise",
+      "Content pillars: The modern strategic CFO; Healthtech economics explained; Latina leadership in finance",
+      "Approval: Sofia reviews drafts weekly; no numbers on fundraising until announced"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T2",
+        "due": "2026-05-17",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2026-05-19",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2026-05-22",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-008",
+    "client_id": "LOUD-007",
+    "type": "Kickoff & brand discovery",
+    "date": "2026-07-01",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T2",
+      "T1"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Rachel. Starting position: 3,524 LinkedIn followers, 5.2% engagement, posting about 8x a month. Rachel wants to be known for in-vehicle ux and design systems. Agreed tone: visual, optimistic, playful. Sensitivities: Unreleased vehicle UI cannot be shown. ",
+    "takeaways": [
+      "Primary goal: Grow from niche design audience to broader tech audience",
+      "Content pillars: Designing the car of the future; Design leadership for new directors; AI and the end of the screen",
+      "Approval: Rachel reviews drafts weekly; unreleased vehicle ui cannot be shown"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T2",
+        "due": "2026-07-06",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2026-07-08",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2026-07-11",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-009",
+    "client_id": "LOUD-001",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "09:30",
+    "end": "10:15",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 17,706 → 18,107; engagement 3%. Planned September themes around leading diverse marketing teams.",
+    "takeaways": [
+      "Followers up 401 in the month",
+      "September focus: Leading diverse marketing teams"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-010",
+    "client_id": "LOUD-003",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "09:30",
+    "end": "10:15",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 9,002 → 9,409; engagement 4.6%. Planned September themes around functional beverage trends.",
+    "takeaways": [
+      "Followers up 407 in the month",
+      "September focus: Functional beverage trends"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-011",
+    "client_id": "LOUD-002",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "11:00",
+    "end": "11:45",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 40,445 → 40,848; engagement 1.7%. Planned September themes around ceo lessons from scaling dtc.",
+    "takeaways": [
+      "Followers up 403 in the month",
+      "September focus: CEO lessons from scaling DTC"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-012",
+    "client_id": "LOUD-005",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "11:00",
+    "end": "11:45",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 12,659 → 12,778; engagement 1.2%. Planned September themes around healthtech economics explained.",
+    "takeaways": [
+      "Followers up 119 in the month",
+      "September focus: Healthtech economics explained"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-013",
+    "client_id": "LOUD-006",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "13:30",
+    "end": "14:15",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 26,787 → 27,336; engagement 1.9%. Planned September themes around modernizing legacy tech without breaking the bank.",
+    "takeaways": [
+      "Followers up 549 in the month",
+      "September focus: Modernizing legacy tech without breaking the bank"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-014",
+    "client_id": "LOUD-007",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "13:30",
+    "end": "14:15",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 3,718 → 3,875; engagement 5.2%. Planned September themes around design leadership for new directors.",
+    "takeaways": [
+      "Followers up 157 in the month",
+      "September focus: Design leadership for new directors"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-015",
+    "client_id": "LOUD-008",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "15:00",
+    "end": "15:45",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 15,203 → 15,422; engagement 2.7%. Planned September themes around the future of hospitality work.",
+    "takeaways": [
+      "Followers up 219 in the month",
+      "September focus: The future of hospitality work"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-016",
+    "client_id": "LOUD-010",
+    "type": "Monthly review",
+    "date": "2026-08-27",
+    "start": "15:00",
+    "end": "15:45",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "August results",
+      "September content plan"
+    ],
+    "status": "Completed",
+    "notes": "August review. Followers 20,231 → 20,773; engagement 3.8%. Planned September themes around crisis comms playbooks.",
+    "takeaways": [
+      "Followers up 542 in the month",
+      "September focus: Crisis comms playbooks"
+    ],
+    "actions": [
+      {
+        "text": "Send August analytics report",
+        "owner": "T2",
+        "due": "2026-09-03",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-017",
+    "client_id": "LOUD-001",
+    "type": "Monthly review",
+    "date": "2026-09-29",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Danielle. Followers 18,107 → 18,400 (+293); engagement 3.1%; 6 posts published. Highlight: Gen Z snacking carousel was her best post of the year. Concern raised: Wants more inbound from senior marketing talent, not just reach. Agreed next step: Lean into the 'heritage brand reinvention' story ahead of the Brand Forward keynote decision.",
+    "takeaways": [
+      "Gen Z snacking carousel was her best post of the year",
+      "Concern: Wants more inbound from senior marketing talent, not just reach",
+      "Next: Lean into the 'heritage brand reinvention' story ahead of the Brand Forward keynote decision"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Lean into the 'heritage brand reinvention' story ahead of the Brand Forward keynote decision",
+        "owner": "T1",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-018",
+    "client_id": "LOUD-002",
+    "type": "Monthly review",
+    "date": "2026-09-29",
+    "start": "11:00",
+    "end": "12:00",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "Client office",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Marcus. Followers 40,848 → 41,200 (+352); engagement 1.8%; 3 posts published. Highlight: Founders & Operators podcast drove the biggest profile-view spike since joining. Concern raised: Engagement flat despite large audience — announcement posts underperform. Agreed next step: Shift to personal CEO stories; test two short videos in November.",
+    "takeaways": [
+      "Founders & Operators podcast drove the biggest profile-view spike since joining",
+      "Concern: Engagement flat despite large audience — announcement posts underperform",
+      "Next: Shift to personal CEO stories; test two short videos in November"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Shift to personal CEO stories; test two short videos in November",
+        "owner": "T1",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-019",
+    "client_id": "LOUD-003",
+    "type": "Monthly review",
+    "date": "2026-09-29",
+    "start": "13:30",
+    "end": "14:30",
+    "attendees": [
+      "T2",
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Priya. Followers 9,409 → 9,750 (+341); engagement 4.6%; 8 posts published. Highlight: Newsletter passed 1,400 subscribers; posts averaging 4.6% engagement. Concern raised: Wants trade-press quotes to match her LinkedIn growth. Agreed next step: Package insight-to-innovation framework as a downloadable one-pager for press.",
+    "takeaways": [
+      "Newsletter passed 1,400 subscribers; posts averaging 4.6% engagement",
+      "Concern: Wants trade-press quotes to match her LinkedIn growth",
+      "Next: Package insight-to-innovation framework as a downloadable one-pager for press"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Package insight-to-innovation framework as a downloadable one-pager for press",
+        "owner": "T2",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-020",
+    "client_id": "LOUD-005",
+    "type": "Monthly review",
+    "date": "2026-09-29",
+    "start": "15:00",
+    "end": "16:00",
+    "attendees": [
+      "T2",
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Sofia. Followers 12,778 → 12,900 (+122); engagement 1.2%; 2 posts published. Highlight: Latinas in Finance UK panel brought 140 new followers in a week. Concern raised: Posting cadence slipped to 2/month during board season. Agreed next step: Batch-approve drafts every other Friday; pre-write 6 evergreen posts.",
+    "takeaways": [
+      "Latinas in Finance UK panel brought 140 new followers in a week",
+      "Concern: Posting cadence slipped to 2/month during board season",
+      "Next: Batch-approve drafts every other Friday; pre-write 6 evergreen posts"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Batch-approve drafts every other Friday; pre-write 6 evergreen posts",
+        "owner": "T2",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-021",
+    "client_id": "LOUD-006",
+    "type": "Monthly review",
+    "date": "2026-09-29",
+    "start": "16:30",
+    "end": "17:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with James. Followers 27,336 → 27,800 (+464); engagement 2%; 5 posts published. Highlight: Banking Technology Review op-ed was widely shared by peers. Concern raised: Wants an advisory board seat — needs governance credibility. Agreed next step: Keynote follow-up content and a responsible-AI governance series.",
+    "takeaways": [
+      "Banking Technology Review op-ed was widely shared by peers",
+      "Concern: Wants an advisory board seat — needs governance credibility",
+      "Next: Keynote follow-up content and a responsible-AI governance series"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Keynote follow-up content and a responsible-AI governance series",
+        "owner": "T1",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-022",
+    "client_id": "LOUD-007",
+    "type": "Monthly review",
+    "date": "2026-09-30",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T2",
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Rachel. Followers 3,875 → 4,100 (+225); engagement 5.3%; 7 posts published. Highlight: Fastest-growing client: +27% followers in six months. Concern raised: Wants to reach a broader tech audience beyond designers. Agreed next step: Scope a design newsletter (possible upgrade to Amplify).",
+    "takeaways": [
+      "Fastest-growing client: +27% followers in six months",
+      "Concern: Wants to reach a broader tech audience beyond designers",
+      "Next: Scope a design newsletter (possible upgrade to Amplify)"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Scope a design newsletter (possible upgrade to Amplify)",
+        "owner": "T2",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-023",
+    "client_id": "LOUD-008",
+    "type": "Monthly review",
+    "date": "2026-09-30",
+    "start": "11:00",
+    "end": "12:00",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Elena. Followers 15,422 → 15,600 (+178); engagement 2.7%; 4 posts published. Highlight: Two literary agents interested in the frontline culture book. Concern raised: Posting volume dipped while she travels between properties. Agreed next step: Capture voice notes on site visits; turn them into posts within 48 hours.",
+    "takeaways": [
+      "Two literary agents interested in the frontline culture book",
+      "Concern: Posting volume dipped while she travels between properties",
+      "Next: Capture voice notes on site visits; turn them into posts within 48 hours"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Capture voice notes on site visits; turn them into posts within 48 hours",
+        "owner": "T1",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-024",
+    "client_id": "LOUD-010",
+    "type": "Monthly review",
+    "date": "2026-09-30",
+    "start": "13:30",
+    "end": "14:30",
+    "attendees": [
+      "T2",
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "September results",
+      "What worked and what didn't",
+      "October plan",
+      "Visibility pipeline"
+    ],
+    "status": "Completed",
+    "notes": "September review with Aisha. Followers 20,773 → 21,300 (+527); engagement 3.8%; 9 posts published. Highlight: National Energy Desk op-ed syndicated four times. Concern raised: Wants the newsletter to reach 10K subscribers. Agreed next step: Weekly newsletter cadence plus cross-promotion from podcast appearances.",
+    "takeaways": [
+      "National Energy Desk op-ed syndicated four times",
+      "Concern: Wants the newsletter to reach 10K subscribers",
+      "Next: Weekly newsletter cadence plus cross-promotion from podcast appearances"
+    ],
+    "actions": [
+      {
+        "text": "October content calendar to client for approval",
+        "owner": "T2",
+        "due": "2026-10-02",
+        "done": true
+      },
+      {
+        "text": "Weekly newsletter cadence plus cross-promotion from podcast appearances",
+        "owner": "T2",
+        "due": "2026-10-31",
+        "done": false
+      },
+      {
+        "text": "Send September analytics report",
+        "owner": "T2",
+        "due": "2026-10-05",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-025",
+    "client_id": "LOUD-004",
+    "type": "Kickoff & brand discovery",
+    "date": "2026-10-06",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T2",
+      "T1"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with Tom. Starting position: 6,300 LinkedIn followers, 2.4% engagement, posting about 4x a month. Tom wants to be known for circular packaging and esg reporting. Agreed tone: practical, evidence-led, modest. Sensitivities: ESG claims must be verifiable — comms team reviews any numbers. strong untold story in the refill pilot results.",
+    "takeaways": [
+      "Primary goal: Become the go-to CPG voice on packaging circularity",
+      "Content pillars: Plastic reduction that actually works; Making sustainability profitable; Behind the scenes of ESG data",
+      "Approval: Tom reviews drafts weekly; esg claims must be verifiable — comms team reviews any numbers"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T2",
+        "due": "2026-10-11",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2026-10-13",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-026",
+    "client_id": "LOUD-004",
+    "type": "Voice & tone workshop",
+    "date": "2026-10-13",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Review voice guide",
+      "Approve first drafts"
+    ],
+    "status": "Completed",
+    "notes": "Walked Tom through the voice guide. He prefers fewer adjectives and always wants a data point. Approved 3 of 4 drafts; asked for the refill pilot post to wait until Q4 results are public.",
+    "takeaways": [
+      "Every post needs one verifiable number",
+      "Refill pilot story embargoed until results are public",
+      "Comfortable with a fortnightly video"
+    ],
+    "actions": [
+      {
+        "text": "Revise draft 4 without pilot numbers",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-027",
+    "client_id": "LOUD-001",
+    "type": "Content sync",
+    "date": "2026-10-15",
+    "start": "09:30",
+    "end": "10:00",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed five drafts; Danielle approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-028",
+    "client_id": "LOUD-002",
+    "type": "Content sync",
+    "date": "2026-10-15",
+    "start": "11:00",
+    "end": "11:30",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed five drafts; Marcus approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-029",
+    "client_id": "LOUD-003",
+    "type": "Content sync",
+    "date": "2026-10-15",
+    "start": "13:30",
+    "end": "14:00",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed four drafts; Priya approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-030",
+    "client_id": "LOUD-005",
+    "type": "Content sync",
+    "date": "2026-10-15",
+    "start": "15:00",
+    "end": "15:30",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed six drafts; Sofia approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-031",
+    "client_id": "LOUD-006",
+    "type": "Content sync",
+    "date": "2026-10-15",
+    "start": "16:30",
+    "end": "17:00",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed five drafts; James approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-032",
+    "client_id": "LOUD-007",
+    "type": "Content sync",
+    "date": "2026-10-16",
+    "start": "09:30",
+    "end": "10:00",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed five drafts; Rachel approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-033",
+    "client_id": "LOUD-008",
+    "type": "Content sync",
+    "date": "2026-10-16",
+    "start": "11:00",
+    "end": "11:30",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed four drafts; Elena approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-034",
+    "client_id": "LOUD-010",
+    "type": "Content sync",
+    "date": "2026-10-16",
+    "start": "13:30",
+    "end": "14:00",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Approve next batch of drafts",
+      "Comment strategy"
+    ],
+    "status": "Completed",
+    "notes": "Reviewed four drafts; Aisha approved most with light edits. Agreed to reply to top comments within two hours of posting.",
+    "takeaways": [
+      "Drafts approved with light edits",
+      "Faster comment replies to lift engagement"
+    ],
+    "actions": [
+      {
+        "text": "Schedule approved posts",
+        "owner": "T2",
+        "due": "2026-10-16",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "M-035",
+    "client_id": "LOUD-009",
+    "type": "Kickoff & brand discovery",
+    "date": "2026-10-20",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Goals and what success looks like in 12 months",
+      "Current LinkedIn and media presence",
+      "Voice, tone and no-go topics",
+      "Content pillars and approval process"
+    ],
+    "status": "Completed",
+    "notes": "Discovery session with David. Starting position: 3,200 LinkedIn followers, 0.9% engagement, posting about 1x a month. David wants to be known for warehouse automation and last-mile delivery. Agreed tone: direct, disciplined, understated. Sensitivities: Customer names are confidential; no automation headcount figures. compelling military-to-logistics leadership story.",
+    "takeaways": [
+      "Primary goal: Build a LinkedIn presence from near zero",
+      "Content pillars: Lessons from military logistics; Automation without layoffs; Supply chain resilience",
+      "Approval: David reviews drafts weekly; customer names are confidential"
+    ],
+    "actions": [
+      {
+        "text": "LinkedIn profile audit and rewrite (headline, About, banner)",
+        "owner": "T1",
+        "due": "2026-10-25",
+        "done": true
+      },
+      {
+        "text": "Voice & tone guide",
+        "owner": "T2",
+        "due": "2026-10-27",
+        "done": true
+      },
+      {
+        "text": "First four draft posts for approval",
+        "owner": "T2",
+        "due": "2026-10-30",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "M-036",
+    "client_id": "LOUD-001",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "09:30",
+    "end": "10:15",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Prep for quarterly strategy session"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-037",
+    "client_id": "LOUD-003",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "09:30",
+    "end": "10:15",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Prep for quarterly strategy session"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-038",
+    "client_id": "LOUD-002",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "11:00",
+    "end": "11:45",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Prep for quarterly strategy session"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-039",
+    "client_id": "LOUD-005",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "11:00",
+    "end": "11:45",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Any additional support"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-040",
+    "client_id": "LOUD-006",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "13:30",
+    "end": "14:15",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Client office",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Prep for quarterly strategy session"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-041",
+    "client_id": "LOUD-007",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "13:30",
+    "end": "14:15",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Any additional support"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-042",
+    "client_id": "LOUD-008",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "15:00",
+    "end": "15:45",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Client office",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Prep for quarterly strategy session"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-043",
+    "client_id": "LOUD-010",
+    "type": "Monthly review",
+    "date": "2026-10-30",
+    "start": "15:00",
+    "end": "15:45",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Client office",
+    "agenda": [
+      "October results",
+      "November plan",
+      "Visibility pipeline",
+      "Prep for quarterly strategy session"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-044",
+    "client_id": "LOUD-009",
+    "type": "Profile audit review",
+    "date": "2026-10-30",
+    "start": "16:30",
+    "end": "17:15",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Profile changes",
+      "First month content plan",
+      "Media angles"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-045",
+    "client_id": "LOUD-006",
+    "type": "Speaking prep",
+    "date": "2026-11-02",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Run-through: FinTech Builders Conference, London — Keynote",
+      "Key messages and stories",
+      "Audience Q&A prep"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-046",
+    "client_id": "LOUD-004",
+    "type": "First content review",
+    "date": "2026-11-03",
+    "start": "09:30",
+    "end": "10:15",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Profile changes",
+      "First month content plan",
+      "Media angles"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-047",
+    "client_id": "LOUD-008",
+    "type": "Speaking prep",
+    "date": "2026-11-04",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Run-through: Hospitality People Summit — Keynote",
+      "Key messages and stories",
+      "Audience Q&A prep"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-048",
+    "client_id": "LOUD-002",
+    "type": "Speaking prep",
+    "date": "2026-11-12",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T1"
+    ],
+    "organiser": "T1",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Run-through: Beauty Operators Forum — Fireside chat",
+      "Key messages and stories",
+      "Audience Q&A prep"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-049",
+    "client_id": "LOUD-010",
+    "type": "Speaking prep",
+    "date": "2026-11-13",
+    "start": "09:30",
+    "end": "10:30",
+    "attendees": [
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Video call (Google Meet)",
+    "agenda": [
+      "Run-through: Clean Energy Communicators Summit — Keynote",
+      "Key messages and stories",
+      "Audience Q&A prep"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-050",
+    "client_id": "LOUD-001",
+    "type": "Quarterly strategy session",
+    "date": "2026-11-17",
+    "start": "09:30",
+    "end": "11:00",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "Client office",
+    "agenda": [
+      "Q4 results vs goals",
+      "Positioning refresh",
+      "2027 visibility targets",
+      "Research brief review"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-051",
+    "client_id": "LOUD-002",
+    "type": "Quarterly strategy session",
+    "date": "2026-11-17",
+    "start": "11:00",
+    "end": "12:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Q4 results vs goals",
+      "Positioning refresh",
+      "2027 visibility targets",
+      "Research brief review"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-052",
+    "client_id": "LOUD-003",
+    "type": "Quarterly strategy session",
+    "date": "2026-11-17",
+    "start": "13:30",
+    "end": "15:00",
+    "attendees": [
+      "T2",
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "Client office",
+    "agenda": [
+      "Q4 results vs goals",
+      "Positioning refresh",
+      "2027 visibility targets",
+      "Research brief review"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-053",
+    "client_id": "LOUD-006",
+    "type": "Quarterly strategy session",
+    "date": "2026-11-17",
+    "start": "15:00",
+    "end": "16:30",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Q4 results vs goals",
+      "Positioning refresh",
+      "2027 visibility targets",
+      "Research brief review"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-054",
+    "client_id": "LOUD-008",
+    "type": "Quarterly strategy session",
+    "date": "2026-11-17",
+    "start": "16:30",
+    "end": "18:00",
+    "attendees": [
+      "T1",
+      "T2"
+    ],
+    "organiser": "T1",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Q4 results vs goals",
+      "Positioning refresh",
+      "2027 visibility targets",
+      "Research brief review"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  },
+  {
+    "id": "M-055",
+    "client_id": "LOUD-010",
+    "type": "Quarterly strategy session",
+    "date": "2026-11-18",
+    "start": "09:30",
+    "end": "11:00",
+    "attendees": [
+      "T2",
+      "T2"
+    ],
+    "organiser": "T2",
+    "location": "LOUD studio, Shoreditch",
+    "agenda": [
+      "Q4 results vs goals",
+      "Positioning refresh",
+      "2027 visibility targets",
+      "Research brief review"
+    ],
+    "status": "Scheduled",
+    "notes": "",
+    "takeaways": [],
+    "actions": []
+  }
+]

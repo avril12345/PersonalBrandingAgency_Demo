@@ -15,4 +15,4 @@ Fictional demo data. Metrics as of 2026-10-01. Source of truth: `data/clients.js
 | LOUD-009 | [David Chen](loud-009-david-chen.md) | Chief Operating Officer | Keystone Logistics | Supply Chain & Logistics | 3,200 | 0.9% | Amplify | Onboarding |
 | LOUD-010 | [Aisha Bello](loud-010-aisha-bello.md) | Chief Communications Officer | Veridian Energy | Energy — Renewables | 21,300 | 3.8% | Amplify | Active |
 
-**Totals:** 10 clients · 4 CPG · 160,550 combined LinkedIn followers · $86,000 monthly recurring revenue
+**Totals:** 10 clients · 4 CPG · 160,550 combined LinkedIn followers · £67,000 monthly recurring revenue (excl. VAT)

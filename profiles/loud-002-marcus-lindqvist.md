@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-002 |
 | Age | 52 |
-| Location | New York, NY |
+| Location | London, UK |
 | Seniority | C-Suite |
 | Industry | Consumer Packaged Goods — Personal Care & Beauty |
 | Time in role | 5 years |
 | Total experience | 28 years |
-| Education | MBA, Wharton; BSc Business, Stockholm School of Economics |
+| Education | MBA, INSEAD; BSc Business, Stockholm School of Economics |
 
 ## Career history
 | Company | Role | Years |
@@ -52,7 +52,7 @@
 |---|---|---|
 | 6 | 22 | 3 |
 
-**Awards:** Glossy 50 (2024)
+**Awards:** Beauty Industry 50 (2024)
 
 ## Brand goals
 - Position for a potential IPO narrative
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Headline | 2025-03-01 | $15,000 |
+| Active | Headline | 2025-03-01 | £12,000 + VAT |

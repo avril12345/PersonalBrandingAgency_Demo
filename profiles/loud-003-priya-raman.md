@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-003 |
 | Age | 39 |
-| Location | Atlanta, GA |
+| Location | Manchester, UK |
 | Seniority | C-Suite |
 | Industry | Consumer Packaged Goods — Beverages |
 | Time in role | 1.5 years |
 | Total experience | 16 years |
-| Education | MS Marketing Analytics, Georgia Tech; BS Psychology, Emory University |
+| Education | MSc Marketing Analytics, University of Warwick; BSc Psychology, University of Leeds |
 
 ## Career history
 | Company | Role | Years |
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Amplify | 2026-02-01 | $8,500 |
+| Active | Amplify | 2026-02-01 | £6,500 + VAT |

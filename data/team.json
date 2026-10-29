@@ -2,17 +2,17 @@
   "team": [
     {
       "id": "T1",
-      "name": "Maya Thompson",
+      "name": "Heloise Archer",
       "role": "Account Director & Brand Strategist",
-      "email": "maya@loud.example",
-      "focus": "Client strategy, quarterly reviews, speaking and podcast placements"
+      "email": "heloise@loud.example",
+      "focus": "Client strategy, meetings, research briefs, speaking and podcast placements, invoice preparation"
     },
     {
       "id": "T2",
-      "name": "Leo Brennan",
+      "name": "Lottie Gallagher",
       "role": "Content & PR Lead",
-      "email": "leo@loud.example",
-      "focus": "Ghostwriting, content calendar, media pitching, analytics reporting"
+      "email": "lottie@loud.example",
+      "focus": "Ghostwriting, content calendar, media pitching, analytics and results reporting"
     }
   ],
   "assignments": {

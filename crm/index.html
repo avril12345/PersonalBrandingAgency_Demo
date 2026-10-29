@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,28 +12,28 @@
     <nav class="nav" aria-label="Main">
       <a href="#/dashboard" data-route="dashboard">Dashboard</a>
       <a href="#/clients" data-route="clients">Clients</a>
+      <a href="#/meetings" data-route="meetings">Meetings</a>
+      <a href="#/calendar" data-route="calendar">Calendar</a>
+      <a href="#/mail/T1" data-route="mail">Mail <span class="nav-badge"></span></a>
       <a href="#/content" data-route="content">Content</a>
-      <a href="#/performance" data-route="performance">Performance</a>
       <a href="#/visibility" data-route="visibility">Visibility</a>
+      <a href="#/results" data-route="results">Results</a>
+      <a href="#/invoices" data-route="invoices">Invoices <span class="nav-badge"></span></a>
+      <a href="#/finance" data-route="finance">Finance</a>
     </nav>
     <div class="topbar-tools">
       <span class="demo-date" id="demo-date"></span>
+      <label class="persona"><span class="sr-only">Viewing as</span><select id="persona" aria-label="Viewing as"></select></label>
       <button class="btn ghost small" id="theme-toggle" type="button" aria-label="Toggle dark mode">◐</button>
-      <details class="menu">
-        <summary class="btn ghost small" aria-label="More">⋯</summary>
-        <div class="menu-panel">
-          <button type="button" id="export-btn">Export data (JSON)</button>
-          <button type="button" id="reset-btn">Reset demo data</button>
-        </div>
-      </details>
     </div>
   </header>
 
-  <main id="app" tabindex="-1"></main>
+  <main id="app" tabindex="-1"><div class="empty">Loading…</div></main>
 
-  <footer class="footer">LOUD · Personal branding for leaders · Demo data, all clients fictional</footer>
+  <footer class="footer no-print">LOUD Personal Branding Ltd · Demo data, all clients fictional</footer>
 
   <div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
   <dialog id="form-dialog">
     <form method="dialog" id="dialog-form">
@@ -43,12 +43,17 @@
         <button type="button" class="btn danger ghost" id="dialog-delete" hidden>Delete</button>
         <span class="spacer"></span>
         <button value="cancel" class="btn ghost" formnovalidate>Cancel</button>
-        <button value="save" class="btn primary">Save</button>
+        <button value="save" class="btn primary" id="dialog-save">Save</button>
       </div>
     </form>
   </dialog>
 
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="js/finance.js"></script>
+  <script src="js/core.js"></script>
+  <script src="js/views-main.js"></script>
+  <script src="js/views-meetings.js"></script>
+  <script src="js/views-billing.js"></script>
+  <script src="js/views-mail.js"></script>
+  <script src="js/main.js"></script>
 </body>
 </html>

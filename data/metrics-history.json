@@ -1,6 +1,24 @@
 {
   "as_of": "2026-10-01",
   "months": [
+    "2024-11-01",
+    "2024-12-01",
+    "2025-01-01",
+    "2025-02-01",
+    "2025-03-01",
+    "2025-04-01",
+    "2025-05-01",
+    "2025-06-01",
+    "2025-07-01",
+    "2025-08-01",
+    "2025-09-01",
+    "2025-10-01",
+    "2025-11-01",
+    "2025-12-01",
+    "2026-01-01",
+    "2026-02-01",
+    "2026-03-01",
+    "2026-04-01",
     "2026-05-01",
     "2026-06-01",
     "2026-07-01",
@@ -11,49 +29,234 @@
   "history": {
     "LOUD-001": [
       {
+        "month": "2024-11-01",
+        "followers": 13364,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 4559,
+        "posts": 0,
+        "profile_views_30d": 717,
+        "ssi_score": 66,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 13429,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 4615,
+        "posts": 1,
+        "profile_views_30d": 734,
+        "ssi_score": 66,
+        "reach_30d": 3323
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 13525,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 4879,
+        "posts": 1,
+        "profile_views_30d": 741,
+        "ssi_score": 67,
+        "reach_30d": 3513
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 13599,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 4970,
+        "posts": 1,
+        "profile_views_30d": 758,
+        "ssi_score": 67,
+        "reach_30d": 3578
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 13666,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 4979,
+        "posts": 1,
+        "profile_views_30d": 762,
+        "ssi_score": 67,
+        "reach_30d": 3585
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 13760,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5130,
+        "posts": 2,
+        "profile_views_30d": 758,
+        "ssi_score": 68,
+        "reach_30d": 7387
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 13861,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5258,
+        "posts": 2,
+        "profile_views_30d": 747,
+        "ssi_score": 68,
+        "reach_30d": 7572
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 13959,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5503,
+        "posts": 2,
+        "profile_views_30d": 739,
+        "ssi_score": 68,
+        "reach_30d": 7924
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 14037,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5604,
+        "posts": 2,
+        "profile_views_30d": 758,
+        "ssi_score": 68,
+        "reach_30d": 8070
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 14124,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5667,
+        "posts": 2,
+        "profile_views_30d": 773,
+        "ssi_score": 68,
+        "reach_30d": 8160
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 14211,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5606,
+        "posts": 5,
+        "profile_views_30d": 771,
+        "ssi_score": 68,
+        "reach_30d": 20182
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 14513,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5923,
+        "posts": 5,
+        "profile_views_30d": 780,
+        "ssi_score": 68,
+        "reach_30d": 21323
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 14742,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 5975,
+        "posts": 5,
+        "profile_views_30d": 796,
+        "ssi_score": 68,
+        "reach_30d": 21510
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 15047,
+        "engagement_rate_pct": 2.6,
+        "avg_impressions_per_post": 6346,
+        "posts": 6,
+        "profile_views_30d": 867,
+        "ssi_score": 69,
+        "reach_30d": 27415
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 15384,
+        "engagement_rate_pct": 2.6,
+        "avg_impressions_per_post": 6408,
+        "posts": 6,
+        "profile_views_30d": 951,
+        "ssi_score": 69,
+        "reach_30d": 27683
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 15746,
+        "engagement_rate_pct": 2.7,
+        "avg_impressions_per_post": 6732,
+        "posts": 6,
+        "profile_views_30d": 1012,
+        "ssi_score": 70,
+        "reach_30d": 29082
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 16014,
+        "engagement_rate_pct": 2.8,
+        "avg_impressions_per_post": 7244,
+        "posts": 6,
+        "profile_views_30d": 1054,
+        "ssi_score": 70,
+        "reach_30d": 31294
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 16352,
+        "engagement_rate_pct": 2.8,
+        "avg_impressions_per_post": 7593,
+        "posts": 5,
+        "profile_views_30d": 1066,
+        "ssi_score": 70,
+        "reach_30d": 27335
+      },
+      {
         "month": "2026-05-01",
         "followers": 16676,
-        "engagement_rate_pct": 2.6,
-        "avg_impressions_per_post": 7565,
+        "engagement_rate_pct": 2.9,
+        "avg_impressions_per_post": 8105,
         "posts": 5,
-        "profile_views_30d": 1053,
-        "ssi_score": 67
+        "profile_views_30d": 1102,
+        "ssi_score": 71,
+        "reach_30d": 29178
       },
       {
         "month": "2026-06-01",
         "followers": 16943,
-        "engagement_rate_pct": 2.7,
-        "avg_impressions_per_post": 8065,
+        "engagement_rate_pct": 2.9,
+        "avg_impressions_per_post": 8404,
         "posts": 5,
-        "profile_views_30d": 1049,
-        "ssi_score": 68
+        "profile_views_30d": 1113,
+        "ssi_score": 71,
+        "reach_30d": 30254
       },
       {
         "month": "2026-07-01",
         "followers": 17373,
-        "engagement_rate_pct": 2.8,
-        "avg_impressions_per_post": 8112,
+        "engagement_rate_pct": 3,
+        "avg_impressions_per_post": 8602,
         "posts": 5,
-        "profile_views_30d": 1130,
-        "ssi_score": 68
+        "profile_views_30d": 1180,
+        "ssi_score": 71,
+        "reach_30d": 30967
       },
       {
         "month": "2026-08-01",
         "followers": 17706,
-        "engagement_rate_pct": 2.9,
-        "avg_impressions_per_post": 8951,
+        "engagement_rate_pct": 3,
+        "avg_impressions_per_post": 9116,
         "posts": 5,
-        "profile_views_30d": 1150,
-        "ssi_score": 69
+        "profile_views_30d": 1208,
+        "ssi_score": 71,
+        "reach_30d": 32818
       },
       {
         "month": "2026-09-01",
         "followers": 18107,
         "engagement_rate_pct": 3,
-        "avg_impressions_per_post": 9208,
+        "avg_impressions_per_post": 9293,
         "posts": 5,
-        "profile_views_30d": 1250,
-        "ssi_score": 70
+        "profile_views_30d": 1289,
+        "ssi_score": 71,
+        "reach_30d": 33455
       },
       {
         "month": "2026-10-01",
@@ -62,54 +265,240 @@
         "avg_impressions_per_post": 9800,
         "posts": 6,
         "profile_views_30d": 1400,
-        "ssi_score": 71
+        "ssi_score": 71,
+        "reach_30d": 42336
       }
     ],
     "LOUD-002": [
       {
-        "month": "2026-05-01",
-        "followers": 38933,
+        "month": "2024-11-01",
+        "followers": 32407,
+        "engagement_rate_pct": 0.8,
+        "avg_impressions_per_post": 6610,
+        "posts": 0,
+        "profile_views_30d": 911,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 32497,
+        "engagement_rate_pct": 0.8,
+        "avg_impressions_per_post": 6524,
+        "posts": 0,
+        "profile_views_30d": 906,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 32582,
+        "engagement_rate_pct": 0.8,
+        "avg_impressions_per_post": 6452,
+        "posts": 1,
+        "profile_views_30d": 892,
+        "ssi_score": 56,
+        "reach_30d": 4645
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 32718,
+        "engagement_rate_pct": 0.8,
+        "avg_impressions_per_post": 6613,
+        "posts": 2,
+        "profile_views_30d": 881,
+        "ssi_score": 56,
+        "reach_30d": 9523
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 32833,
+        "engagement_rate_pct": 0.8,
+        "avg_impressions_per_post": 6757,
+        "posts": 6,
+        "profile_views_30d": 902,
+        "ssi_score": 56,
+        "reach_30d": 29190
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 33276,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 7134,
+        "posts": 7,
+        "profile_views_30d": 902,
+        "ssi_score": 57,
+        "reach_30d": 35955
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 33681,
+        "engagement_rate_pct": 1,
+        "avg_impressions_per_post": 7567,
+        "posts": 7,
+        "profile_views_30d": 967,
+        "ssi_score": 58,
+        "reach_30d": 38138
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 34137,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 8393,
+        "posts": 7,
+        "profile_views_30d": 967,
+        "ssi_score": 58,
+        "reach_30d": 42301
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 34529,
+        "engagement_rate_pct": 1.2,
+        "avg_impressions_per_post": 9272,
+        "posts": 7,
+        "profile_views_30d": 1071,
+        "ssi_score": 58,
+        "reach_30d": 46731
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 34997,
+        "engagement_rate_pct": 1.2,
+        "avg_impressions_per_post": 9235,
+        "posts": 7,
+        "profile_views_30d": 1188,
+        "ssi_score": 58,
+        "reach_30d": 46544
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 35434,
         "engagement_rate_pct": 1.3,
-        "avg_impressions_per_post": 10306,
+        "avg_impressions_per_post": 9995,
+        "posts": 6,
+        "profile_views_30d": 1286,
+        "ssi_score": 59,
+        "reach_30d": 43178
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 35753,
+        "engagement_rate_pct": 1.4,
+        "avg_impressions_per_post": 10680,
+        "posts": 5,
+        "profile_views_30d": 1348,
+        "ssi_score": 59,
+        "reach_30d": 38448
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 36209,
+        "engagement_rate_pct": 1.5,
+        "avg_impressions_per_post": 11358,
+        "posts": 6,
+        "profile_views_30d": 1447,
+        "ssi_score": 60,
+        "reach_30d": 49067
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 36674,
+        "engagement_rate_pct": 1.5,
+        "avg_impressions_per_post": 11295,
+        "posts": 6,
+        "profile_views_30d": 1483,
+        "ssi_score": 61,
+        "reach_30d": 48794
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 37193,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 12365,
+        "posts": 5,
+        "profile_views_30d": 1540,
+        "ssi_score": 61,
+        "reach_30d": 44514
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 37689,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 12515,
         "posts": 4,
-        "profile_views_30d": 1729,
-        "ssi_score": 57
+        "profile_views_30d": 1698,
+        "ssi_score": 61,
+        "reach_30d": 36043
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 38149,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 13272,
+        "posts": 4,
+        "profile_views_30d": 1871,
+        "ssi_score": 61,
+        "reach_30d": 38223
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 38556,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 13366,
+        "posts": 4,
+        "profile_views_30d": 1884,
+        "ssi_score": 61,
+        "reach_30d": 38494
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 39093,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 13318,
+        "posts": 4,
+        "profile_views_30d": 2006,
+        "ssi_score": 62,
+        "reach_30d": 38356
       },
       {
         "month": "2026-06-01",
-        "followers": 39410,
-        "engagement_rate_pct": 1.4,
-        "avg_impressions_per_post": 10541,
-        "posts": 4,
-        "profile_views_30d": 1969,
-        "ssi_score": 58
+        "followers": 39573,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 13368,
+        "posts": 5,
+        "profile_views_30d": 2022,
+        "ssi_score": 62,
+        "reach_30d": 48125
       },
       {
         "month": "2026-07-01",
-        "followers": 39919,
-        "engagement_rate_pct": 1.5,
-        "avg_impressions_per_post": 11124,
-        "posts": 4,
-        "profile_views_30d": 2131,
-        "ssi_score": 60
+        "followers": 39999,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 13342,
+        "posts": 5,
+        "profile_views_30d": 2088,
+        "ssi_score": 63,
+        "reach_30d": 48031
       },
       {
         "month": "2026-08-01",
-        "followers": 40292,
+        "followers": 40445,
         "engagement_rate_pct": 1.6,
-        "avg_impressions_per_post": 12318,
+        "avg_impressions_per_post": 13441,
         "posts": 4,
         "profile_views_30d": 2228,
-        "ssi_score": 61
+        "ssi_score": 63,
+        "reach_30d": 38710
       },
       {
         "month": "2026-09-01",
-        "followers": 40758,
+        "followers": 40848,
         "engagement_rate_pct": 1.7,
-        "avg_impressions_per_post": 13358,
+        "avg_impressions_per_post": 14225,
         "posts": 3,
-        "profile_views_30d": 2225,
-        "ssi_score": 62
+        "profile_views_30d": 2238,
+        "ssi_score": 63,
+        "reach_30d": 30726
       },
       {
         "month": "2026-10-01",
@@ -118,54 +507,240 @@
         "avg_impressions_per_post": 14500,
         "posts": 3,
         "profile_views_30d": 2300,
-        "ssi_score": 64
+        "ssi_score": 64,
+        "reach_30d": 31320
       }
     ],
     "LOUD-003": [
       {
-        "month": "2026-05-01",
-        "followers": 8104,
-        "engagement_rate_pct": 4.1,
-        "avg_impressions_per_post": 4634,
+        "month": "2024-11-01",
+        "followers": 6024,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2580,
+        "posts": 0,
+        "profile_views_30d": 559,
+        "ssi_score": 74,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 6105,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2579,
+        "posts": 0,
+        "profile_views_30d": 567,
+        "ssi_score": 74,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 6177,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2628,
+        "posts": 0,
+        "profile_views_30d": 572,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 6247,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2612,
+        "posts": 0,
+        "profile_views_30d": 584,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 6314,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2734,
+        "posts": 0,
+        "profile_views_30d": 581,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 6402,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2731,
+        "posts": 0,
+        "profile_views_30d": 577,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 6472,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 2883,
+        "posts": 0,
+        "profile_views_30d": 579,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 6555,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3063,
+        "posts": 0,
+        "profile_views_30d": 583,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 6614,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3198,
+        "posts": 0,
+        "profile_views_30d": 582,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 6686,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3317,
+        "posts": 0,
+        "profile_views_30d": 582,
+        "ssi_score": 75,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 6760,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3292,
+        "posts": 0,
+        "profile_views_30d": 596,
+        "ssi_score": 76,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 6849,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3326,
+        "posts": 0,
+        "profile_views_30d": 604,
+        "ssi_score": 76,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 6936,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3375,
+        "posts": 1,
+        "profile_views_30d": 602,
+        "ssi_score": 76,
+        "reach_30d": 2430
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 7029,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3515,
+        "posts": 1,
+        "profile_views_30d": 608,
+        "ssi_score": 76,
+        "reach_30d": 2531
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 7122,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3512,
+        "posts": 2,
+        "profile_views_30d": 610,
+        "ssi_score": 76,
+        "reach_30d": 5057
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 7202,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3688,
         "posts": 7,
-        "profile_views_30d": 782,
-        "ssi_score": 74
+        "profile_views_30d": 609,
+        "ssi_score": 76,
+        "reach_30d": 18588
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 7501,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 3988,
+        "posts": 7,
+        "profile_views_30d": 645,
+        "ssi_score": 76,
+        "reach_30d": 20100
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 7780,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 4171,
+        "posts": 6,
+        "profile_views_30d": 703,
+        "ssi_score": 77,
+        "reach_30d": 18019
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 8044,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 4482,
+        "posts": 7,
+        "profile_views_30d": 750,
+        "ssi_score": 77,
+        "reach_30d": 22589
       },
       {
         "month": "2026-06-01",
-        "followers": 8424,
-        "engagement_rate_pct": 4.2,
-        "avg_impressions_per_post": 4889,
-        "posts": 8,
-        "profile_views_30d": 874,
-        "ssi_score": 74
+        "followers": 8408,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 4759,
+        "posts": 7,
+        "profile_views_30d": 791,
+        "ssi_score": 77,
+        "reach_30d": 23985
       },
       {
         "month": "2026-07-01",
-        "followers": 8753,
-        "engagement_rate_pct": 4.3,
-        "avg_impressions_per_post": 4965,
-        "posts": 7,
-        "profile_views_30d": 908,
-        "ssi_score": 75
+        "followers": 8670,
+        "engagement_rate_pct": 4.5,
+        "avg_impressions_per_post": 5087,
+        "posts": 8,
+        "profile_views_30d": 844,
+        "ssi_score": 78,
+        "reach_30d": 29301
       },
       {
         "month": "2026-08-01",
-        "followers": 9107,
-        "engagement_rate_pct": 4.4,
-        "avg_impressions_per_post": 5510,
-        "posts": 7,
-        "profile_views_30d": 907,
-        "ssi_score": 76
+        "followers": 9002,
+        "engagement_rate_pct": 4.6,
+        "avg_impressions_per_post": 5515,
+        "posts": 9,
+        "profile_views_30d": 896,
+        "ssi_score": 78,
+        "reach_30d": 35737
       },
       {
         "month": "2026-09-01",
-        "followers": 9381,
-        "engagement_rate_pct": 4.5,
-        "avg_impressions_per_post": 5640,
-        "posts": 7,
-        "profile_views_30d": 919,
-        "ssi_score": 77
+        "followers": 9409,
+        "engagement_rate_pct": 4.6,
+        "avg_impressions_per_post": 5751,
+        "posts": 9,
+        "profile_views_30d": 978,
+        "ssi_score": 78,
+        "reach_30d": 37266
       },
       {
         "month": "2026-10-01",
@@ -174,54 +749,240 @@
         "avg_impressions_per_post": 6100,
         "posts": 8,
         "profile_views_30d": 1033,
-        "ssi_score": 78
+        "ssi_score": 78,
+        "reach_30d": 35136
       }
     ],
     "LOUD-004": [
       {
-        "month": "2026-05-01",
-        "followers": 6148,
+        "month": "2024-11-01",
+        "followers": 5754,
         "engagement_rate_pct": 2.4,
-        "avg_impressions_per_post": 2760,
-        "posts": 1,
-        "profile_views_30d": 399,
-        "ssi_score": 57
+        "avg_impressions_per_post": 1850,
+        "posts": 0,
+        "profile_views_30d": 442,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 5782,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 1909,
+        "posts": 0,
+        "profile_views_30d": 453,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 5802,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 1974,
+        "posts": 0,
+        "profile_views_30d": 446,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 5827,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2081,
+        "posts": 0,
+        "profile_views_30d": 446,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 5855,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2106,
+        "posts": 0,
+        "profile_views_30d": 451,
+        "ssi_score": 54,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 5878,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2221,
+        "posts": 0,
+        "profile_views_30d": 451,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 5896,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2252,
+        "posts": 0,
+        "profile_views_30d": 459,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 5925,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2368,
+        "posts": 0,
+        "profile_views_30d": 452,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 5945,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2500,
+        "posts": 0,
+        "profile_views_30d": 454,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 5970,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2606,
+        "posts": 0,
+        "profile_views_30d": 453,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 5996,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2642,
+        "posts": 0,
+        "profile_views_30d": 467,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 6016,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2767,
+        "posts": 0,
+        "profile_views_30d": 463,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 6037,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2748,
+        "posts": 0,
+        "profile_views_30d": 463,
+        "ssi_score": 55,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 6056,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2773,
+        "posts": 0,
+        "profile_views_30d": 466,
+        "ssi_score": 56,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 6081,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2731,
+        "posts": 0,
+        "profile_views_30d": 480,
+        "ssi_score": 56,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 6109,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2842,
+        "posts": 0,
+        "profile_views_30d": 471,
+        "ssi_score": 56,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 6131,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2857,
+        "posts": 0,
+        "profile_views_30d": 466,
+        "ssi_score": 57,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 6152,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2959,
+        "posts": 0,
+        "profile_views_30d": 478,
+        "ssi_score": 57,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 6171,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 2966,
+        "posts": 0,
+        "profile_views_30d": 489,
+        "ssi_score": 57,
+        "reach_30d": 0
       },
       {
         "month": "2026-06-01",
-        "followers": 6171,
+        "followers": 6194,
         "engagement_rate_pct": 2.4,
-        "avg_impressions_per_post": 2740,
-        "posts": 1,
-        "profile_views_30d": 424,
-        "ssi_score": 57
+        "avg_impressions_per_post": 3134,
+        "posts": 0,
+        "profile_views_30d": 490,
+        "ssi_score": 57,
+        "reach_30d": 0
       },
       {
         "month": "2026-07-01",
-        "followers": 6204,
+        "followers": 6214,
         "engagement_rate_pct": 2.4,
-        "avg_impressions_per_post": 2849,
-        "posts": 2,
-        "profile_views_30d": 435,
-        "ssi_score": 58
+        "avg_impressions_per_post": 3249,
+        "posts": 1,
+        "profile_views_30d": 501,
+        "ssi_score": 57,
+        "reach_30d": 2339
       },
       {
         "month": "2026-08-01",
-        "followers": 6239,
+        "followers": 6244,
         "engagement_rate_pct": 2.4,
-        "avg_impressions_per_post": 2935,
+        "avg_impressions_per_post": 3211,
         "posts": 2,
-        "profile_views_30d": 433,
-        "ssi_score": 58
+        "profile_views_30d": 504,
+        "ssi_score": 57,
+        "reach_30d": 4624
       },
       {
         "month": "2026-09-01",
-        "followers": 6273,
+        "followers": 6268,
         "engagement_rate_pct": 2.4,
-        "avg_impressions_per_post": 3136,
+        "avg_impressions_per_post": 3176,
         "posts": 2,
-        "profile_views_30d": 437,
-        "ssi_score": 58
+        "profile_views_30d": 502,
+        "ssi_score": 57,
+        "reach_30d": 4573
       },
       {
         "month": "2026-10-01",
@@ -230,54 +991,240 @@
         "avg_impressions_per_post": 3200,
         "posts": 4,
         "profile_views_30d": 500,
-        "ssi_score": 58
+        "ssi_score": 58,
+        "reach_30d": 9216
       }
     ],
     "LOUD-005": [
       {
+        "month": "2024-11-01",
+        "followers": 11725,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2443,
+        "posts": 0,
+        "profile_views_30d": 613,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 11757,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2568,
+        "posts": 0,
+        "profile_views_30d": 615,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 11792,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2609,
+        "posts": 0,
+        "profile_views_30d": 619,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 11826,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2612,
+        "posts": 0,
+        "profile_views_30d": 614,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 11864,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2662,
+        "posts": 0,
+        "profile_views_30d": 604,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 11893,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2749,
+        "posts": 0,
+        "profile_views_30d": 612,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 11932,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 2884,
+        "posts": 0,
+        "profile_views_30d": 602,
+        "ssi_score": 52,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 11967,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3033,
+        "posts": 0,
+        "profile_views_30d": 619,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 11997,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3035,
+        "posts": 0,
+        "profile_views_30d": 634,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 12034,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3006,
+        "posts": 0,
+        "profile_views_30d": 643,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 12069,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3090,
+        "posts": 0,
+        "profile_views_30d": 633,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 12110,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3159,
+        "posts": 0,
+        "profile_views_30d": 650,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 12145,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3240,
+        "posts": 0,
+        "profile_views_30d": 644,
+        "ssi_score": 53,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 12179,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3286,
+        "posts": 0,
+        "profile_views_30d": 663,
+        "ssi_score": 54,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 12217,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3394,
+        "posts": 1,
+        "profile_views_30d": 654,
+        "ssi_score": 55,
+        "reach_30d": 2444
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 12257,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3581,
+        "posts": 1,
+        "profile_views_30d": 646,
+        "ssi_score": 55,
+        "reach_30d": 2578
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 12289,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3728,
+        "posts": 1,
+        "profile_views_30d": 665,
+        "ssi_score": 55,
+        "reach_30d": 2684
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 12319,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3821,
+        "posts": 2,
+        "profile_views_30d": 674,
+        "ssi_score": 55,
+        "reach_30d": 5502
+      },
+      {
         "month": "2026-05-01",
-        "followers": 12394,
-        "engagement_rate_pct": 0.7,
-        "avg_impressions_per_post": 2889,
-        "posts": 3,
-        "profile_views_30d": 621,
-        "ssi_score": 49
+        "followers": 12348,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3896,
+        "posts": 5,
+        "profile_views_30d": 664,
+        "ssi_score": 55,
+        "reach_30d": 14026
       },
       {
         "month": "2026-06-01",
-        "followers": 12492,
-        "engagement_rate_pct": 0.8,
-        "avg_impressions_per_post": 3184,
-        "posts": 2,
-        "profile_views_30d": 613,
-        "ssi_score": 50
+        "followers": 12434,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 3902,
+        "posts": 4,
+        "profile_views_30d": 668,
+        "ssi_score": 55,
+        "reach_30d": 11238
       },
       {
         "month": "2026-07-01",
-        "followers": 12577,
-        "engagement_rate_pct": 0.9,
-        "avg_impressions_per_post": 3279,
-        "posts": 2,
-        "profile_views_30d": 628,
-        "ssi_score": 52
+        "followers": 12550,
+        "engagement_rate_pct": 1.2,
+        "avg_impressions_per_post": 4274,
+        "posts": 3,
+        "profile_views_30d": 720,
+        "ssi_score": 55,
+        "reach_30d": 9232
       },
       {
         "month": "2026-08-01",
-        "followers": 12666,
-        "engagement_rate_pct": 1,
-        "avg_impressions_per_post": 3505,
-        "posts": 1,
-        "profile_views_30d": 711,
-        "ssi_score": 52
+        "followers": 12659,
+        "engagement_rate_pct": 1.2,
+        "avg_impressions_per_post": 4277,
+        "posts": 2,
+        "profile_views_30d": 740,
+        "ssi_score": 55,
+        "reach_30d": 6159
       },
       {
         "month": "2026-09-01",
-        "followers": 12798,
-        "engagement_rate_pct": 1.1,
-        "avg_impressions_per_post": 4017,
+        "followers": 12778,
+        "engagement_rate_pct": 1.2,
+        "avg_impressions_per_post": 4285,
         "posts": 2,
-        "profile_views_30d": 768,
-        "ssi_score": 54
+        "profile_views_30d": 817,
+        "ssi_score": 55,
+        "reach_30d": 6170
       },
       {
         "month": "2026-10-01",
@@ -286,54 +1233,240 @@
         "avg_impressions_per_post": 4300,
         "posts": 2,
         "profile_views_30d": 867,
-        "ssi_score": 55
+        "ssi_score": 55,
+        "reach_30d": 6192
       }
     ],
     "LOUD-006": [
       {
-        "month": "2026-05-01",
-        "followers": 25517,
-        "engagement_rate_pct": 1.7,
-        "avg_impressions_per_post": 10540,
+        "month": "2024-11-01",
+        "followers": 20539,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4440,
+        "posts": 0,
+        "profile_views_30d": 644,
+        "ssi_score": 63,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 20667,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4679,
+        "posts": 0,
+        "profile_views_30d": 634,
+        "ssi_score": 63,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 20756,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4633,
+        "posts": 0,
+        "profile_views_30d": 641,
+        "ssi_score": 63,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 20860,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4721,
+        "posts": 0,
+        "profile_views_30d": 631,
+        "ssi_score": 63,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 20949,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4677,
+        "posts": 1,
+        "profile_views_30d": 649,
+        "ssi_score": 63,
+        "reach_30d": 3367
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 21078,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4720,
+        "posts": 2,
+        "profile_views_30d": 650,
+        "ssi_score": 64,
+        "reach_30d": 6797
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 21186,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4729,
+        "posts": 2,
+        "profile_views_30d": 650,
+        "ssi_score": 64,
+        "reach_30d": 6810
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 21279,
+        "engagement_rate_pct": 1.1,
+        "avg_impressions_per_post": 4860,
+        "posts": 7,
+        "profile_views_30d": 650,
+        "ssi_score": 64,
+        "reach_30d": 24494
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 21635,
+        "engagement_rate_pct": 1.2,
+        "avg_impressions_per_post": 5336,
+        "posts": 7,
+        "profile_views_30d": 693,
+        "ssi_score": 64,
+        "reach_30d": 26893
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 22084,
+        "engagement_rate_pct": 1.3,
+        "avg_impressions_per_post": 5892,
+        "posts": 7,
+        "profile_views_30d": 732,
+        "ssi_score": 65,
+        "reach_30d": 29696
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 22415,
+        "engagement_rate_pct": 1.3,
+        "avg_impressions_per_post": 6154,
+        "posts": 7,
+        "profile_views_30d": 808,
+        "ssi_score": 66,
+        "reach_30d": 31016
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 22752,
+        "engagement_rate_pct": 1.3,
+        "avg_impressions_per_post": 6252,
+        "posts": 7,
+        "profile_views_30d": 889,
+        "ssi_score": 67,
+        "reach_30d": 31510
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 23152,
+        "engagement_rate_pct": 1.3,
+        "avg_impressions_per_post": 6646,
+        "posts": 6,
+        "profile_views_30d": 916,
+        "ssi_score": 67,
+        "reach_30d": 28711
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 23619,
+        "engagement_rate_pct": 1.3,
+        "avg_impressions_per_post": 6665,
         "posts": 5,
-        "profile_views_30d": 1478,
-        "ssi_score": 66
+        "profile_views_30d": 983,
+        "ssi_score": 67,
+        "reach_30d": 23994
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 23963,
+        "engagement_rate_pct": 1.3,
+        "avg_impressions_per_post": 6798,
+        "posts": 5,
+        "profile_views_30d": 1009,
+        "ssi_score": 67,
+        "reach_30d": 24473
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 24274,
+        "engagement_rate_pct": 1.4,
+        "avg_impressions_per_post": 7304,
+        "posts": 5,
+        "profile_views_30d": 1112,
+        "ssi_score": 68,
+        "reach_30d": 26294
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 24594,
+        "engagement_rate_pct": 1.4,
+        "avg_impressions_per_post": 7539,
+        "posts": 4,
+        "profile_views_30d": 1196,
+        "ssi_score": 68,
+        "reach_30d": 21712
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 24998,
+        "engagement_rate_pct": 1.5,
+        "avg_impressions_per_post": 8281,
+        "posts": 3,
+        "profile_views_30d": 1267,
+        "ssi_score": 68,
+        "reach_30d": 17887
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 25392,
+        "engagement_rate_pct": 1.6,
+        "avg_impressions_per_post": 9012,
+        "posts": 2,
+        "profile_views_30d": 1370,
+        "ssi_score": 68,
+        "reach_30d": 12977
       },
       {
         "month": "2026-06-01",
-        "followers": 25917,
-        "engagement_rate_pct": 1.8,
-        "avg_impressions_per_post": 10886,
-        "posts": 5,
-        "profile_views_30d": 1465,
-        "ssi_score": 66
+        "followers": 25811,
+        "engagement_rate_pct": 1.7,
+        "avg_impressions_per_post": 9656,
+        "posts": 3,
+        "profile_views_30d": 1438,
+        "ssi_score": 68,
+        "reach_30d": 20857
       },
       {
         "month": "2026-07-01",
-        "followers": 26448,
+        "followers": 26340,
         "engagement_rate_pct": 1.8,
-        "avg_impressions_per_post": 10725,
-        "posts": 5,
-        "profile_views_30d": 1588,
-        "ssi_score": 67
+        "avg_impressions_per_post": 9957,
+        "posts": 3,
+        "profile_views_30d": 1578,
+        "ssi_score": 69,
+        "reach_30d": 21507
       },
       {
         "month": "2026-08-01",
-        "followers": 26926,
-        "engagement_rate_pct": 1.9,
-        "avg_impressions_per_post": 10995,
-        "posts": 6,
-        "profile_views_30d": 1576,
-        "ssi_score": 67
+        "followers": 26787,
+        "engagement_rate_pct": 1.8,
+        "avg_impressions_per_post": 10282,
+        "posts": 3,
+        "profile_views_30d": 1665,
+        "ssi_score": 69,
+        "reach_30d": 22209
       },
       {
         "month": "2026-09-01",
-        "followers": 27352,
+        "followers": 27336,
         "engagement_rate_pct": 1.9,
-        "avg_impressions_per_post": 10870,
-        "posts": 6,
-        "profile_views_30d": 1625,
-        "ssi_score": 69
+        "avg_impressions_per_post": 10650,
+        "posts": 4,
+        "profile_views_30d": 1666,
+        "ssi_score": 69,
+        "reach_30d": 30672
       },
       {
         "month": "2026-10-01",
@@ -342,54 +1475,240 @@
         "avg_impressions_per_post": 11200,
         "posts": 5,
         "profile_views_30d": 1767,
-        "ssi_score": 69
+        "ssi_score": 69,
+        "reach_30d": 40320
       }
     ],
     "LOUD-007": [
       {
+        "month": "2024-11-01",
+        "followers": 2593,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1152,
+        "posts": 0,
+        "profile_views_30d": 453,
+        "ssi_score": 68,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 2633,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1205,
+        "posts": 0,
+        "profile_views_30d": 460,
+        "ssi_score": 68,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 2679,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1283,
+        "posts": 0,
+        "profile_views_30d": 459,
+        "ssi_score": 68,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 2724,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1369,
+        "posts": 0,
+        "profile_views_30d": 456,
+        "ssi_score": 68,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 2771,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1402,
+        "posts": 0,
+        "profile_views_30d": 467,
+        "ssi_score": 68,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 2816,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1411,
+        "posts": 0,
+        "profile_views_30d": 463,
+        "ssi_score": 68,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 2860,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1443,
+        "posts": 0,
+        "profile_views_30d": 467,
+        "ssi_score": 69,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 2897,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1483,
+        "posts": 0,
+        "profile_views_30d": 463,
+        "ssi_score": 69,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 2945,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1499,
+        "posts": 0,
+        "profile_views_30d": 467,
+        "ssi_score": 69,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 2986,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1524,
+        "posts": 0,
+        "profile_views_30d": 464,
+        "ssi_score": 69,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 3036,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1528,
+        "posts": 0,
+        "profile_views_30d": 464,
+        "ssi_score": 70,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 3085,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1561,
+        "posts": 0,
+        "profile_views_30d": 466,
+        "ssi_score": 70,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 3138,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1590,
+        "posts": 0,
+        "profile_views_30d": 467,
+        "ssi_score": 70,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 3176,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1686,
+        "posts": 0,
+        "profile_views_30d": 459,
+        "ssi_score": 71,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 3232,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1756,
+        "posts": 0,
+        "profile_views_30d": 467,
+        "ssi_score": 71,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 3278,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1763,
+        "posts": 0,
+        "profile_views_30d": 472,
+        "ssi_score": 71,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 3337,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 1884,
+        "posts": 0,
+        "profile_views_30d": 478,
+        "ssi_score": 71,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 3379,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 2002,
+        "posts": 1,
+        "profile_views_30d": 484,
+        "ssi_score": 71,
+        "reach_30d": 1441
+      },
+      {
         "month": "2026-05-01",
-        "followers": 3235,
-        "engagement_rate_pct": 5,
-        "avg_impressions_per_post": 1970,
-        "posts": 2,
-        "profile_views_30d": 391,
-        "ssi_score": 69
+        "followers": 3425,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 2039,
+        "posts": 1,
+        "profile_views_30d": 477,
+        "ssi_score": 71,
+        "reach_30d": 1468
       },
       {
         "month": "2026-06-01",
-        "followers": 3297,
-        "engagement_rate_pct": 5,
-        "avg_impressions_per_post": 2046,
-        "posts": 9,
-        "profile_views_30d": 430,
-        "ssi_score": 70
+        "followers": 3478,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 2165,
+        "posts": 2,
+        "profile_views_30d": 482,
+        "ssi_score": 71,
+        "reach_30d": 3118
       },
       {
         "month": "2026-07-01",
-        "followers": 3477,
-        "engagement_rate_pct": 5.1,
-        "avg_impressions_per_post": 2101,
-        "posts": 9,
-        "profile_views_30d": 438,
-        "ssi_score": 72
+        "followers": 3524,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 2190,
+        "posts": 8,
+        "profile_views_30d": 493,
+        "ssi_score": 72,
+        "reach_30d": 12614
       },
       {
         "month": "2026-08-01",
-        "followers": 3687,
+        "followers": 3718,
         "engagement_rate_pct": 5.2,
-        "avg_impressions_per_post": 2415,
+        "avg_impressions_per_post": 2368,
         "posts": 8,
-        "profile_views_30d": 456,
-        "ssi_score": 72
+        "profile_views_30d": 523,
+        "ssi_score": 73,
+        "reach_30d": 13640
       },
       {
         "month": "2026-09-01",
-        "followers": 3897,
-        "engagement_rate_pct": 5.3,
-        "avg_impressions_per_post": 2557,
+        "followers": 3875,
+        "engagement_rate_pct": 5.2,
+        "avg_impressions_per_post": 2594,
         "posts": 7,
-        "profile_views_30d": 523,
-        "ssi_score": 73
+        "profile_views_30d": 560,
+        "ssi_score": 74,
+        "reach_30d": 13074
       },
       {
         "month": "2026-10-01",
@@ -398,54 +1717,240 @@
         "avg_impressions_per_post": 2900,
         "posts": 7,
         "profile_views_30d": 600,
-        "ssi_score": 74
+        "ssi_score": 74,
+        "reach_30d": 14616
       }
     ],
     "LOUD-008": [
       {
-        "month": "2026-05-01",
-        "followers": 14569,
-        "engagement_rate_pct": 2.2,
-        "avg_impressions_per_post": 5244,
+        "month": "2024-11-01",
+        "followers": 11676,
+        "engagement_rate_pct": 1.7,
+        "avg_impressions_per_post": 4182,
+        "posts": 8,
+        "profile_views_30d": 281,
+        "ssi_score": 56,
+        "reach_30d": 24088
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 11856,
+        "engagement_rate_pct": 1.8,
+        "avg_impressions_per_post": 4313,
+        "posts": 7,
+        "profile_views_30d": 296,
+        "ssi_score": 56,
+        "reach_30d": 21738
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 12032,
+        "engagement_rate_pct": 1.8,
+        "avg_impressions_per_post": 4485,
+        "posts": 7,
+        "profile_views_30d": 327,
+        "ssi_score": 57,
+        "reach_30d": 22604
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 12190,
+        "engagement_rate_pct": 1.8,
+        "avg_impressions_per_post": 4646,
+        "posts": 7,
+        "profile_views_30d": 346,
+        "ssi_score": 58,
+        "reach_30d": 23416
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 12330,
+        "engagement_rate_pct": 1.9,
+        "avg_impressions_per_post": 4827,
         "posts": 6,
-        "profile_views_30d": 732,
-        "ssi_score": 61
+        "profile_views_30d": 374,
+        "ssi_score": 58,
+        "reach_30d": 20853
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 12469,
+        "engagement_rate_pct": 2,
+        "avg_impressions_per_post": 4974,
+        "posts": 7,
+        "profile_views_30d": 385,
+        "ssi_score": 58,
+        "reach_30d": 25069
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 12668,
+        "engagement_rate_pct": 2,
+        "avg_impressions_per_post": 5239,
+        "posts": 7,
+        "profile_views_30d": 403,
+        "ssi_score": 58,
+        "reach_30d": 26405
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 12854,
+        "engagement_rate_pct": 2.1,
+        "avg_impressions_per_post": 5378,
+        "posts": 7,
+        "profile_views_30d": 432,
+        "ssi_score": 59,
+        "reach_30d": 27105
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 12981,
+        "engagement_rate_pct": 2.1,
+        "avg_impressions_per_post": 5441,
+        "posts": 7,
+        "profile_views_30d": 474,
+        "ssi_score": 59,
+        "reach_30d": 27423
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 13140,
+        "engagement_rate_pct": 2.2,
+        "avg_impressions_per_post": 5716,
+        "posts": 8,
+        "profile_views_30d": 502,
+        "ssi_score": 59,
+        "reach_30d": 32924
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 13276,
+        "engagement_rate_pct": 2.2,
+        "avg_impressions_per_post": 5730,
+        "posts": 8,
+        "profile_views_30d": 520,
+        "ssi_score": 59,
+        "reach_30d": 33005
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 13488,
+        "engagement_rate_pct": 2.3,
+        "avg_impressions_per_post": 5841,
+        "posts": 7,
+        "profile_views_30d": 534,
+        "ssi_score": 59,
+        "reach_30d": 29439
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 13632,
+        "engagement_rate_pct": 2.3,
+        "avg_impressions_per_post": 5876,
+        "posts": 6,
+        "profile_views_30d": 564,
+        "ssi_score": 60,
+        "reach_30d": 25384
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 13822,
+        "engagement_rate_pct": 2.4,
+        "avg_impressions_per_post": 5967,
+        "posts": 6,
+        "profile_views_30d": 602,
+        "ssi_score": 60,
+        "reach_30d": 25777
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 13990,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 6450,
+        "posts": 6,
+        "profile_views_30d": 654,
+        "ssi_score": 60,
+        "reach_30d": 27864
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 14132,
+        "engagement_rate_pct": 2.5,
+        "avg_impressions_per_post": 6392,
+        "posts": 5,
+        "profile_views_30d": 713,
+        "ssi_score": 61,
+        "reach_30d": 23011
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 14303,
+        "engagement_rate_pct": 2.6,
+        "avg_impressions_per_post": 6689,
+        "posts": 4,
+        "profile_views_30d": 785,
+        "ssi_score": 61,
+        "reach_30d": 19264
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 14487,
+        "engagement_rate_pct": 2.6,
+        "avg_impressions_per_post": 6887,
+        "posts": 5,
+        "profile_views_30d": 805,
+        "ssi_score": 62,
+        "reach_30d": 24793
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 14659,
+        "engagement_rate_pct": 2.6,
+        "avg_impressions_per_post": 6976,
+        "posts": 5,
+        "profile_views_30d": 887,
+        "ssi_score": 63,
+        "reach_30d": 25114
       },
       {
         "month": "2026-06-01",
-        "followers": 14795,
-        "engagement_rate_pct": 2.3,
-        "avg_impressions_per_post": 5827,
-        "posts": 6,
-        "profile_views_30d": 718,
-        "ssi_score": 61
+        "followers": 14811,
+        "engagement_rate_pct": 2.7,
+        "avg_impressions_per_post": 7084,
+        "posts": 5,
+        "profile_views_30d": 947,
+        "ssi_score": 63,
+        "reach_30d": 25502
       },
       {
         "month": "2026-07-01",
-        "followers": 14990,
-        "engagement_rate_pct": 2.4,
-        "avg_impressions_per_post": 6479,
-        "posts": 6,
-        "profile_views_30d": 831,
-        "ssi_score": 62
+        "followers": 15021,
+        "engagement_rate_pct": 2.7,
+        "avg_impressions_per_post": 7331,
+        "posts": 5,
+        "profile_views_30d": 1009,
+        "ssi_score": 64,
+        "reach_30d": 26392
       },
       {
         "month": "2026-08-01",
-        "followers": 15223,
-        "engagement_rate_pct": 2.5,
-        "avg_impressions_per_post": 6483,
-        "posts": 6,
-        "profile_views_30d": 964,
-        "ssi_score": 63
+        "followers": 15203,
+        "engagement_rate_pct": 2.7,
+        "avg_impressions_per_post": 7329,
+        "posts": 5,
+        "profile_views_30d": 1043,
+        "ssi_score": 65,
+        "reach_30d": 26384
       },
       {
         "month": "2026-09-01",
-        "followers": 15441,
-        "engagement_rate_pct": 2.6,
-        "avg_impressions_per_post": 6981,
+        "followers": 15422,
+        "engagement_rate_pct": 2.7,
+        "avg_impressions_per_post": 7441,
         "posts": 5,
-        "profile_views_30d": 1073,
-        "ssi_score": 65
+        "profile_views_30d": 1122,
+        "ssi_score": 66,
+        "reach_30d": 26788
       },
       {
         "month": "2026-10-01",
@@ -454,54 +1959,240 @@
         "avg_impressions_per_post": 7400,
         "posts": 4,
         "profile_views_30d": 1133,
-        "ssi_score": 66
+        "ssi_score": 66,
+        "reach_30d": 21312
       }
     ],
     "LOUD-009": [
       {
-        "month": "2026-05-01",
-        "followers": 3179,
+        "month": "2024-11-01",
+        "followers": 3119,
         "engagement_rate_pct": 0.9,
-        "avg_impressions_per_post": 1122,
+        "avg_impressions_per_post": 756,
         "posts": 0,
-        "profile_views_30d": 175,
-        "ssi_score": 35
+        "profile_views_30d": 179,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 3123,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 760,
+        "posts": 0,
+        "profile_views_30d": 179,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 3126,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 780,
+        "posts": 0,
+        "profile_views_30d": 177,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 3130,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 799,
+        "posts": 0,
+        "profile_views_30d": 178,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 3134,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 839,
+        "posts": 0,
+        "profile_views_30d": 180,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 3138,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 856,
+        "posts": 0,
+        "profile_views_30d": 182,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 3141,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 877,
+        "posts": 0,
+        "profile_views_30d": 187,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 3145,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 881,
+        "posts": 0,
+        "profile_views_30d": 191,
+        "ssi_score": 33,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 3148,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 872,
+        "posts": 0,
+        "profile_views_30d": 189,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 3151,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 868,
+        "posts": 0,
+        "profile_views_30d": 190,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 3155,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 897,
+        "posts": 0,
+        "profile_views_30d": 192,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 3159,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 881,
+        "posts": 0,
+        "profile_views_30d": 189,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 3162,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 909,
+        "posts": 0,
+        "profile_views_30d": 189,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 3165,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 898,
+        "posts": 0,
+        "profile_views_30d": 193,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 3168,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 897,
+        "posts": 0,
+        "profile_views_30d": 195,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 3171,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 882,
+        "posts": 0,
+        "profile_views_30d": 200,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 3174,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 900,
+        "posts": 0,
+        "profile_views_30d": 203,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 3177,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 926,
+        "posts": 0,
+        "profile_views_30d": 206,
+        "ssi_score": 34,
+        "reach_30d": 0
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 3181,
+        "engagement_rate_pct": 0.9,
+        "avg_impressions_per_post": 963,
+        "posts": 0,
+        "profile_views_30d": 212,
+        "ssi_score": 35,
+        "reach_30d": 0
       },
       {
         "month": "2026-06-01",
-        "followers": 3182,
+        "followers": 3185,
         "engagement_rate_pct": 0.9,
-        "avg_impressions_per_post": 1091,
+        "avg_impressions_per_post": 977,
         "posts": 0,
-        "profile_views_30d": 174,
-        "ssi_score": 36
+        "profile_views_30d": 211,
+        "ssi_score": 36,
+        "reach_30d": 0
       },
       {
         "month": "2026-07-01",
-        "followers": 3187,
+        "followers": 3189,
         "engagement_rate_pct": 0.9,
-        "avg_impressions_per_post": 1125,
+        "avg_impressions_per_post": 1010,
         "posts": 0,
-        "profile_views_30d": 175,
-        "ssi_score": 36
+        "profile_views_30d": 207,
+        "ssi_score": 37,
+        "reach_30d": 0
       },
       {
         "month": "2026-08-01",
-        "followers": 3191,
+        "followers": 3192,
         "engagement_rate_pct": 0.9,
-        "avg_impressions_per_post": 1155,
+        "avg_impressions_per_post": 1041,
         "posts": 0,
-        "profile_views_30d": 198,
-        "ssi_score": 36
+        "profile_views_30d": 212,
+        "ssi_score": 37,
+        "reach_30d": 0
       },
       {
         "month": "2026-09-01",
         "followers": 3196,
         "engagement_rate_pct": 0.9,
-        "avg_impressions_per_post": 1116,
-        "posts": 0,
-        "profile_views_30d": 194,
-        "ssi_score": 37
+        "avg_impressions_per_post": 1064,
+        "posts": 1,
+        "profile_views_30d": 211,
+        "ssi_score": 37,
+        "reach_30d": 766
       },
       {
         "month": "2026-10-01",
@@ -510,54 +2201,240 @@
         "avg_impressions_per_post": 1100,
         "posts": 1,
         "profile_views_30d": 213,
-        "ssi_score": 38
+        "ssi_score": 38,
+        "reach_30d": 792
       }
     ],
     "LOUD-010": [
       {
-        "month": "2026-05-01",
-        "followers": 18959,
-        "engagement_rate_pct": 3.5,
-        "avg_impressions_per_post": 8210,
+        "month": "2024-11-01",
+        "followers": 12343,
+        "engagement_rate_pct": 3.4,
+        "avg_impressions_per_post": 3970,
+        "posts": 1,
+        "profile_views_30d": 552,
+        "ssi_score": 78,
+        "reach_30d": 2858
+      },
+      {
+        "month": "2024-12-01",
+        "followers": 12418,
+        "engagement_rate_pct": 3.4,
+        "avg_impressions_per_post": 4093,
+        "posts": 2,
+        "profile_views_30d": 542,
+        "ssi_score": 78,
+        "reach_30d": 5894
+      },
+      {
+        "month": "2025-01-01",
+        "followers": 12520,
+        "engagement_rate_pct": 3.4,
+        "avg_impressions_per_post": 4091,
         "posts": 9,
-        "profile_views_30d": 1166,
-        "ssi_score": 77
+        "profile_views_30d": 556,
+        "ssi_score": 78,
+        "reach_30d": 26510
+      },
+      {
+        "month": "2025-02-01",
+        "followers": 12777,
+        "engagement_rate_pct": 3.4,
+        "avg_impressions_per_post": 4233,
+        "posts": 9,
+        "profile_views_30d": 572,
+        "ssi_score": 79,
+        "reach_30d": 27430
+      },
+      {
+        "month": "2025-03-01",
+        "followers": 13148,
+        "engagement_rate_pct": 3.5,
+        "avg_impressions_per_post": 4580,
+        "posts": 9,
+        "profile_views_30d": 590,
+        "ssi_score": 79,
+        "reach_30d": 29678
+      },
+      {
+        "month": "2025-04-01",
+        "followers": 13561,
+        "engagement_rate_pct": 3.5,
+        "avg_impressions_per_post": 4657,
+        "posts": 9,
+        "profile_views_30d": 592,
+        "ssi_score": 80,
+        "reach_30d": 30177
+      },
+      {
+        "month": "2025-05-01",
+        "followers": 13920,
+        "engagement_rate_pct": 3.5,
+        "avg_impressions_per_post": 4803,
+        "posts": 9,
+        "profile_views_30d": 629,
+        "ssi_score": 80,
+        "reach_30d": 31123
+      },
+      {
+        "month": "2025-06-01",
+        "followers": 14337,
+        "engagement_rate_pct": 3.5,
+        "avg_impressions_per_post": 5106,
+        "posts": 9,
+        "profile_views_30d": 686,
+        "ssi_score": 80,
+        "reach_30d": 33087
+      },
+      {
+        "month": "2025-07-01",
+        "followers": 14648,
+        "engagement_rate_pct": 3.5,
+        "avg_impressions_per_post": 5310,
+        "posts": 10,
+        "profile_views_30d": 727,
+        "ssi_score": 80,
+        "reach_30d": 38232
+      },
+      {
+        "month": "2025-08-01",
+        "followers": 15063,
+        "engagement_rate_pct": 3.6,
+        "avg_impressions_per_post": 5487,
+        "posts": 10,
+        "profile_views_30d": 803,
+        "ssi_score": 81,
+        "reach_30d": 39506
+      },
+      {
+        "month": "2025-09-01",
+        "followers": 15386,
+        "engagement_rate_pct": 3.6,
+        "avg_impressions_per_post": 5596,
+        "posts": 9,
+        "profile_views_30d": 855,
+        "ssi_score": 81,
+        "reach_30d": 36262
+      },
+      {
+        "month": "2025-10-01",
+        "followers": 15697,
+        "engagement_rate_pct": 3.6,
+        "avg_impressions_per_post": 5750,
+        "posts": 8,
+        "profile_views_30d": 936,
+        "ssi_score": 81,
+        "reach_30d": 33120
+      },
+      {
+        "month": "2025-11-01",
+        "followers": 15996,
+        "engagement_rate_pct": 3.6,
+        "avg_impressions_per_post": 5925,
+        "posts": 8,
+        "profile_views_30d": 999,
+        "ssi_score": 82,
+        "reach_30d": 34128
+      },
+      {
+        "month": "2025-12-01",
+        "followers": 16412,
+        "engagement_rate_pct": 3.6,
+        "avg_impressions_per_post": 6228,
+        "posts": 7,
+        "profile_views_30d": 1083,
+        "ssi_score": 82,
+        "reach_30d": 31389
+      },
+      {
+        "month": "2026-01-01",
+        "followers": 16820,
+        "engagement_rate_pct": 3.7,
+        "avg_impressions_per_post": 6697,
+        "posts": 7,
+        "profile_views_30d": 1171,
+        "ssi_score": 82,
+        "reach_30d": 33753
+      },
+      {
+        "month": "2026-02-01",
+        "followers": 17343,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 7168,
+        "posts": 8,
+        "profile_views_30d": 1210,
+        "ssi_score": 82,
+        "reach_30d": 41288
+      },
+      {
+        "month": "2026-03-01",
+        "followers": 17891,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 7267,
+        "posts": 8,
+        "profile_views_30d": 1235,
+        "ssi_score": 82,
+        "reach_30d": 41858
+      },
+      {
+        "month": "2026-04-01",
+        "followers": 18244,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 7656,
+        "posts": 7,
+        "profile_views_30d": 1265,
+        "ssi_score": 82,
+        "reach_30d": 38586
+      },
+      {
+        "month": "2026-05-01",
+        "followers": 18806,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 7833,
+        "posts": 8,
+        "profile_views_30d": 1275,
+        "ssi_score": 82,
+        "reach_30d": 45118
       },
       {
         "month": "2026-06-01",
         "followers": 19339,
-        "engagement_rate_pct": 3.5,
-        "avg_impressions_per_post": 8859,
-        "posts": 10,
-        "profile_views_30d": 1268,
-        "ssi_score": 79
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 8437,
+        "posts": 8,
+        "profile_views_30d": 1353,
+        "ssi_score": 82,
+        "reach_30d": 48597
       },
       {
         "month": "2026-07-01",
-        "followers": 19815,
-        "engagement_rate_pct": 3.6,
-        "avg_impressions_per_post": 9676,
-        "posts": 11,
-        "profile_views_30d": 1369,
-        "ssi_score": 80
+        "followers": 19758,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 8682,
+        "posts": 8,
+        "profile_views_30d": 1407,
+        "ssi_score": 82,
+        "reach_30d": 50008
       },
       {
         "month": "2026-08-01",
-        "followers": 20391,
-        "engagement_rate_pct": 3.7,
-        "avg_impressions_per_post": 9997,
-        "posts": 11,
-        "profile_views_30d": 1546,
-        "ssi_score": 80
+        "followers": 20231,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 9269,
+        "posts": 8,
+        "profile_views_30d": 1497,
+        "ssi_score": 82,
+        "reach_30d": 53389
       },
       {
         "month": "2026-09-01",
-        "followers": 20867,
-        "engagement_rate_pct": 3.7,
-        "avg_impressions_per_post": 10588,
-        "posts": 10,
-        "profile_views_30d": 1653,
-        "ssi_score": 81
+        "followers": 20773,
+        "engagement_rate_pct": 3.8,
+        "avg_impressions_per_post": 9994,
+        "posts": 9,
+        "profile_views_30d": 1560,
+        "ssi_score": 82,
+        "reach_30d": 64761
       },
       {
         "month": "2026-10-01",
@@ -566,7 +2443,8 @@
         "avg_impressions_per_post": 10600,
         "posts": 9,
         "profile_views_30d": 1700,
-        "ssi_score": 82
+        "ssi_score": 82,
+        "reach_30d": 68688
       }
     ]
   }

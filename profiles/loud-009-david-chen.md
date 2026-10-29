@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-009 |
 | Age | 47 |
-| Location | Seattle, WA |
+| Location | Leeds, UK |
 | Seniority | C-Suite |
 | Industry | Supply Chain & Logistics |
 | Time in role | 3 years |
 | Total experience | 23 years |
-| Education | MBA, University of Washington Foster School; BS Industrial Engineering, West Point |
+| Education | MBA, Leeds University Business School; BSc Management Science, Loughborough University; Royal Military Academy Sandhurst |
 
 ## Career history
 | Company | Role | Years |
@@ -20,7 +20,7 @@
 | Keystone Logistics | Chief Operating Officer | 2023–present |
 | Pacific Freightways | VP, Network Operations | 2016–2023 |
 | Cascade Distribution | Director, Warehouse Operations | 2009–2016 |
-| U.S. Army | Logistics Officer | 2003–2009 |
+| British Army (Royal Logistic Corps) | Logistics Officer | 2003–2009 |
 
 ## Expertise
 - Warehouse automation
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Onboarding | Amplify | 2026-10-20 | $8,500 |
+| Onboarding | Amplify | 2026-10-20 | £6,500 + VAT |

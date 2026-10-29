@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-004 |
 | Age | 44 |
-| Location | Cincinnati, OH |
+| Location | Bristol, UK |
 | Seniority | Director |
 | Industry | Consumer Packaged Goods — Household Care |
 | Time in role | 2 years |
 | Total experience | 19 years |
-| Education | MS Environmental Engineering, Ohio State University; BS Chemical Engineering, Purdue |
+| Education | MSc Environmental Engineering, Imperial College London; BEng Chemical Engineering, University of Bath |
 
 ## Career history
 | Company | Role | Years |
@@ -20,7 +20,7 @@
 | Northvale Home Care | Global Director of Sustainability | 2024–present |
 | Northvale Home Care | Senior Manager, Packaging Innovation | 2019–2024 |
 | Evergreen Packaging Solutions | Packaging Engineer → Program Lead | 2012–2019 |
-| Ohio EPA | Environmental Specialist | 2007–2012 |
+| Environment Agency | Environmental Officer | 2007–2012 |
 
 ## Expertise
 - Circular packaging
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Onboarding | Volume | 2026-10-06 | $4,500 |
+| Onboarding | Volume | 2026-10-06 | £3,500 + VAT |

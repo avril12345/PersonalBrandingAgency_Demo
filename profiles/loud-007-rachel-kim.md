@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-007 |
 | Age | 36 |
-| Location | Austin, TX |
+| Location | Birmingham, UK |
 | Seniority | Director |
 | Industry | Automotive — Electric Vehicles |
 | Time in role | 1 years |
 | Total experience | 13 years |
-| Education | MFA Interaction Design, School of Visual Arts; BA Studio Art, UCLA |
+| Education | MA Information Experience Design, Royal College of Art; BA Graphic Design, Central Saint Martins |
 
 ## Career history
 | Company | Role | Years |
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Volume | 2026-07-01 | $4,500 |
+| Active | Volume | 2026-07-01 | £3,500 + VAT |

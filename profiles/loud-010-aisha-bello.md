@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-010 |
 | Age | 43 |
-| Location | Denver, CO |
+| Location | Edinburgh, UK |
 | Seniority | C-Suite |
 | Industry | Energy — Renewables |
 | Time in role | 2 years |
 | Total experience | 20 years |
-| Education | MS Journalism, Northwestern Medill; BA Political Science, Howard University |
+| Education | MA Journalism, City, University of London; MA Politics, University of Glasgow |
 
 ## Career history
 | Company | Role | Years |
@@ -20,7 +20,7 @@
 | Veridian Energy | Chief Communications Officer | 2024–present |
 | Summit Utilities | VP, Corporate Communications | 2018–2024 |
 | Brightwater PR | Senior Vice President | 2011–2018 |
-| The Denver Ledger | Business Reporter | 2006–2011 |
+| The Edinburgh Courier | Business Reporter | 2006–2011 |
 
 ## Expertise
 - Energy transition storytelling
@@ -52,7 +52,7 @@
 |---|---|---|
 | 8 | 15 | 6 |
 
-**Awards:** PRWeek 40 Under 40 (2019)
+**Awards:** PR 40 Under 40 (2019)
 
 ## Brand goals
 - Be a top voice on clean energy communications
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Amplify | 2025-01-13 | $8,500 |
+| Active | Amplify | 2025-01-13 | £6,500 + VAT |

@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-006 |
 | Age | 49 |
-| Location | Charlotte, NC |
+| Location | London, UK |
 | Seniority | C-Suite |
 | Industry | Financial Services — Fintech |
 | Time in role | 4 years |
 | Total experience | 25 years |
-| Education | MS Computer Science, Georgia Tech; BS Electrical Engineering, University of Lagos |
+| Education | MSc Computer Science, UCL; BEng Electrical Engineering, University of Lagos |
 
 ## Career history
 | Company | Role | Years |
@@ -52,7 +52,7 @@
 |---|---|---|
 | 7 | 11 | 5 |
 
-**Awards:** CIO 100 Honoree (2025)
+**Awards:** Tech Leaders 100 Honoree (2025)
 
 ## Brand goals
 - Be a recognized voice on responsible AI in banking
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Amplify | 2025-06-02 | $8,500 |
+| Active | Amplify | 2025-06-02 | £6,500 + VAT |

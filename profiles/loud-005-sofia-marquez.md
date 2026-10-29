@@ -7,19 +7,19 @@
 |---|---|
 | Client ID | LOUD-005 |
 | Age | 41 |
-| Location | Boston, MA |
+| Location | London, UK |
 | Seniority | C-Suite |
 | Industry | Healthcare Technology |
 | Time in role | 2.5 years |
 | Total experience | 18 years |
-| Education | MBA, Harvard Business School; BS Accounting, Boston College; CPA |
+| Education | MBA, London Business School; BSc Accounting & Finance, LSE; ACA (ICAEW) |
 
 ## Career history
 | Company | Role | Years |
 |---|---|---|
 | Lumen Health | Chief Financial Officer | 2024–present |
 | CareBridge Systems | VP, Finance & FP&A | 2019–2024 |
-| Harborview Capital | Vice President, Healthcare Investment Banking | 2013–2019 |
+| Harbourview Capital | Vice President, Healthcare Investment Banking | 2013–2019 |
 | Whitfield & Grant LLP | Senior Auditor | 2008–2013 |
 
 ## Expertise
@@ -55,7 +55,7 @@
 **Awards:** None yet
 
 ## Brand goals
-- Build credibility ahead of a Series D
+- Build credibility ahead of a Series C raise
 - Be seen as a strategic, not just numbers, CFO
 - Mentor Latina leaders in finance
 
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Volume | 2026-05-12 | $4,500 |
+| Active | Volume | 2026-05-12 | £3,500 + VAT |

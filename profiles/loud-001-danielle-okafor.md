@@ -7,18 +7,18 @@
 |---|---|
 | Client ID | LOUD-001 |
 | Age | 46 |
-| Location | Chicago, IL |
+| Location | London, UK |
 | Seniority | C-Suite |
 | Industry | Consumer Packaged Goods — Packaged Snacks |
 | Time in role | 3 years |
 | Total experience | 22 years |
-| Education | MBA, Kellogg School of Management; BA Economics, University of Michigan |
+| Education | MBA, London Business School; BA Economics, University of Manchester |
 
 ## Career history
 | Company | Role | Years |
 |---|---|---|
 | Hearthstone Foods | Chief Marketing Officer | 2023–present |
-| Golden Prairie Cereals | VP, Brand Marketing | 2017–2023 |
+| Goldenfield Cereals | VP, Brand Marketing | 2017–2023 |
 | Bramble & Co. Confectionery | Senior Brand Manager | 2011–2017 |
 | Crestline Beverages | Assistant Brand Manager → Brand Manager | 2004–2011 |
 
@@ -52,10 +52,10 @@
 |---|---|---|
 | 4 | 9 | 2 |
 
-**Awards:** Ad Age Women to Watch (2025)
+**Awards:** Marketing Leaders: Women to Watch (2025)
 
 ## Brand goals
-- Be recognized as a top-10 CPG CMO voice
+- Be recognised as a top-10 UK CPG CMO voice
 - Land a keynote at a major marketing conference
 - Attract top marketing talent to Hearthstone
 
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Amplify | 2025-09-15 | $8,500 |
+| Active | Amplify | 2025-09-15 | £6,500 + VAT |

@@ -7,12 +7,12 @@
 |---|---|
 | Client ID | LOUD-008 |
 | Age | 55 |
-| Location | Miami, FL |
+| Location | London, UK |
 | Seniority | C-Suite |
 | Industry | Hospitality & Travel |
 | Time in role | 6 years |
 | Total experience | 30 years |
-| Education | MA Organizational Psychology, Columbia University; BA Communications, University of Miami |
+| Education | MSc Organisational Psychology, LSE; MA Communications, University of Edinburgh |
 
 ## Career history
 | Company | Role | Years |
@@ -52,7 +52,7 @@
 |---|---|---|
 | 5 | 7 | 3 |
 
-**Awards:** HR Executive of the Year — Hospitality (2024)
+**Awards:** HR Director of the Year — Hospitality (2024)
 
 ## Brand goals
 - Publish a book on frontline culture
@@ -67,4 +67,4 @@
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| Active | Headline | 2024-11-04 | $15,000 |
+| Active | Headline | 2024-11-04 | £12,000 + VAT |

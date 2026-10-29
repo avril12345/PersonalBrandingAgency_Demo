@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "EM-001",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: Danielle Okafor — October 2026 invoice (£7,800.00)",
+    "date": "2026-10-28T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for Danielle Okafor (Hearthstone Foods) is ready for your approval: £6,500.00 + VAT = £7,800.00. It covers 13 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nHeloise",
+    "related": {
+      "type": "invoice",
+      "id": "I-045"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-002",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: Marcus Lindqvist — October 2026 invoice (£16,140.00)",
+    "date": "2026-10-28T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for Marcus Lindqvist (Pure Ritual) is ready for your approval: £13,450.00 + VAT = £16,140.00. It covers 14 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nHeloise",
+    "related": {
+      "type": "invoice",
+      "id": "I-046"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-003",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: James Adeyemi — October 2026 invoice (£10,800.00)",
+    "date": "2026-10-28T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for James Adeyemi (Brightline Financial) is ready for your approval: £9,000.00 + VAT = £10,800.00. It covers 15 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nHeloise",
+    "related": {
+      "type": "invoice",
+      "id": "I-050"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-004",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: Elena Vasquez-Hart — October 2026 invoice (£15,840.00)",
+    "date": "2026-10-28T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for Elena Vasquez-Hart (Meridian Hotels Group) is ready for your approval: £13,200.00 + VAT = £15,840.00. It covers 16 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nHeloise",
+    "related": {
+      "type": "invoice",
+      "id": "I-052"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-005",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Avril Walters",
+      "email": "avril@loud.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Re: For approval: Sofia Marquez — October 2026 invoice",
+    "date": "2026-10-27T18:20:00",
+    "body": "Hi Lottie,\n\nI've sent this back. Let's hold the October invoice until INV-1032 (August) is paid, and check how many posts actually went out in October before we bill the full retainer.\n\nAvril",
+    "related": {
+      "type": "invoice",
+      "id": "I-049"
+    },
+    "read": false
+  },
+  {
+    "id": "EM-006",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: Priya Raman — October 2026 invoice (£7,800.00)",
+    "date": "2026-10-27T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for Priya Raman (Fieldstone Beverage Co.) is ready for your approval: £6,500.00 + VAT = £7,800.00. It covers 13 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nLottie",
+    "related": {
+      "type": "invoice",
+      "id": "I-047"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-007",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: Sofia Marquez — October 2026 invoice (£4,200.00)",
+    "date": "2026-10-27T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for Sofia Marquez (Lumen Health) is ready for your approval: £3,500.00 + VAT = £4,200.00. It covers 9 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nLottie",
+    "related": {
+      "type": "invoice",
+      "id": "I-049"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-008",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Avril Walters",
+        "email": "avril@loud.example"
+      }
+    ],
+    "subject": "For approval: Aisha Bello — October 2026 invoice (£7,800.00)",
+    "date": "2026-10-27T17:05:00",
+    "body": "Hi Avril,\n\nThe October 2026 invoice for Aisha Bello (Veridian Energy) is ready for your approval: £6,500.00 + VAT = £7,800.00. It covers 13 completed work items.\n\nIt's in the Invoices tab under \"Awaiting approval\".\n\nThanks,\nLottie",
+    "related": {
+      "type": "invoice",
+      "id": "I-054"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-009",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Elena Vasquez-Hart",
+        "email": "elena.vasquezhart@meridianhotels.example"
+      }
+    ],
+    "subject": "Invitation: Quarterly strategy session — Tuesday 17 November, 16:30",
+    "date": "2026-10-27T09:43:00",
+    "body": "Hi Elena,\n\nI've booked our quarterly strategy session for Tuesday 17 November, 16:30–18:00 (LOUD studio, Shoreditch).\n\nAgenda:\n• Q4 results vs goals\n• Positioning refresh\n• 2027 visibility targets\n• Research brief review\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-054"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-010",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Marcus Lindqvist",
+        "email": "marcus.lindqvist@pureritual.example"
+      }
+    ],
+    "subject": "Invitation: Quarterly strategy session — Tuesday 17 November, 11:00",
+    "date": "2026-10-27T09:36:00",
+    "body": "Hi Marcus,\n\nI've booked our quarterly strategy session for Tuesday 17 November, 11:00–12:30 (LOUD studio, Shoreditch).\n\nAgenda:\n• Q4 results vs goals\n• Positioning refresh\n• 2027 visibility targets\n• Research brief review\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-051"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-011",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "James Adeyemi",
+        "email": "james.adeyemi@brightlinefinancial.example"
+      }
+    ],
+    "subject": "Invitation: Quarterly strategy session — Tuesday 17 November, 15:00",
+    "date": "2026-10-27T09:31:00",
+    "body": "Hi James,\n\nI've booked our quarterly strategy session for Tuesday 17 November, 15:00–16:30 (LOUD studio, Shoreditch).\n\nAgenda:\n• Q4 results vs goals\n• Positioning refresh\n• 2027 visibility targets\n• Research brief review\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-053"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-012",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Marcus Lindqvist",
+        "email": "marcus.lindqvist@pureritual.example"
+      }
+    ],
+    "subject": "Invitation: Speaking prep — Thursday 12 November, 09:30",
+    "date": "2026-10-27T09:20:00",
+    "body": "Hi Marcus,\n\nI've booked our speaking prep for Thursday 12 November, 09:30–10:30 (Video call (Google Meet)).\n\nAgenda:\n• Run-through: Beauty Operators Forum — Fireside chat\n• Key messages and stories\n• Audience Q&A prep\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-048"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-013",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Aisha Bello",
+        "email": "aisha.bello@veridianenergy.example"
+      }
+    ],
+    "subject": "Invitation: Speaking prep — Friday 13 November, 09:30",
+    "date": "2026-10-27T09:11:00",
+    "body": "Hi Aisha,\n\nI've booked our speaking prep for Friday 13 November, 09:30–10:30 (Video call (Google Meet)).\n\nAgenda:\n• Run-through: Clean Energy Communicators Summit — Keynote\n• Key messages and stories\n• Audience Q&A prep\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-049"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-014",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Priya Raman",
+        "email": "priya.raman@fieldstonebeverage.example"
+      }
+    ],
+    "subject": "Invitation: Quarterly strategy session — Tuesday 17 November, 13:30",
+    "date": "2026-10-27T09:11:00",
+    "body": "Hi Priya,\n\nI've booked our quarterly strategy session for Tuesday 17 November, 13:30–15:00 (Client office).\n\nAgenda:\n• Q4 results vs goals\n• Positioning refresh\n• 2027 visibility targets\n• Research brief review\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-052"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-015",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Danielle Okafor",
+        "email": "danielle.okafor@hearthstonefoods.example"
+      }
+    ],
+    "subject": "Invitation: Quarterly strategy session — Tuesday 17 November, 09:30",
+    "date": "2026-10-27T09:09:00",
+    "body": "Hi Danielle,\n\nI've booked our quarterly strategy session for Tuesday 17 November, 09:30–11:00 (Client office).\n\nAgenda:\n• Q4 results vs goals\n• Positioning refresh\n• 2027 visibility targets\n• Research brief review\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-050"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-016",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Aisha Bello",
+        "email": "aisha.bello@veridianenergy.example"
+      }
+    ],
+    "subject": "Invitation: Quarterly strategy session — Wednesday 18 November, 09:30",
+    "date": "2026-10-27T09:04:00",
+    "body": "Hi Aisha,\n\nI've booked our quarterly strategy session for Wednesday 18 November, 09:30–11:00 (LOUD studio, Shoreditch).\n\nAgenda:\n• Q4 results vs goals\n• Positioning refresh\n• 2027 visibility targets\n• Research brief review\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-055"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-017",
+    "mailbox": "T1",
+    "folder": "inbox",
+    "from": {
+      "name": "Marcus Lindqvist",
+      "email": "marcus.lindqvist@pureritual.example"
+    },
+    "to": [
+      {
+        "name": "Heloise Archer",
+        "email": "heloise@loud.example"
+      }
+    ],
+    "subject": "Re: November drafts",
+    "date": "2026-10-27T08:12:00",
+    "body": "Morning Heloise,\n\nI like the direction on the personal stories. Happy to try the two video posts. Can we shoot them the same day as the photoshoot?\n\nMarcus",
+    "related": {
+      "type": "client",
+      "id": "LOUD-002"
+    },
+    "read": false
+  },
+  {
+    "id": "EM-018",
+    "mailbox": "T1",
+    "folder": "inbox",
+    "from": {
+      "name": "Office of Elena Vasquez-Hart",
+      "email": "ea.office@meridianhotels.example"
+    },
+    "to": [
+      {
+        "name": "Heloise Archer",
+        "email": "heloise@loud.example"
+      }
+    ],
+    "subject": "Speaking prep — Hospitality People Summit",
+    "date": "2026-10-26T14:30:00",
+    "body": "Hi Heloise,\n\nElena can do the run-through on the 4th as planned. She'd like the slide notes a day before.\n\nBest,\nEA to the Chief People Officer",
+    "related": {
+      "type": "client",
+      "id": "LOUD-008"
+    },
+    "read": false
+  },
+  {
+    "id": "EM-019",
+    "mailbox": "T1",
+    "folder": "inbox",
+    "from": {
+      "name": "Avril Walters",
+      "email": "avril@loud.example"
+    },
+    "to": [
+      {
+        "name": "Heloise Archer",
+        "email": "heloise@loud.example"
+      }
+    ],
+    "subject": "Q3 VAT return — Jul–Sep",
+    "date": "2026-10-26T09:00:00",
+    "body": "Hi Heloise,\n\nThe Jul–Sep VAT return is due 7 November. Could you check every September invoice is marked sent and all receipts are uploaded by Monday? I'll file from the Finance tab.\n\nThanks,\nAvril",
+    "related": null,
+    "read": false
+  },
+  {
+    "id": "EM-020",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Rachel Kim",
+      "email": "rachel.kim@orbitalmobility.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Newsletter idea",
+    "date": "2026-10-25T19:41:00",
+    "body": "Hi Lottie,\n\nBeen thinking about the design newsletter. What would the upgrade look like cost-wise?\n\nRachel",
+    "related": {
+      "type": "client",
+      "id": "LOUD-007"
+    },
+    "read": false
+  },
+  {
+    "id": "EM-021",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Sofia Marquez",
+        "email": "sofia.marquez@lumenhealth.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 11:00",
+    "date": "2026-10-25T09:49:00",
+    "body": "Hi Sofia,\n\nI've booked our monthly review for Friday 30 October, 11:00–11:45 (Video call (Google Meet)).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Any additional support\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-039"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-022",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Priya Raman",
+        "email": "priya.raman@fieldstonebeverage.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 09:30",
+    "date": "2026-10-25T09:48:00",
+    "body": "Hi Priya,\n\nI've booked our monthly review for Friday 30 October, 09:30–10:15 (Video call (Google Meet)).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Prep for quarterly strategy session\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-037"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-023",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Elena Vasquez-Hart",
+        "email": "elena.vasquezhart@meridianhotels.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 15:00",
+    "date": "2026-10-25T09:33:00",
+    "body": "Hi Elena,\n\nI've booked our monthly review for Friday 30 October, 15:00–15:45 (Client office).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Prep for quarterly strategy session\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-042"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-024",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Elena Vasquez-Hart",
+        "email": "elena.vasquezhart@meridianhotels.example"
+      }
+    ],
+    "subject": "Invitation: Speaking prep — Wednesday 4 November, 09:30",
+    "date": "2026-10-25T09:27:00",
+    "body": "Hi Elena,\n\nI've booked our speaking prep for Wednesday 4 November, 09:30–10:30 (Video call (Google Meet)).\n\nAgenda:\n• Run-through: Hospitality People Summit — Keynote\n• Key messages and stories\n• Audience Q&A prep\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-047"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-025",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Marcus Lindqvist",
+        "email": "marcus.lindqvist@pureritual.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 11:00",
+    "date": "2026-10-25T09:22:00",
+    "body": "Hi Marcus,\n\nI've booked our monthly review for Friday 30 October, 11:00–11:45 (Video call (Google Meet)).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Prep for quarterly strategy session\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-038"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-026",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Aisha Bello",
+        "email": "aisha.bello@veridianenergy.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 15:00",
+    "date": "2026-10-25T09:21:00",
+    "body": "Hi Aisha,\n\nI've booked our monthly review for Friday 30 October, 15:00–15:45 (Client office).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Prep for quarterly strategy session\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-043"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-027",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Rachel Kim",
+        "email": "rachel.kim@orbitalmobility.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 13:30",
+    "date": "2026-10-25T09:19:00",
+    "body": "Hi Rachel,\n\nI've booked our monthly review for Friday 30 October, 13:30–14:15 (LOUD studio, Shoreditch).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Any additional support\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-041"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-028",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "David Chen",
+        "email": "david.chen@keystonelogistics.example"
+      }
+    ],
+    "subject": "Invitation: Profile audit review — Friday 30 October, 16:30",
+    "date": "2026-10-25T09:16:00",
+    "body": "Hi David,\n\nI've booked our profile audit review for Friday 30 October, 16:30–17:15 (Video call (Google Meet)).\n\nAgenda:\n• Profile changes\n• First month content plan\n• Media angles\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-044"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-029",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Tom Whitaker",
+        "email": "tom.whitaker@northvalehomecare.example"
+      }
+    ],
+    "subject": "Invitation: First content review — Tuesday 3 November, 09:30",
+    "date": "2026-10-25T09:15:00",
+    "body": "Hi Tom,\n\nI've booked our first content review for Tuesday 3 November, 09:30–10:15 (Video call (Google Meet)).\n\nAgenda:\n• Profile changes\n• First month content plan\n• Media angles\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nLottie\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-046"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-030",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "James Adeyemi",
+        "email": "james.adeyemi@brightlinefinancial.example"
+      }
+    ],
+    "subject": "Invitation: Speaking prep — Monday 2 November, 09:30",
+    "date": "2026-10-25T09:12:00",
+    "body": "Hi James,\n\nI've booked our speaking prep for Monday 2 November, 09:30–10:30 (Video call (Google Meet)).\n\nAgenda:\n• Run-through: FinTech Builders Conference, London — Keynote\n• Key messages and stories\n• Audience Q&A prep\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-045"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-031",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "James Adeyemi",
+        "email": "james.adeyemi@brightlinefinancial.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 13:30",
+    "date": "2026-10-25T09:09:00",
+    "body": "Hi James,\n\nI've booked our monthly review for Friday 30 October, 13:30–14:15 (Client office).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Prep for quarterly strategy session\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-040"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-032",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Danielle Okafor",
+        "email": "danielle.okafor@hearthstonefoods.example"
+      }
+    ],
+    "subject": "Invitation: Monthly review — Friday 30 October, 09:30",
+    "date": "2026-10-25T09:07:00",
+    "body": "Hi Danielle,\n\nI've booked our monthly review for Friday 30 October, 09:30–10:15 (LOUD studio, Shoreditch).\n\nAgenda:\n• October results\n• November plan\n• Visibility pipeline\n• Prep for quarterly strategy session\n\nA calendar invite is attached. Let me know if the time doesn't work.\n\nBest,\nHeloise\nLOUD",
+    "related": {
+      "type": "meeting",
+      "id": "M-036"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-033",
+    "mailbox": "T1",
+    "folder": "inbox",
+    "from": {
+      "name": "Hearthstone Foods Ltd Accounts",
+      "email": "accounts@hearthstonefoods.example"
+    },
+    "to": [
+      {
+        "name": "Heloise Archer",
+        "email": "heloise@loud.example"
+      }
+    ],
+    "subject": "Remittance advice — INV-1037",
+    "date": "2026-10-24T11:02:00",
+    "body": "Hello,\n\nPayment of £7,800.00 for invoice INV-1037 has been made by BACS today (ref HEARTHSTONE-202609).\n\nRegards,\nAccounts Payable",
+    "related": {
+      "type": "invoice",
+      "id": "I-037"
+    },
+    "read": false
+  },
+  {
+    "id": "EM-034",
+    "mailbox": "T1",
+    "folder": "inbox",
+    "from": {
+      "name": "David Chen",
+      "email": "david.chen@keystonelogistics.example"
+    },
+    "to": [
+      {
+        "name": "Heloise Archer",
+        "email": "heloise@loud.example"
+      }
+    ],
+    "subject": "Re: Welcome to LOUD — next steps",
+    "date": "2026-10-23T07:55:00",
+    "body": "Heloise — thanks for the welcome pack. I've filled in the questionnaire. Mornings before 8 are best for calls.\n\nDavid",
+    "related": {
+      "type": "client",
+      "id": "LOUD-009"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-035",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Aisha Bello",
+      "email": "aisha.bello@veridianenergy.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Op-ed syndication 🎉",
+    "date": "2026-10-20T12:05:00",
+    "body": "Lottie, the op-ed has now been picked up four times. Thank you! Let's talk newsletter growth next week.\n\nAisha",
+    "related": {
+      "type": "client",
+      "id": "LOUD-010"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-036",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Orbital Mobility Ltd Accounts",
+      "email": "accounts@orbitalmobility.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Remittance advice — INV-1042",
+    "date": "2026-10-17T11:02:00",
+    "body": "Hello,\n\nPayment of £4,200.00 for invoice INV-1042 has been made by BACS today (ref ORBITAL-202609).\n\nRegards,\nAccounts Payable",
+    "related": {
+      "type": "invoice",
+      "id": "I-042"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-037",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Tom Whitaker",
+      "email": "tom.whitaker@northvalehomecare.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Re: Draft 4",
+    "date": "2026-10-16T16:20:00",
+    "body": "Thanks Lottie, the revised version works. Let's hold the refill numbers until Q4.\n\nTom",
+    "related": {
+      "type": "client",
+      "id": "LOUD-004"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-038",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Veridian Energy Ltd Accounts",
+      "email": "accounts@veridianenergy.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Remittance advice — INV-1044",
+    "date": "2026-10-16T11:02:00",
+    "body": "Hello,\n\nPayment of £7,800.00 for invoice INV-1044 has been made by BACS today (ref VERIDIAN-202609).\n\nRegards,\nAccounts Payable",
+    "related": {
+      "type": "invoice",
+      "id": "I-044"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-039",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Fieldstone Beverage Co. Ltd Accounts",
+      "email": "accounts@fieldstonebeverage.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Remittance advice — INV-1039",
+    "date": "2026-10-10T11:02:00",
+    "body": "Hello,\n\nPayment of £7,800.00 for invoice INV-1039 has been made by BACS today (ref FIELDSTONE-202609).\n\nRegards,\nAccounts Payable",
+    "related": {
+      "type": "invoice",
+      "id": "I-039"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-040",
+    "mailbox": "T1",
+    "folder": "inbox",
+    "from": {
+      "name": "Brightline Financial Ltd Accounts",
+      "email": "accounts@brightlinefinancial.example"
+    },
+    "to": [
+      {
+        "name": "Heloise Archer",
+        "email": "heloise@loud.example"
+      }
+    ],
+    "subject": "Remittance advice — INV-1041",
+    "date": "2026-10-09T11:02:00",
+    "body": "Hello,\n\nPayment of £7,800.00 for invoice INV-1041 has been made by BACS today (ref BRIGHTLINE-202609).\n\nRegards,\nAccounts Payable",
+    "related": {
+      "type": "invoice",
+      "id": "I-041"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-041",
+    "mailbox": "T2",
+    "folder": "inbox",
+    "from": {
+      "name": "Lumen Health Accounts",
+      "email": "accounts@lumenhealth.example"
+    },
+    "to": [
+      {
+        "name": "Lottie Gallagher",
+        "email": "lottie@loud.example"
+      }
+    ],
+    "subject": "Re: Payment reminder — INV-1032",
+    "date": "2026-10-06T09:40:00",
+    "body": "Hi Lottie,\n\nApologies for the delay. Our system needs a PO number before we can pay INV-1032. Could you reissue it with PO-LH-4471?\n\nThanks,\nAccounts Payable, Lumen Health",
+    "related": {
+      "type": "invoice",
+      "id": "I-032"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-042",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Rachel Kim",
+        "email": "rachel.kim@orbitalmobility.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-10-01T10:15:00",
+    "body": "Hi Rachel,\n\nThanks for your time yesterday. Key takeaways:\n• Fastest-growing client: +27% followers in six months\n• Concern: Wants to reach a broader tech audience beyond designers\n• Next: Scope a design newsletter (possible upgrade to Amplify)\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Scope a design newsletter (possible upgrade to Amplify) (Lottie, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nLottie",
+    "related": {
+      "type": "meeting",
+      "id": "M-022"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-043",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Elena Vasquez-Hart",
+        "email": "elena.vasquezhart@meridianhotels.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-10-01T10:15:00",
+    "body": "Hi Elena,\n\nThanks for your time yesterday. Key takeaways:\n• Two literary agents interested in the frontline culture book\n• Concern: Posting volume dipped while she travels between properties\n• Next: Capture voice notes on site visits; turn them into posts within 48 hours\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Capture voice notes on site visits; turn them into posts within 48 hours (Heloise, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nHeloise",
+    "related": {
+      "type": "meeting",
+      "id": "M-023"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-044",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Aisha Bello",
+        "email": "aisha.bello@veridianenergy.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-10-01T10:15:00",
+    "body": "Hi Aisha,\n\nThanks for your time yesterday. Key takeaways:\n• National Energy Desk op-ed syndicated four times\n• Concern: Wants the newsletter to reach 10K subscribers\n• Next: Weekly newsletter cadence plus cross-promotion from podcast appearances\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Weekly newsletter cadence plus cross-promotion from podcast appearances (Lottie, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nLottie",
+    "related": {
+      "type": "meeting",
+      "id": "M-024"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-045",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Hearthstone Foods Ltd Accounts",
+        "email": "accounts@hearthstonefoods.example"
+      }
+    ],
+    "subject": "Invoice INV-1037 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1037 for September 2026: £7,800.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nHeloise Archer\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-037"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-046",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Pure Ritual Ltd Accounts",
+        "email": "accounts@pureritual.example"
+      }
+    ],
+    "subject": "Invoice INV-1038 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1038 for September 2026: £14,400.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nHeloise Archer\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-038"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-047",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Fieldstone Beverage Co. Ltd Accounts",
+        "email": "accounts@fieldstonebeverage.example"
+      }
+    ],
+    "subject": "Invoice INV-1039 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1039 for September 2026: £7,800.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nLottie Gallagher\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-039"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-048",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Lumen Health Ltd Accounts",
+        "email": "accounts@lumenhealth.example"
+      }
+    ],
+    "subject": "Invoice INV-1040 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1040 for September 2026: £4,200.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nLottie Gallagher\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-040"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-049",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Brightline Financial Ltd Accounts",
+        "email": "accounts@brightlinefinancial.example"
+      }
+    ],
+    "subject": "Invoice INV-1041 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1041 for September 2026: £7,800.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nHeloise Archer\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-041"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-050",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Orbital Mobility Ltd Accounts",
+        "email": "accounts@orbitalmobility.example"
+      }
+    ],
+    "subject": "Invoice INV-1042 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1042 for September 2026: £4,200.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nLottie Gallagher\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-042"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-051",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Meridian Hotels Group plc Accounts",
+        "email": "accounts@meridianhotels.example"
+      }
+    ],
+    "subject": "Invoice INV-1043 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1043 for September 2026: £16,560.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nHeloise Archer\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-043"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-052",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Veridian Energy Ltd Accounts",
+        "email": "accounts@veridianenergy.example"
+      }
+    ],
+    "subject": "Invoice INV-1044 from LOUD — September 2026",
+    "date": "2026-09-30T15:30:00",
+    "body": "Dear Accounts team,\n\nPlease find attached invoice INV-1044 for September 2026: £7,800.00 including VAT, due by 30 Oct.\n\nA breakdown of the work completed this month is included on the invoice.\n\nKind regards,\nLottie Gallagher\nLOUD Personal Branding Ltd",
+    "related": {
+      "type": "invoice",
+      "id": "I-044"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-053",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Danielle Okafor",
+        "email": "danielle.okafor@hearthstonefoods.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-09-30T10:15:00",
+    "body": "Hi Danielle,\n\nThanks for your time yesterday. Key takeaways:\n• Gen Z snacking carousel was her best post of the year\n• Concern: Wants more inbound from senior marketing talent, not just reach\n• Next: Lean into the 'heritage brand reinvention' story ahead of the Brand Forward keynote decision\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Lean into the 'heritage brand reinvention' story ahead of the Brand Forward keynote decision (Heloise, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nHeloise",
+    "related": {
+      "type": "meeting",
+      "id": "M-017"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-054",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "Marcus Lindqvist",
+        "email": "marcus.lindqvist@pureritual.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-09-30T10:15:00",
+    "body": "Hi Marcus,\n\nThanks for your time yesterday. Key takeaways:\n• Founders & Operators podcast drove the biggest profile-view spike since joining\n• Concern: Engagement flat despite large audience — announcement posts underperform\n• Next: Shift to personal CEO stories; test two short videos in November\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Shift to personal CEO stories; test two short videos in November (Heloise, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nHeloise",
+    "related": {
+      "type": "meeting",
+      "id": "M-018"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-055",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Priya Raman",
+        "email": "priya.raman@fieldstonebeverage.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-09-30T10:15:00",
+    "body": "Hi Priya,\n\nThanks for your time yesterday. Key takeaways:\n• Newsletter passed 1,400 subscribers; posts averaging 4.6% engagement\n• Concern: Wants trade-press quotes to match her LinkedIn growth\n• Next: Package insight-to-innovation framework as a downloadable one-pager for press\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Package insight-to-innovation framework as a downloadable one-pager for press (Lottie, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nLottie",
+    "related": {
+      "type": "meeting",
+      "id": "M-019"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-056",
+    "mailbox": "T2",
+    "folder": "sent",
+    "from": {
+      "name": "Lottie Gallagher",
+      "email": "lottie@loud.example"
+    },
+    "to": [
+      {
+        "name": "Sofia Marquez",
+        "email": "sofia.marquez@lumenhealth.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-09-30T10:15:00",
+    "body": "Hi Sofia,\n\nThanks for your time yesterday. Key takeaways:\n• Latinas in Finance UK panel brought 140 new followers in a week\n• Concern: Posting cadence slipped to 2/month during board season\n• Next: Batch-approve drafts every other Friday; pre-write 6 evergreen posts\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Batch-approve drafts every other Friday; pre-write 6 evergreen posts (Lottie, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nLottie",
+    "related": {
+      "type": "meeting",
+      "id": "M-020"
+    },
+    "read": true
+  },
+  {
+    "id": "EM-057",
+    "mailbox": "T1",
+    "folder": "sent",
+    "from": {
+      "name": "Heloise Archer",
+      "email": "heloise@loud.example"
+    },
+    "to": [
+      {
+        "name": "James Adeyemi",
+        "email": "james.adeyemi@brightlinefinancial.example"
+      }
+    ],
+    "subject": "Follow-up: September review — notes & actions",
+    "date": "2026-09-30T10:15:00",
+    "body": "Hi James,\n\nThanks for your time yesterday. Key takeaways:\n• Banking Technology Review op-ed was widely shared by peers\n• Concern: Wants an advisory board seat — needs governance credibility\n• Next: Keynote follow-up content and a responsible-AI governance series\n\nActions:\n• October content calendar to client for approval (Lottie, by 2 Oct)\n• Keynote follow-up content and a responsible-AI governance series (Heloise, by 31 Oct)\n• Send September analytics report (Lottie, by 5 Oct)\n\nBest,\nHeloise",
+    "related": {
+      "type": "meeting",
+      "id": "M-021"
+    },
+    "read": true
+  }
+]

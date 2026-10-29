@@ -1,0 +1,38 @@
+{
+  "legal_name": "LOUD Personal Branding Ltd",
+  "trading_name": "LOUD",
+  "company_number": "15000000 (demo)",
+  "vat_number": "GB 123 4567 89 (demo)",
+  "registered_office": ["Unit 4, 22 Example Yard", "London", "E1 6XX"],
+  "email": "accounts@loud.example",
+  "phone": "+44 20 0000 0000",
+  "website": "loud.example",
+  "bank": { "name": "Demo Bank plc", "account_name": "LOUD Personal Branding Ltd", "sort_code": "00-00-00", "account_number": "00000000" },
+  "founder": { "id": "F1", "name": "Avril Walters", "role": "Founder & Managing Director", "email": "avril@loud.example" },
+  "currency": "GBP",
+  "vat": {
+    "registered": true,
+    "standard_rate": 0.2,
+    "accounting_basis": "invoice",
+    "quarter_end_months": [3, 6, 9, 12],
+    "notes": "Standard VAT accounting (invoice basis). Switch accounting_basis to \"cash\" if LOUD joins the Cash Accounting Scheme (turnover under £1.35m)."
+  },
+  "financial_year_end": "03-31",
+  "incorporation_date": "2023-02-14",
+  "payment_terms_days": 30,
+  "invoice_prefix": "INV",
+  "demo_today": "2026-10-28",
+  "service_tiers": {
+    "Volume": { "monthly_retainer_gbp": 3500, "posts_per_month": 8, "summary": "LinkedIn ghostwriting (8 posts/mo), profile optimisation, monthly analytics report" },
+    "Amplify": { "monthly_retainer_gbp": 6500, "posts_per_month": 10, "summary": "Volume + thought-leadership articles, newsletter, media pitching, quarterly strategy session" },
+    "Headline": { "monthly_retainer_gbp": 12000, "posts_per_month": 12, "summary": "Amplify + speaking placements, podcast tour, executive photography/video, crisis-ready comms" }
+  },
+  "rate_card": [
+    { "item": "Brand discovery & onboarding (one-off)", "price_gbp": 2500 },
+    { "item": "Keynote speechwriting", "price_gbp": 2500 },
+    { "item": "Executive photoshoot & retouching", "price_gbp": 1450 },
+    { "item": "Media training (half day)", "price_gbp": 1800 },
+    { "item": "Additional op-ed / long-form article", "price_gbp": 950 },
+    { "item": "Additional strategy hours (per hour)", "price_gbp": 200 }
+  ]
+}

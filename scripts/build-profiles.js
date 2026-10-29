@@ -41,7 +41,7 @@ const columns = [
   ["status", (c) => c.engagement.status],
   ["tier", (c) => c.engagement.tier],
   ["start_date", (c) => c.engagement.start_date],
-  ["monthly_retainer_usd", (c) => c.engagement.monthly_retainer_usd],
+  ["monthly_retainer_gbp", (c) => c.engagement.monthly_retainer_gbp],
 ];
 const csv = [columns.map(([h]) => h).join(",")]
   .concat(clients.map((c) => columns.map(([, get]) => csvCell(get(c))).join(",")))
@@ -116,7 +116,7 @@ ${list(c.content_pillars)}
 ## LOUD engagement
 | Status | Tier | Start date | Monthly retainer |
 |---|---|---|---|
-| ${c.engagement.status} | ${c.engagement.tier} | ${c.engagement.start_date} | $${fmt(c.engagement.monthly_retainer_usd)} |
+| ${c.engagement.status} | ${c.engagement.tier} | ${c.engagement.start_date} | £${fmt(c.engagement.monthly_retainer_gbp)} + VAT |
 `;
   fs.writeFileSync(path.join(profilesDir, `${slug(c)}.md`), md);
 }
@@ -137,7 +137,7 @@ ${clients
 
 **Totals:** ${clients.length} clients · ${clients.filter((c) => c.is_cpg).length} CPG · ${fmt(
   clients.reduce((s, c) => s + c.linkedin.followers, 0)
-)} combined LinkedIn followers · $${fmt(clients.reduce((s, c) => s + c.engagement.monthly_retainer_usd, 0))} monthly recurring revenue
+)} combined LinkedIn followers · £${fmt(clients.reduce((s, c) => s + c.engagement.monthly_retainer_gbp, 0))} monthly recurring revenue (excl. VAT)
 `;
 fs.writeFileSync(path.join(profilesDir, "README.md"), roster);
 
